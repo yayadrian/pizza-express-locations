@@ -6534,9 +6534,9 @@
     "link": "/fulham-broadway-shopping-centre",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
-    "isOpenForDelivery": true,
-    "isOpenForDineIn": true,
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -6573,7 +6573,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": false,
+    "temporarilyClosed": true,
     "enableBooking": false,
     "id": "6b28fb51-095e-4288-9727-71bd165ae5be",
     "restaurantId": 3221,
@@ -6618,18 +6618,7 @@
       "Type": 2,
       "Style": ""
     },
-    "deliveroo": {
-      "Anchor": "",
-      "Class": "",
-      "Text": "",
-      "Query": "",
-      "Title": "",
-      "Url": "https://pizzaexpress.order.deliveroo.co.uk/menu/london/fulham/pizzaexpress-fulham-broadway",
-      "Target": "",
-      "TargetId": "00000000-0000-0000-0000-000000000000",
-      "Type": 2,
-      "Style": ""
-    },
+    "deliveroo": null,
     "uberEats": {
       "Anchor": "",
       "Class": "",
@@ -6642,18 +6631,7 @@
       "Type": 2,
       "Style": ""
     },
-    "justEat": {
-      "Anchor": "",
-      "Class": "",
-      "Text": "",
-      "Query": "",
-      "Title": "",
-      "Url": "https://www.just-eat.co.uk/restaurants-pizzaexpress-fulham-broadway-shopping-centre-fulham",
-      "Target": "",
-      "TargetId": "00000000-0000-0000-0000-000000000000",
-      "Type": 2,
-      "Style": ""
-    },
+    "justEat": null,
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -6684,36 +6662,7 @@
         "value": "/-/media/Images/PE-Icons-Tags-Logos-Flags/Facility-Icons/iconwifi_v2.ashx"
       }
     ],
-    "openingHours": [
-      {
-        "label": "Mon",
-        "value": "11:30-22:00"
-      },
-      {
-        "label": "Tues",
-        "value": "11:30-22:00"
-      },
-      {
-        "label": "Wed",
-        "value": "11:30-22:00"
-      },
-      {
-        "label": "Thurs",
-        "value": "11:30-23:00"
-      },
-      {
-        "label": "Fri",
-        "value": "11:30-23:00"
-      },
-      {
-        "label": "Sat",
-        "value": "11:30-23:00"
-      },
-      {
-        "label": "Sun",
-        "value": "11:30-22:00"
-      }
-    ],
+    "openingHours": [],
     "DisabledAccess": true,
     "Favourite": false,
     "IsClosed": false,
@@ -37918,9 +37867,9 @@
     "link": "/canterbury-best-lane",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
-    "isOpenForDelivery": true,
-    "isOpenForDineIn": true,
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -37957,7 +37906,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": false,
+    "temporarilyClosed": true,
     "enableBooking": false,
     "id": "2d806f64-383b-44d3-bb0c-5b79a4f5062f",
     "restaurantId": 461,
@@ -42248,9 +42197,9 @@
     "link": "/cirencester-castle-street",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
+    "isOpenForCollection": false,
     "isOpenForDelivery": false,
-    "isOpenForDineIn": true,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -42287,7 +42236,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": false,
+    "temporarilyClosed": true,
     "enableBooking": false,
     "id": "3f8493a7-16ac-4414-8a30-0bb2178b973f",
     "restaurantId": 2731,
@@ -60466,9 +60415,9 @@
     "link": "/jersey-st-brelade",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
+    "isOpenForCollection": false,
     "isOpenForDelivery": false,
-    "isOpenForDineIn": true,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -60505,7 +60454,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": false,
+    "temporarilyClosed": true,
     "enableBooking": false,
     "id": "3bea6a8f-c81c-482f-9cf7-7406e6de3237",
     "restaurantId": 5020,
