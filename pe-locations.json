@@ -3106,10 +3106,6 @@
         "value": "/-/media/Images/PE-Icons-Tags-Logos-Flags/Facility-Icons/icondisabledaccess.ashx"
       },
       {
-        "label": "Disabled Toilet",
-        "value": "/-/media/Images/PE-Icons-Tags-Logos-Flags/Facility-Icons/icondisabledtoilets.ashx"
-      },
-      {
         "label": "Outdoor dining",
         "value": "/-/media/Images/PE-Icons-Tags-Logos-Flags/Facility-Icons/iconoutdoorcapactiy.ashx"
       },
@@ -47518,15 +47514,15 @@
     "latitude": 52.93364,
     "longitude": -1.12929,
     "image": {
-      "Alt": "West Bridgford",
+      "Alt": "PizzaExpress West Bridgford",
       "Border": "",
       "Class": "",
       "Height": 680,
       "HSpace": 0,
-      "Src": "/-/media/Images/App-Images/westbridgfordapp.ashx",
+      "Src": "/-/media/2023-Images/Feb/PizzaExpress_WestBridgford_Interior_11.ashx",
       "VSpace": 0,
       "Width": 829,
-      "MediaId": "ff56044d-fcf8-436d-a760-ce08a7091d67",
+      "MediaId": "e96b83ea-a222-4555-8d8d-155714b25c04",
       "Title": "",
       "Language": {
         "Name": "en"
@@ -53810,15 +53806,15 @@
     "latitude": 53.42491,
     "longitude": -2.23551,
     "image": {
-      "Alt": "Didsbury",
+      "Alt": "PizzaExpress Didsbury",
       "Border": "",
       "Class": "",
       "Height": 680,
       "HSpace": 0,
-      "Src": "/-/media/Images/App-Images/didsburyapp.ashx",
+      "Src": "/-/media/2023-Images/Feb/PizzaExpress_Didsbury_Interior_13.ashx",
       "VSpace": 0,
       "Width": 829,
-      "MediaId": "e2ed9697-20a3-4a86-8c31-64fd95138898",
+      "MediaId": "b0ac952f-26f5-4e97-a41d-88eb3f3389c6",
       "Title": "",
       "Language": {
         "Name": "en"
