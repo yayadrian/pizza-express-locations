@@ -6527,150 +6527,6 @@
     "OrderTalkId": null
   },
   {
-    "link": "/fulham-broadway-shopping-centre",
-    "ClosedDate": "0001-01-01T00:00:00",
-    "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
-    "collectionLink": {
-      "Anchor": "",
-      "Class": "",
-      "Text": "",
-      "Query": "",
-      "Title": "",
-      "Url": "https://order.pizzaexpress.com/menu/3221",
-      "Target": "",
-      "TargetId": "00000000-0000-0000-0000-000000000000",
-      "Type": 2,
-      "Style": ""
-    },
-    "deliveryLink": {
-      "Anchor": "",
-      "Class": "",
-      "Text": "",
-      "Query": "",
-      "Title": "",
-      "Url": "/delivery",
-      "Target": "",
-      "TargetId": "00000000-0000-0000-0000-000000000000",
-      "Type": 2,
-      "Style": ""
-    },
-    "dineInLink": {
-      "Anchor": "",
-      "Class": "",
-      "Text": "Fulham Broadway Shopping Centre",
-      "Query": "",
-      "Title": "",
-      "Url": "/fulham-broadway-shopping-centre",
-      "Target": "",
-      "TargetId": "6b28fb51-095e-4288-9727-71bd165ae5be",
-      "Type": 4,
-      "Style": ""
-    },
-    "temporarilyClosed": true,
-    "enableBooking": false,
-    "id": "6b28fb51-095e-4288-9727-71bd165ae5be",
-    "restaurantId": 3221,
-    "name": "Fulham Broadway Shopping Centre",
-    "Address1": "4 Fulham Broadway Retail Centre",
-    "Address2": "",
-    "Address3": "",
-    "Location": "London",
-    "Region": "",
-    "Postcode": "SW6 1BW",
-    "fullAddress": "4 Fulham Broadway Retail Centre, London, SW6 1BW",
-    "phone": "020 7381 1700",
-    "ManagerName": "",
-    "Email": "FulhamBroadway.Manager@pizzaexpress.com",
-    "latitude": 51.48055,
-    "longitude": -0.1944,
-    "image": {
-      "Alt": "Knife and fork and glass",
-      "Border": "",
-      "Class": "",
-      "Height": 680,
-      "HSpace": 0,
-      "Src": "/-/media/Images/App-Images/829x680lifestyle1app.ashx",
-      "VSpace": 0,
-      "Width": 829,
-      "MediaId": "e1705ef3-d7b8-4206-8b0e-c7197249e099",
-      "Title": "",
-      "Language": {
-        "Name": "en"
-      },
-      "MediaExists": true
-    },
-    "clickAndCollect": {
-      "Anchor": "",
-      "Class": "",
-      "Text": "",
-      "Query": "",
-      "Title": "",
-      "Url": "https://order.pizzaexpress.com/menu/3221",
-      "Target": "",
-      "TargetId": "00000000-0000-0000-0000-000000000000",
-      "Type": 2,
-      "Style": ""
-    },
-    "deliveroo": null,
-    "uberEats": {
-      "Anchor": "",
-      "Class": "",
-      "Text": "",
-      "Query": "",
-      "Title": "",
-      "Url": "",
-      "Target": "",
-      "TargetId": "00000000-0000-0000-0000-000000000000",
-      "Type": 2,
-      "Style": ""
-    },
-    "justEat": null,
-    "facilities": [
-      {
-        "label": "Baby Facilities",
-        "value": "/-/media/Images/PE-Icons-Tags-Logos-Flags/Facility-Icons/iconbabyfacilities.ashx"
-      },
-      {
-        "label": "Collection",
-        "value": "/-/media/Images/PE-Icons-Tags-Logos-Flags/Facility-Icons/icontakeaway.ashx"
-      },
-      {
-        "label": "Delivery",
-        "value": "/-/media/Images/PE-Icons-Tags-Logos-Flags/Facility-Icons/icondelivery.ashx"
-      },
-      {
-        "label": "Disabled Access",
-        "value": "/-/media/Images/PE-Icons-Tags-Logos-Flags/Facility-Icons/icondisabledaccess.ashx"
-      },
-      {
-        "label": "Disabled Toilet",
-        "value": "/-/media/Images/PE-Icons-Tags-Logos-Flags/Facility-Icons/icondisabledtoilets.ashx"
-      },
-      {
-        "label": "Pizza Making Parties",
-        "value": "/-/media/Images/PE-Icons-Tags-Logos-Flags/Facility-Icons/24px_black_Parties_v3.ashx"
-      },
-      {
-        "label": "WiFi",
-        "value": "/-/media/Images/PE-Icons-Tags-Logos-Flags/Facility-Icons/iconwifi_v2.ashx"
-      }
-    ],
-    "openingHours": [],
-    "DisabledAccess": true,
-    "Favourite": false,
-    "IsClosed": false,
-    "RestaurantClosedNotification": null,
-    "UrlName": "fulham-broadway-shopping-centre",
-    "distance": 3.2810586664390304,
-    "DeliverooOn": false,
-    "ClickAndCollectOn": false,
-    "DeliverooUrl": null,
-    "OrderTalkId": null
-  },
-  {
     "link": "/clapham-abbeville-road",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
@@ -60411,9 +60267,9 @@
     "link": "/jersey-st-brelade",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
+    "isOpenForCollection": true,
     "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -60450,7 +60306,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "id": "3bea6a8f-c81c-482f-9cf7-7406e6de3237",
     "restaurantId": 5020,
