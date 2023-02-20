@@ -7907,9 +7907,9 @@
     "link": "/balham-bedford-hill",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
-    "isOpenForDelivery": true,
-    "isOpenForDineIn": true,
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -7946,7 +7946,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": false,
+    "temporarilyClosed": true,
     "enableBooking": false,
     "id": "e806f34c-c9b6-4789-8c11-bce24a529758",
     "restaurantId": 3229,
@@ -34365,7 +34365,7 @@
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": true,
-    "isOpenForDelivery": true,
+    "isOpenForDelivery": false,
     "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
@@ -34448,42 +34448,9 @@
       "Type": 2,
       "Style": ""
     },
-    "deliveroo": {
-      "Anchor": "",
-      "Class": "",
-      "Text": "",
-      "Query": "",
-      "Title": "",
-      "Url": "https://pizzaexpress.order.deliveroo.co.uk/menu/brighton/brighton/0331-brighton-1-prince-albert-street-pizzaexpress",
-      "Target": "",
-      "TargetId": "00000000-0000-0000-0000-000000000000",
-      "Type": 2,
-      "Style": ""
-    },
-    "uberEats": {
-      "Anchor": "",
-      "Class": "",
-      "Text": "",
-      "Query": "",
-      "Title": "",
-      "Url": "https://www.ubereats.com/store/pizzaexpress-brighton-prince-albert-street/crpI7WQ2Vy2JWIKmW6T5wQ/",
-      "Target": "",
-      "TargetId": "00000000-0000-0000-0000-000000000000",
-      "Type": 2,
-      "Style": ""
-    },
-    "justEat": {
-      "Anchor": "",
-      "Class": "",
-      "Text": "",
-      "Query": "",
-      "Title": "",
-      "Url": "https://www.just-eat.co.uk/restaurants-pizzaexpress-brighton-prince-albert-street-brighton",
-      "Target": "",
-      "TargetId": "00000000-0000-0000-0000-000000000000",
-      "Type": 2,
-      "Style": ""
-    },
+    "deliveroo": null,
+    "uberEats": null,
+    "justEat": null,
     "facilities": [
       {
         "label": "Baby Facilities",
