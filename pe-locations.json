@@ -59645,9 +59645,9 @@
     "link": "/ilkley-station-road",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
+    "isOpenForCollection": true,
     "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -59684,7 +59684,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "id": "08e3e6f8-1d2c-4ff8-b161-f470378d32f7",
     "restaurantId": 3251,
