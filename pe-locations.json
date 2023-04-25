@@ -66074,9 +66074,9 @@
     "link": "/livingston-designer-outlet",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForCollection": true,
+    "isOpenForDelivery": true,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -66095,7 +66095,7 @@
       "Text": "",
       "Query": "",
       "Title": "",
-      "Url": "",
+      "Url": "/delivery",
       "Target": "",
       "TargetId": "00000000-0000-0000-0000-000000000000",
       "Type": 2,
@@ -66113,7 +66113,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "id": "3d5d603d-1f0d-4197-ae6b-98d81743e55d",
     "restaurantId": 2661,
@@ -66204,6 +66204,10 @@
       {
         "label": "Collection",
         "value": "/-/media/Images/PE-Icons-Tags-Logos-Flags/Facility-Icons/icontakeaway.ashx"
+      },
+      {
+        "label": "Delivery",
+        "value": "/-/media/Images/PE-Icons-Tags-Logos-Flags/Facility-Icons/icondelivery.ashx"
       },
       {
         "label": "Disabled Access",
