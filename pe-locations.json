@@ -606,9 +606,9 @@
     "link": "/london-st-martins-lane",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
+    "isOpenForCollection": false,
     "isOpenForDelivery": false,
-    "isOpenForDineIn": true,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -645,7 +645,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": false,
+    "temporarilyClosed": true,
     "enableBooking": false,
     "id": "0e672646-bf4d-486a-a94f-0ca9939d3d4a",
     "restaurantId": 1741,
@@ -4003,9 +4003,9 @@
     "link": "/london-kings-road",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
-    "isOpenForDelivery": true,
-    "isOpenForDineIn": true,
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -4042,7 +4042,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": false,
+    "temporarilyClosed": true,
     "enableBooking": false,
     "id": "60613045-c3cb-4ec1-beab-0a20c344bd29",
     "restaurantId": 1601,
@@ -8328,10 +8328,6 @@
         "value": "/-/media/Images/PE-Icons-Tags-Logos-Flags/Facility-Icons/icondisabledaccess.ashx"
       },
       {
-        "label": "Disabled Toilet",
-        "value": "/-/media/Images/PE-Icons-Tags-Logos-Flags/Facility-Icons/icondisabledtoilets.ashx"
-      },
-      {
         "label": "Pizza Making Parties",
         "value": "/-/media/Images/PE-Icons-Tags-Logos-Flags/Facility-Icons/24px_black_Parties_v3.ashx"
       },
@@ -9246,15 +9242,15 @@
     "latitude": 51.47359,
     "longitude": -0.24952,
     "image": {
-      "Alt": "Barnes",
+      "Alt": "PizzaExpress Barnes High Street",
       "Border": "",
       "Class": "",
       "Height": 680,
       "HSpace": 0,
-      "Src": "/-/media/Images/App-Images/barnesapp.ashx",
+      "Src": "/-/media/2023-Images/May/PizzaExpress_Barnes_Interior_04.ashx",
       "VSpace": 0,
-      "Width": 829,
-      "MediaId": "00b33465-f9c9-4907-a8f0-de430191da1c",
+      "Width": 828,
+      "MediaId": "83fd0cf6-d56e-493e-be36-fffe8f9430f4",
       "Title": "",
       "Language": {
         "Name": "en"
@@ -16309,9 +16305,9 @@
     "link": "/barnet-high-street",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForCollection": true,
+    "isOpenForDelivery": true,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -16348,7 +16344,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "id": "9791e70b-d43e-4329-915d-f4a08fb0ea55",
     "restaurantId": 1091,
@@ -34421,15 +34417,15 @@
     "latitude": 50.82802,
     "longitude": -0.17167,
     "image": {
-      "Alt": "Hove",
+      "Alt": "PizzaExpress Hove Church Street",
       "Border": "",
       "Class": "",
       "Height": 680,
       "HSpace": 0,
-      "Src": "/-/media/Images/App-Images/hoveapp.ashx",
+      "Src": "/-/media/2023-Images/May/PizzaExpress_Hove_Interior_15.ashx",
       "VSpace": 0,
       "Width": 829,
-      "MediaId": "d15db5d7-d9dc-45ad-a00e-054b1036d754",
+      "MediaId": "5b5a4d36-2fe7-46a7-9096-edfd7b043669",
       "Title": "",
       "Language": {
         "Name": "en"
@@ -37682,10 +37678,6 @@
       {
         "label": "Disabled Access",
         "value": "/-/media/Images/PE-Icons-Tags-Logos-Flags/Facility-Icons/icondisabledaccess.ashx"
-      },
-      {
-        "label": "Disabled Toilet",
-        "value": "/-/media/Images/PE-Icons-Tags-Logos-Flags/Facility-Icons/icondisabledtoilets.ashx"
       },
       {
         "label": "Outdoor dining",
@@ -46739,15 +46731,15 @@
     "latitude": 52.45872,
     "longitude": -1.94975,
     "image": {
-      "Alt": "Harborne",
+      "Alt": "PizzaExpress Harborne",
       "Border": "",
       "Class": "",
       "Height": 680,
       "HSpace": 0,
-      "Src": "/-/media/Images/App-Images/Harborneapp.ashx",
+      "Src": "/-/media/2023-Images/May/PizzaExpress_Harborne_Interior_04.ashx",
       "VSpace": 0,
       "Width": 829,
-      "MediaId": "778db864-f03b-4038-9e23-9b3a1e3beaab",
+      "MediaId": "97d1ebc4-d988-40fb-8a73-f9f0d2992512",
       "Title": "",
       "Language": {
         "Name": "en"
