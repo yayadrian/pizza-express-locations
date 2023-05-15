@@ -23019,9 +23019,9 @@
     "link": "/dorking-high-street",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
-    "isOpenForDelivery": true,
-    "isOpenForDineIn": true,
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -23058,7 +23058,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": false,
+    "temporarilyClosed": true,
     "enableBooking": false,
     "id": "a6318e59-ab7c-4e79-9cf3-970e46f9a07e",
     "restaurantId": 1111,
@@ -33757,9 +33757,9 @@
     "link": "/milton-keynes-centre-mk-shopping-centre",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
+    "isOpenForCollection": false,
     "isOpenForDelivery": false,
-    "isOpenForDineIn": true,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -33796,7 +33796,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": false,
+    "temporarilyClosed": true,
     "enableBooking": false,
     "id": "4cac5648-b4ec-4197-ae0d-e0513c89c635",
     "restaurantId": 3240,
