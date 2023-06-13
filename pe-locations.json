@@ -21045,9 +21045,9 @@
     "link": "/west-thurrock-lakeside-shopping-centre",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
-    "isOpenForDelivery": true,
-    "isOpenForDineIn": true,
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -21084,7 +21084,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": false,
+    "temporarilyClosed": true,
     "enableBooking": false,
     "id": "80c3376e-6a7d-49bc-96c1-f1bb5a1085ec",
     "restaurantId": 3309,
@@ -31369,9 +31369,9 @@
     "link": "/reading-oracle-shopping-centre",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
-    "isOpenForDelivery": true,
-    "isOpenForDineIn": true,
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -31408,7 +31408,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": false,
+    "temporarilyClosed": true,
     "enableBooking": false,
     "id": "cac4f3a7-65d8-4134-9979-486a749153b9",
     "restaurantId": 3259,
