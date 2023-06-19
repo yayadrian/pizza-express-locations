@@ -21045,9 +21045,9 @@
     "link": "/west-thurrock-lakeside-shopping-centre",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForCollection": true,
+    "isOpenForDelivery": true,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -21084,7 +21084,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "id": "80c3376e-6a7d-49bc-96c1-f1bb5a1085ec",
     "restaurantId": 3309,
@@ -67642,9 +67642,9 @@
     "link": "/inverness-falcon-square",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
-    "isOpenForDelivery": true,
-    "isOpenForDineIn": true,
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -67681,7 +67681,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": false,
+    "temporarilyClosed": true,
     "enableBooking": false,
     "id": "0a20f682-2ad4-49ec-a4be-9590003c4502",
     "restaurantId": 3215,
