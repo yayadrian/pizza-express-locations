@@ -200,9 +200,9 @@
     "link": "/london-haymarket",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForCollection": true,
+    "isOpenForDelivery": true,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -239,7 +239,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "id": "05d1af13-e42c-4749-bee6-6335f134b149",
     "restaurantId": 3131,
@@ -28930,10 +28930,6 @@
       {
         "label": "Disabled Access",
         "value": "/-/media/Images/PE-Icons-Tags-Logos-Flags/Facility-Icons/icondisabledaccess.ashx"
-      },
-      {
-        "label": "Disabled Toilet",
-        "value": "/-/media/Images/PE-Icons-Tags-Logos-Flags/Facility-Icons/icondisabledtoilets.ashx"
       },
       {
         "label": "Outdoor dining",
