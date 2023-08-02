@@ -11561,9 +11561,9 @@
     "link": "/wembley-designer-outlet",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForCollection": true,
+    "isOpenForDelivery": true,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -11600,7 +11600,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "id": "351aac18-e933-4af6-ad76-b022df25912d",
     "restaurantId": 3370,
@@ -49012,9 +49012,9 @@
     "link": "/dorchester-brewery-square",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForCollection": true,
+    "isOpenForDelivery": true,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -49051,7 +49051,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "id": "df994d2a-4709-47af-899b-5f1811817ace",
     "restaurantId": 3362,
@@ -53993,9 +53993,9 @@
     "link": "/cheadle-high-street",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
-    "isOpenForDelivery": true,
-    "isOpenForDineIn": true,
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -54032,7 +54032,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": false,
+    "temporarilyClosed": true,
     "enableBooking": false,
     "id": "2ea08306-68e4-43dd-b0a0-0129c0118810",
     "restaurantId": 1691,
@@ -54145,36 +54145,7 @@
         "value": "/-/media/Images/PE-Icons-Tags-Logos-Flags/Facility-Icons/iconwifi_v2.ashx"
       }
     ],
-    "openingHours": [
-      {
-        "label": "Mon",
-        "value": "11:30-22:00"
-      },
-      {
-        "label": "Tues",
-        "value": "11:30-22:00"
-      },
-      {
-        "label": "Wed",
-        "value": "11:30-22:00"
-      },
-      {
-        "label": "Thurs",
-        "value": "11:30-22:00"
-      },
-      {
-        "label": "Fri",
-        "value": "11:30-22:00"
-      },
-      {
-        "label": "Sat",
-        "value": "11:30-22:00"
-      },
-      {
-        "label": "Sun",
-        "value": "11:30-22:00"
-      }
-    ],
+    "openingHours": [],
     "DisabledAccess": true,
     "Favourite": false,
     "IsClosed": false,
@@ -60953,7 +60924,7 @@
       "Text": "Jersey St Brelade",
       "Query": "",
       "Title": "",
-      "Url": "/book/book-a-table-uk",
+      "Url": "/jersey-st-brelade",
       "Target": "",
       "TargetId": "3bea6a8f-c81c-482f-9cf7-7406e6de3237",
       "Type": 4,
