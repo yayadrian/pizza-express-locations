@@ -43867,7 +43867,7 @@
     "OrderTalkId": null
   },
   {
-    "link": "/christchurch-high-street",
+    "link": "/restaurant-menu",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": true,
@@ -46845,9 +46845,9 @@
     "link": "/tamworth-ventura-court",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForCollection": true,
+    "isOpenForDelivery": true,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -46884,7 +46884,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "id": "fcd6f7ab-49ee-4b0f-916f-b5c1fcc2c52f",
     "restaurantId": 3380,
