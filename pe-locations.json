@@ -15107,9 +15107,9 @@
     "link": "/kingston-high-street",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
-    "isOpenForDelivery": true,
-    "isOpenForDineIn": true,
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -15146,7 +15146,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": false,
+    "temporarilyClosed": true,
     "enableBooking": false,
     "id": "c192993c-fdf3-4fba-839d-d2867bae0202",
     "restaurantId": 321,
@@ -15271,36 +15271,7 @@
         "value": "/-/media/Images/PE-Icons-Tags-Logos-Flags/Facility-Icons/iconwifi_v2.ashx"
       }
     ],
-    "openingHours": [
-      {
-        "label": "Mon",
-        "value": "11:30-22:00"
-      },
-      {
-        "label": "Tues",
-        "value": "11:30-22:00"
-      },
-      {
-        "label": "Wed",
-        "value": "11:30-22:30"
-      },
-      {
-        "label": "Thurs",
-        "value": "11:30-23:00"
-      },
-      {
-        "label": "Fri",
-        "value": "11:30-23:00"
-      },
-      {
-        "label": "Sat",
-        "value": "11:30-23:00"
-      },
-      {
-        "label": "Sun",
-        "value": "12:00-22:00"
-      }
-    ],
+    "openingHours": [],
     "DisabledAccess": true,
     "Favourite": false,
     "IsClosed": false,
