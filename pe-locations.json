@@ -8232,13 +8232,13 @@
     "id": "94282dd8-a2b7-479e-b157-c2ddcfdd0b10",
     "restaurantId": 3476,
     "name": "Hackney Mare Street",
-    "Address1": "290-298 Mare Street",
+    "Address1": "298 Mare Street",
     "Address2": "",
     "Address3": "",
     "Location": "London",
     "Region": "",
     "Postcode": "E8 1HE",
-    "fullAddress": "290-298 Mare Street, London, E8 1HE",
+    "fullAddress": "298 Mare Street, London, E8 1HE",
     "phone": "02081040470",
     "ManagerName": "",
     "Email": "hackney.marestreet@pizzaexpress.com",
@@ -28574,9 +28574,9 @@
     "link": "/godalming-high-street",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
+    "isOpenForCollection": false,
     "isOpenForDelivery": false,
-    "isOpenForDineIn": true,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -28613,7 +28613,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": false,
+    "temporarilyClosed": true,
     "enableBooking": false,
     "id": "285da8aa-9bdc-41fd-84ed-b203d0d240ba",
     "restaurantId": 1761,
@@ -33485,31 +33485,31 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "11:30-22:00"
+        "value": "12:00-20:00"
       },
       {
         "label": "Tues",
-        "value": "11:30-22:00"
+        "value": "12:00-20:00"
       },
       {
         "label": "Wed",
-        "value": "11:30-22:00"
+        "value": "12:00-20:00"
       },
       {
         "label": "Thurs",
-        "value": "11:30-22:00"
+        "value": "12:00-20:00"
       },
       {
         "label": "Fri",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Sun",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       }
     ],
     "DisabledAccess": true,
@@ -33600,18 +33600,7 @@
       "Type": 2,
       "Style": ""
     },
-    "deliveroo": {
-      "Anchor": "",
-      "Class": "",
-      "Text": "",
-      "Query": "",
-      "Title": "",
-      "Url": "https://deliveroo.co.uk/menu/milton-keynes/milton-keynes/pizzaexpress-xscape",
-      "Target": "",
-      "TargetId": "00000000-0000-0000-0000-000000000000",
-      "Type": 2,
-      "Style": ""
-    },
+    "deliveroo": null,
     "uberEats": null,
     "justEat": {
       "Anchor": "",
@@ -57045,31 +57034,31 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "11:00-22:00"
+        "value": "12:00-20:00"
       },
       {
         "label": "Tues",
-        "value": "11:00-22:00"
+        "value": "12:00-20:00"
       },
       {
         "label": "Wed",
-        "value": "11:00-22:00"
+        "value": "12:00-20:00"
       },
       {
         "label": "Thurs",
-        "value": "11:00-22:00"
+        "value": "12:00-20:00"
       },
       {
         "label": "Fri",
-        "value": "11:00-22:00"
+        "value": "12:00-20:00"
       },
       {
         "label": "Sat",
-        "value": "11:00-22:00"
+        "value": "12:00-20:00"
       },
       {
         "label": "Sun",
-        "value": "11:00-22:00"
+        "value": "12:00-20:00"
       }
     ],
     "DisabledAccess": true,
