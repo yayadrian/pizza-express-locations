@@ -46862,15 +46862,15 @@
     "latitude": 52.62708,
     "longitude": -1.70512,
     "image": {
-      "Alt": "Tamworth",
+      "Alt": "PizzaExpress Tamworth",
       "Border": "",
       "Class": "",
-      "Height": 680,
+      "Height": 1000,
       "HSpace": 0,
-      "Src": "/-/media/Images/App-Images/tamworthapp.ashx",
+      "Src": "/-/media/2023-Images/Aug/PizzaExpress_Tamworth_Interior_06.ashx",
       "VSpace": 0,
-      "Width": 829,
-      "MediaId": "453a86de-21b0-43e6-85d4-341588dfc15d",
+      "Width": 1500,
+      "MediaId": "036e215d-caa1-4101-917b-ff98346b718d",
       "Title": "",
       "Language": {
         "Name": "en"
@@ -49029,15 +49029,15 @@
     "latitude": 50.7109,
     "longitude": -2.438548,
     "image": {
-      "Alt": "Dorchester",
+      "Alt": "PizzaExpress Dorchester Brewery Square",
       "Border": "",
       "Class": "",
-      "Height": 680,
+      "Height": 1000,
       "HSpace": 0,
-      "Src": "/-/media/Images/App-Images/dorchesterapp.ashx",
+      "Src": "/-/media/2023-Images/Aug/PizzaExpress_Dorchester_BrewerySq_Exterior_05.ashx",
       "VSpace": 0,
-      "Width": 829,
-      "MediaId": "729f679a-146b-4f93-a444-1d239d31fd05",
+      "Width": 1500,
+      "MediaId": "cd166a30-0391-4ad9-9cf4-820e739285a4",
       "Title": "",
       "Language": {
         "Name": "en"
@@ -56475,7 +56475,7 @@
       },
       {
         "label": "Sun",
-        "value": "11:30-21:00"
+        "value": "11:30-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -58725,15 +58725,15 @@
     "latitude": 53.84501,
     "longitude": -1.51096,
     "image": {
-      "Alt": "Leeds Street Lane",
+      "Alt": "PizzaExpress Leeds Street Lane",
       "Border": "",
       "Class": "",
-      "Height": 680,
+      "Height": 1000,
       "HSpace": 0,
-      "Src": "/-/media/Images/App-Images/leedsstreetlaneapp.ashx",
+      "Src": "/-/media/2023-Images/Aug/PizzaExpress_Leeds_StreetLane_Interior_13.ashx",
       "VSpace": 0,
-      "Width": 829,
-      "MediaId": "16510cdf-9c0d-42ba-b249-9c7dc1440817",
+      "Width": 1500,
+      "MediaId": "0bfcfc4b-713f-4312-b747-c258c2a8c20a",
       "Title": "",
       "Language": {
         "Name": "en"
