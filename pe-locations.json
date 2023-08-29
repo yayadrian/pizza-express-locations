@@ -409,9 +409,9 @@
     "link": "/london-victoria-street",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
-    "isOpenForDelivery": true,
-    "isOpenForDineIn": true,
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -448,7 +448,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": false,
+    "temporarilyClosed": true,
     "enableBooking": false,
     "id": "6a154208-5b7d-4d0d-b38e-8208f539ba7d",
     "restaurantId": 2031,
@@ -1792,9 +1792,9 @@
     "link": "/london-coptic-street",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForCollection": true,
+    "isOpenForDelivery": true,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -1831,7 +1831,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "id": "3a903247-43f0-4264-ae1f-923efc56d338",
     "restaurantId": 121,
@@ -9017,7 +9017,7 @@
       "Text": "Greenwich Church Street",
       "Query": "",
       "Title": "",
-      "Url": "/libraries/local-content-library/offers/default",
+      "Url": "/greenwich-church-street",
       "Target": "",
       "TargetId": "8af6ba3a-c7cb-4bca-9ef5-6aa2cbbdc630",
       "Type": 4,
@@ -26136,7 +26136,7 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "11:30-22:00"
+        "value": "11:00-22:00"
       },
       {
         "label": "Tues",
@@ -28763,9 +28763,9 @@
     "link": "/tunbridge-wells-high-street",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
-    "isOpenForDelivery": true,
-    "isOpenForDineIn": true,
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -28802,7 +28802,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": false,
+    "temporarilyClosed": true,
     "enableBooking": false,
     "id": "90a7a10f-d90a-4e85-9bab-e7a09bf654f2",
     "restaurantId": 741,
@@ -60453,9 +60453,9 @@
     "link": "/harrogate-albert-street",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
-    "isOpenForDelivery": true,
-    "isOpenForDineIn": true,
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -60492,7 +60492,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": false,
+    "temporarilyClosed": true,
     "enableBooking": false,
     "id": "fc2abb93-adac-4756-b1c4-9b787359fe21",
     "restaurantId": 1501,
