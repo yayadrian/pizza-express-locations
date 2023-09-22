@@ -45016,9 +45016,9 @@
     "link": "/poole-tower-park",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForCollection": true,
+    "isOpenForDelivery": true,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -45055,7 +45055,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "id": "2438d097-f3bc-4587-81c3-99b10db5b0a3",
     "restaurantId": 3353,
