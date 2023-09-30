@@ -31925,11 +31925,11 @@
   },
   {
     "link": "/haslemere-high-street",
-    "ClosedDate": "0001-01-01T00:00:00",
-    "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "ClosedDate": "2023-09-04T00:00:00",
+    "OpenDate": "2023-09-27T00:00:00",
+    "isOpenForCollection": true,
+    "isOpenForDelivery": true,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -31966,7 +31966,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "id": "4d631987-431e-467f-b65a-2b0b48d1357f",
     "restaurantId": 2101,
