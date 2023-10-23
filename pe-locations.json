@@ -33125,9 +33125,9 @@
     "link": "/basingstoke-festival-place-shopping-centre",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForCollection": true,
+    "isOpenForDelivery": true,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -33164,7 +33164,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "id": "8c679bdc-7556-47e4-aeb7-ce700075d55c",
     "restaurantId": 3339,
@@ -38282,9 +38282,9 @@
     "link": "/newmarket-high-street",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForCollection": true,
+    "isOpenForDelivery": true,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -38321,7 +38321,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "id": "7d4abce7-7a0c-4bbd-abfa-ae030964c5e9",
     "restaurantId": 3247,
