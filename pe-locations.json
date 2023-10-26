@@ -32484,19 +32484,19 @@
     "openingHours": [
       {
         "label": "Monday",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Tuesday",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Wednesday",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Thursday",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Friday",
@@ -32508,7 +32508,7 @@
       },
       {
         "label": "Sunday",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -67693,10 +67693,6 @@
       {
         "label": "Outdoor dining",
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/outdoor-dining.ashx"
-      },
-      {
-        "label": "Pizza Making Parties",
-        "value": "/-/media/Kyra-NBW/Rebrand-Icons/party-1.ashx"
       },
       {
         "label": "WiFi",
