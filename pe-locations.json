@@ -2968,7 +2968,7 @@
       },
       {
         "label": "Thursday",
-        "value": "11:30-22:00"
+        "value": "11:30-23:00"
       },
       {
         "label": "Friday",
@@ -2980,7 +2980,7 @@
       },
       {
         "label": "Sunday",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -3977,11 +3977,11 @@
       },
       {
         "label": "Friday",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Saturday",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sunday",
@@ -4966,7 +4966,7 @@
       },
       {
         "label": "Thursday",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Friday",
@@ -4978,7 +4978,7 @@
       },
       {
         "label": "Sunday",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       }
     ],
     "DisabledAccess": false,
@@ -9151,7 +9151,7 @@
       },
       {
         "label": "Wednesday",
-        "value": "11:30-22:00"
+        "value": "11:30-22:30"
       },
       {
         "label": "Thursday",
@@ -9943,11 +9943,11 @@
       },
       {
         "label": "Friday",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Saturday",
-        "value": "11:00-23:00"
+        "value": "11:00-22:00"
       },
       {
         "label": "Sunday",
@@ -11395,7 +11395,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "id": "0ef58b52-b935-49c5-af38-33949fbd1031",
     "restaurantId": 3204,
@@ -15104,186 +15104,6 @@
     "OrderTalkId": null
   },
   {
-    "link": "/kingston-high-street",
-    "ClosedDate": "0001-01-01T00:00:00",
-    "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
-    "collectionLink": {
-      "Anchor": "",
-      "Class": "",
-      "Text": "",
-      "Query": "",
-      "Title": "",
-      "Url": "https://order.pizzaexpress.com/menu/321",
-      "Target": "",
-      "TargetId": "00000000-0000-0000-0000-000000000000",
-      "Type": 2,
-      "Style": ""
-    },
-    "deliveryLink": {
-      "Anchor": "",
-      "Class": "",
-      "Text": "",
-      "Query": "",
-      "Title": "",
-      "Url": "https://order.pizzaexpress.com/delivery",
-      "Target": "",
-      "TargetId": "00000000-0000-0000-0000-000000000000",
-      "Type": 2,
-      "Style": ""
-    },
-    "dineInLink": {
-      "Anchor": "",
-      "Class": "",
-      "Text": "Kingston High Street",
-      "Query": "",
-      "Title": "",
-      "Url": "/kingston-high-street",
-      "Target": "",
-      "TargetId": "c192993c-fdf3-4fba-839d-d2867bae0202",
-      "Type": 4,
-      "Style": ""
-    },
-    "temporarilyClosed": true,
-    "enableBooking": false,
-    "id": "c192993c-fdf3-4fba-839d-d2867bae0202",
-    "restaurantId": 321,
-    "name": "Kingston High Street",
-    "Address1": "41 High Street",
-    "Address2": "",
-    "Address3": "",
-    "Location": "Kingston upon Thames",
-    "Region": "Surrey",
-    "Postcode": "KT1 1LQ",
-    "fullAddress": "41 High Street, Kingston upon Thames, Surrey, KT1 1LQ",
-    "phone": "020 8546 1447",
-    "ManagerName": "",
-    "Email": "Kingston.Manager@pizzaexpress.com",
-    "latitude": 51.40631,
-    "longitude": -0.30782,
-    "image": {
-      "Alt": "Kingston Portsmouth Road",
-      "Border": "",
-      "Class": "",
-      "Height": 680,
-      "HSpace": 0,
-      "Src": "/-/media/Images/App-Images/kingstonportsmouthroadapp.ashx",
-      "VSpace": 0,
-      "Width": 829,
-      "MediaId": "3477c010-60ea-4cdb-b12e-7fcb41d86f95",
-      "Title": "",
-      "Language": {
-        "Name": "en"
-      },
-      "MediaExists": true
-    },
-    "clickAndCollect": {
-      "Anchor": "",
-      "Class": "",
-      "Text": "",
-      "Query": "",
-      "Title": "",
-      "Url": "https://order.pizzaexpress.com/menu/321",
-      "Target": "",
-      "TargetId": "00000000-0000-0000-0000-000000000000",
-      "Type": 2,
-      "Style": ""
-    },
-    "deliveroo": {
-      "Anchor": "",
-      "Class": "",
-      "Text": "",
-      "Query": "",
-      "Title": "",
-      "Url": "https://deliveroo.co.uk/menu/london/kingston/pizzaexpress-kingston",
-      "Target": "",
-      "TargetId": "00000000-0000-0000-0000-000000000000",
-      "Type": 2,
-      "Style": ""
-    },
-    "uberEats": {
-      "Anchor": "",
-      "Class": "",
-      "Text": "",
-      "Query": "",
-      "Title": "",
-      "Url": "https://order.pizzaexpress.com/delivery",
-      "Target": "",
-      "TargetId": "00000000-0000-0000-0000-000000000000",
-      "Type": 2,
-      "Style": ""
-    },
-    "justEat": {
-      "Anchor": "",
-      "Class": "",
-      "Text": "",
-      "Query": "",
-      "Title": "",
-      "Url": "https://www.just-eat.co.uk/restaurants-pizzaexpress-kingston-high-street-kingston-upon-thames",
-      "Target": "",
-      "TargetId": "00000000-0000-0000-0000-000000000000",
-      "Type": 2,
-      "Style": ""
-    },
-    "onUberTrial": false,
-    "menuBand": "2",
-    "facilities": [
-      {
-        "label": "Baby Facilities",
-        "value": "/-/media/Kyra-NBW/Rebrand-Icons/baby-facilities.ashx"
-      },
-      {
-        "label": "Collection",
-        "value": "/-/media/Kyra-NBW/Rebrand-Icons/collection.ashx"
-      },
-      {
-        "label": "Conference rooms",
-        "value": "/-/media/Kyra-NBW/Rebrand-Icons/conference-rooms.ashx"
-      },
-      {
-        "label": "Delivery",
-        "value": "/-/media/Kyra-NBW/Rebrand-Icons/delivery.ashx"
-      },
-      {
-        "label": "Disabled Access",
-        "value": "/-/media/Kyra-NBW/Rebrand-Icons/disabled-access.ashx"
-      },
-      {
-        "label": "Disabled Toilet",
-        "value": "/-/media/Kyra-NBW/Rebrand-Icons/disabled-toilet.ashx"
-      },
-      {
-        "label": "Outdoor dining",
-        "value": "/-/media/Kyra-NBW/Rebrand-Icons/outdoor-dining.ashx"
-      },
-      {
-        "label": "Pizza Making Parties",
-        "value": "/-/media/Kyra-NBW/Rebrand-Icons/party-1.ashx"
-      },
-      {
-        "label": "Venue Hire",
-        "value": "/-/media/Kyra-NBW/Rebrand-Icons/venue-hire.ashx"
-      },
-      {
-        "label": "WiFi",
-        "value": "/-/media/Kyra-NBW/Rebrand-Icons/wifi.ashx"
-      }
-    ],
-    "openingHours": [],
-    "DisabledAccess": true,
-    "Favourite": false,
-    "IsClosed": false,
-    "RestaurantClosedNotification": null,
-    "UrlName": "kingston-high-street",
-    "distance": 10.258638690920273,
-    "DeliverooOn": false,
-    "ClickAndCollectOn": false,
-    "DeliverooUrl": null,
-    "OrderTalkId": null
-  },
-  {
     "link": "/teddington-waldegrave-road",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
@@ -17231,11 +17051,11 @@
     "openingHours": [
       {
         "label": "Monday",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Tuesday",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Wednesday",
@@ -17255,7 +17075,7 @@
       },
       {
         "label": "Sunday",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -20021,11 +19841,11 @@
       },
       {
         "label": "Friday",
-        "value": "11:30-23:00"
+        "value": "11:30-00:00"
       },
       {
         "label": "Saturday",
-        "value": "11:30-23:00"
+        "value": "11:30-00:00"
       },
       {
         "label": "Sunday",
@@ -23555,11 +23375,11 @@
       },
       {
         "label": "Wednesday",
-        "value": "11:30-18:00"
+        "value": "11:30-22:30"
       },
       {
         "label": "Thursday",
-        "value": "11:30-18:00"
+        "value": "11:30-22:30"
       },
       {
         "label": "Friday",
@@ -26767,7 +26587,7 @@
       },
       {
         "label": "Sunday",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -27141,7 +26961,7 @@
       },
       {
         "label": "Thursday",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Friday",
@@ -30112,15 +29932,15 @@
       },
       {
         "label": "Thursday",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Friday",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Saturday",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sunday",
@@ -31909,7 +31729,7 @@
       },
       {
         "label": "Sunday",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -32303,7 +32123,7 @@
       },
       {
         "label": "Friday",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Saturday",
@@ -33846,15 +33666,15 @@
     "openingHours": [
       {
         "label": "Monday",
-        "value": "11:30-21:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Tuesday",
-        "value": "11:30-21:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Wednesday",
-        "value": "11:30-21:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Thursday",
@@ -33862,15 +33682,15 @@
       },
       {
         "label": "Friday",
-        "value": "11:30-22:00"
+        "value": "11:30-22:30"
       },
       {
         "label": "Saturday",
-        "value": "11:30-22:00"
+        "value": "11:30-22:30"
       },
       {
         "label": "Sunday",
-        "value": "11:30-21:30"
+        "value": "11:30-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -35860,7 +35680,7 @@
       },
       {
         "label": "Thursday",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Friday",
@@ -37050,11 +36870,11 @@
       },
       {
         "label": "Thursday",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Friday",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Saturday",
@@ -39836,11 +39656,11 @@
       },
       {
         "label": "Thursday",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Friday",
-        "value": "11:30-22:30"
+        "value": "11:30-23:00"
       },
       {
         "label": "Saturday",
@@ -40222,11 +40042,11 @@
       },
       {
         "label": "Friday",
-        "value": "11:30-23:00"
+        "value": "11:30-22:30"
       },
       {
         "label": "Saturday",
-        "value": "11:30-23:00"
+        "value": "11:30-22:30"
       },
       {
         "label": "Sunday",
@@ -42417,11 +42237,11 @@
       },
       {
         "label": "Friday",
-        "value": "11:30-22:00"
+        "value": "11:30-23:00"
       },
       {
         "label": "Saturday",
-        "value": "11:30-22:00"
+        "value": "11:30-23:00"
       },
       {
         "label": "Sunday",
@@ -46578,11 +46398,11 @@
       },
       {
         "label": "Friday",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Saturday",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sunday",
@@ -52355,7 +52175,7 @@
       },
       {
         "label": "Friday",
-        "value": "11:30-23:00"
+        "value": "11:30-22:30"
       },
       {
         "label": "Saturday",
@@ -53950,174 +53770,6 @@
     "OrderTalkId": null
   },
   {
-    "link": "/cheadle-high-street",
-    "ClosedDate": "0001-01-01T00:00:00",
-    "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
-    "collectionLink": {
-      "Anchor": "",
-      "Class": "",
-      "Text": "",
-      "Query": "",
-      "Title": "",
-      "Url": "https://order.pizzaexpress.com/menu/1691",
-      "Target": "",
-      "TargetId": "00000000-0000-0000-0000-000000000000",
-      "Type": 2,
-      "Style": ""
-    },
-    "deliveryLink": {
-      "Anchor": "",
-      "Class": "",
-      "Text": "",
-      "Query": "",
-      "Title": "",
-      "Url": "https://order.pizzaexpress.com/delivery",
-      "Target": "",
-      "TargetId": "00000000-0000-0000-0000-000000000000",
-      "Type": 2,
-      "Style": ""
-    },
-    "dineInLink": {
-      "Anchor": "",
-      "Class": "",
-      "Text": "Cheadle High Street",
-      "Query": "",
-      "Title": "",
-      "Url": "/cheadle-high-street",
-      "Target": "",
-      "TargetId": "2ea08306-68e4-43dd-b0a0-0129c0118810",
-      "Type": 4,
-      "Style": ""
-    },
-    "temporarilyClosed": true,
-    "enableBooking": false,
-    "id": "2ea08306-68e4-43dd-b0a0-0129c0118810",
-    "restaurantId": 1691,
-    "name": "Cheadle High Street",
-    "Address1": "83-85 High Street",
-    "Address2": "",
-    "Address3": "",
-    "Location": "Cheadle",
-    "Region": "Cheshire",
-    "Postcode": "SK8 1AA",
-    "fullAddress": "83-85 High Street, Cheadle, Cheshire, SK8 1AA",
-    "phone": "0161 491 1442",
-    "ManagerName": "",
-    "Email": "Cheadle.Manager@pizzaexpress.com",
-    "latitude": 53.39393,
-    "longitude": -2.21677,
-    "image": {
-      "Alt": "Cheadle",
-      "Border": "",
-      "Class": "",
-      "Height": 680,
-      "HSpace": 0,
-      "Src": "/-/media/Images/App-Images/cheadleapp.ashx",
-      "VSpace": 0,
-      "Width": 829,
-      "MediaId": "3c5a0d71-1804-4e61-bf05-4918e36002c0",
-      "Title": "",
-      "Language": {
-        "Name": "en"
-      },
-      "MediaExists": true
-    },
-    "clickAndCollect": {
-      "Anchor": "",
-      "Class": "",
-      "Text": "",
-      "Query": "",
-      "Title": "",
-      "Url": "https://order.pizzaexpress.com/menu/1691",
-      "Target": "",
-      "TargetId": "00000000-0000-0000-0000-000000000000",
-      "Type": 2,
-      "Style": ""
-    },
-    "deliveroo": {
-      "Anchor": "",
-      "Class": "",
-      "Text": "",
-      "Query": "",
-      "Title": "",
-      "Url": "https://deliveroo.co.uk/menu/manchester/cheadle/pizzaexpress-cheadle",
-      "Target": "",
-      "TargetId": "00000000-0000-0000-0000-000000000000",
-      "Type": 2,
-      "Style": ""
-    },
-    "uberEats": {
-      "Anchor": "",
-      "Class": "",
-      "Text": "",
-      "Query": "",
-      "Title": "",
-      "Url": "https://order.pizzaexpress.com/delivery",
-      "Target": "",
-      "TargetId": "00000000-0000-0000-0000-000000000000",
-      "Type": 2,
-      "Style": ""
-    },
-    "justEat": {
-      "Anchor": "",
-      "Class": "",
-      "Text": "",
-      "Query": "",
-      "Title": "",
-      "Url": "https://www.just-eat.co.uk/restaurants-pizzaexpress-cheadle-high-street",
-      "Target": "",
-      "TargetId": "00000000-0000-0000-0000-000000000000",
-      "Type": 2,
-      "Style": ""
-    },
-    "onUberTrial": false,
-    "menuBand": "3",
-    "facilities": [
-      {
-        "label": "Baby Facilities",
-        "value": "/-/media/Kyra-NBW/Rebrand-Icons/baby-facilities.ashx"
-      },
-      {
-        "label": "Collection",
-        "value": "/-/media/Kyra-NBW/Rebrand-Icons/collection.ashx"
-      },
-      {
-        "label": "Delivery",
-        "value": "/-/media/Kyra-NBW/Rebrand-Icons/delivery.ashx"
-      },
-      {
-        "label": "Disabled Access",
-        "value": "/-/media/Kyra-NBW/Rebrand-Icons/disabled-access.ashx"
-      },
-      {
-        "label": "Disabled Toilet",
-        "value": "/-/media/Kyra-NBW/Rebrand-Icons/disabled-toilet.ashx"
-      },
-      {
-        "label": "Pizza Making Parties",
-        "value": "/-/media/Kyra-NBW/Rebrand-Icons/party-1.ashx"
-      },
-      {
-        "label": "WiFi",
-        "value": "/-/media/Kyra-NBW/Rebrand-Icons/wifi.ashx"
-      }
-    ],
-    "openingHours": [],
-    "DisabledAccess": true,
-    "Favourite": false,
-    "IsClosed": false,
-    "RestaurantClosedNotification": null,
-    "UrlName": "cheadle-high-street",
-    "distance": 157.35103400691807,
-    "DeliverooOn": false,
-    "ClickAndCollectOn": false,
-    "DeliverooUrl": null,
-    "OrderTalkId": null
-  },
-  {
     "link": "/didsbury-lapwing-lane",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
@@ -54501,11 +54153,11 @@
       },
       {
         "label": "Friday",
-        "value": "11:30-23:00"
+        "value": "11:30-22:30"
       },
       {
         "label": "Saturday",
-        "value": "11:30-23:00"
+        "value": "11:30-22:30"
       },
       {
         "label": "Sunday",
@@ -54895,11 +54547,11 @@
       },
       {
         "label": "Friday",
-        "value": "11:30-23:00"
+        "value": "11:30-22:30"
       },
       {
         "label": "Saturday",
-        "value": "11:30-23:00"
+        "value": "11:30-22:30"
       },
       {
         "label": "Sunday",
@@ -57034,31 +56686,31 @@
     "openingHours": [
       {
         "label": "Monday",
-        "value": "12:00-20:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Tuesday",
-        "value": "12:00-20:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Wednesday",
-        "value": "12:00-20:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Thursday",
-        "value": "12:00-20:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Friday",
-        "value": "12:00-20:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Saturday",
-        "value": "12:00-20:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Sunday",
-        "value": "12:00-20:00"
+        "value": "12:00-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -59024,19 +58676,19 @@
     "openingHours": [
       {
         "label": "Monday",
-        "value": "11:30-22:00"
+        "value": "11:30-21:30"
       },
       {
         "label": "Tuesday",
-        "value": "11:30-22:00"
+        "value": "11:30-21:30"
       },
       {
         "label": "Wednesday",
-        "value": "11:30-22:00"
+        "value": "11:30-21:30"
       },
       {
         "label": "Thursday",
-        "value": "11:30-22:00"
+        "value": "11:30-21:30"
       },
       {
         "label": "Friday",
@@ -59048,7 +58700,7 @@
       },
       {
         "label": "Sunday",
-        "value": "11:30-22:00"
+        "value": "11:30-21:30"
       }
     ],
     "DisabledAccess": true,
@@ -59631,11 +59283,11 @@
       },
       {
         "label": "Friday",
-        "value": "11:30-23:00"
+        "value": "11:30-22:30"
       },
       {
         "label": "Saturday",
-        "value": "11:30-23:00"
+        "value": "11:30-22:30"
       },
       {
         "label": "Sunday",
@@ -60427,11 +60079,11 @@
       },
       {
         "label": "Friday",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Saturday",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sunday",
@@ -61219,11 +60871,11 @@
       },
       {
         "label": "Friday",
-        "value": "11:30-23:00"
+        "value": "11:30-22:30"
       },
       {
         "label": "Saturday",
-        "value": "11:30-23:00"
+        "value": "11:30-22:30"
       },
       {
         "label": "Sunday",
@@ -61416,11 +61068,11 @@
       },
       {
         "label": "Friday",
-        "value": "11:30-23:00"
+        "value": "11:30-22:30"
       },
       {
         "label": "Saturday",
-        "value": "11:30-23:00"
+        "value": "11:30-22:30"
       },
       {
         "label": "Sunday",
@@ -62185,19 +61837,19 @@
     "openingHours": [
       {
         "label": "Monday",
-        "value": "11:30-22:00"
+        "value": "11:30-21:00"
       },
       {
         "label": "Tuesday",
-        "value": "11:30-22:00"
+        "value": "11:30-21:00"
       },
       {
         "label": "Wednesday",
-        "value": "11:30-22:00"
+        "value": "11:30-21:00"
       },
       {
         "label": "Thursday",
-        "value": "11:30-22:00"
+        "value": "11:30-21:00"
       },
       {
         "label": "Friday",
@@ -62209,7 +61861,7 @@
       },
       {
         "label": "Sunday",
-        "value": "11:30-22:00"
+        "value": "11:30-21:00"
       }
     ],
     "DisabledAccess": true,
@@ -62398,11 +62050,11 @@
       },
       {
         "label": "Friday",
-        "value": "11:30-23:00"
+        "value": "11:30-22:30"
       },
       {
         "label": "Saturday",
-        "value": "11:30-23:00"
+        "value": "11:30-22:30"
       },
       {
         "label": "Sunday",
@@ -62961,19 +62613,19 @@
     "openingHours": [
       {
         "label": "Monday",
-        "value": "12:00-22:00"
+        "value": "12:00-21:30"
       },
       {
         "label": "Tuesday",
-        "value": "12:00-22:00"
+        "value": "12:00-21:30"
       },
       {
         "label": "Wednesday",
-        "value": "12:00-22:00"
+        "value": "12:00-21:30"
       },
       {
         "label": "Thursday",
-        "value": "12:00-22:30"
+        "value": "12:00-21:30"
       },
       {
         "label": "Friday",
@@ -62985,7 +62637,7 @@
       },
       {
         "label": "Sunday",
-        "value": "12:00-22:00"
+        "value": "12:00-21:30"
       }
     ],
     "DisabledAccess": false,
@@ -63962,31 +63614,31 @@
     "openingHours": [
       {
         "label": "Monday",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Tuesday",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Wednesday",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Thursday",
-        "value": "12:00-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Friday",
-        "value": "12:00-22:30"
+        "value": "11:30-22:30"
       },
       {
         "label": "Saturday",
-        "value": "12:00-22:30"
+        "value": "11:30-22:30"
       },
       {
         "label": "Sunday",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -64155,7 +63807,7 @@
     "openingHours": [
       {
         "label": "Monday",
-        "value": "11:30-20:00"
+        "value": "11:00-20:00"
       },
       {
         "label": "Tuesday",
@@ -64163,7 +63815,7 @@
       },
       {
         "label": "Wednesday",
-        "value": "11:30-21:00"
+        "value": "11:30-20:00"
       },
       {
         "label": "Thursday",
@@ -64171,15 +63823,15 @@
       },
       {
         "label": "Friday",
-        "value": "11:30-21:00"
+        "value": "11:00-21:00"
       },
       {
         "label": "Saturday",
-        "value": "11:30-21:00"
+        "value": "11:00-21:00"
       },
       {
         "label": "Sunday",
-        "value": "11:30-20:00"
+        "value": "11:00-20:00"
       }
     ],
     "DisabledAccess": true,
@@ -67328,11 +66980,11 @@
       },
       {
         "label": "Friday",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Saturday",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sunday",
