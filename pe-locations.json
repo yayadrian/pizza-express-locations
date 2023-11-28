@@ -4966,7 +4966,7 @@
       },
       {
         "label": "Thursday",
-        "value": "11:30-22:00"
+        "value": "11:30-23:00"
       },
       {
         "label": "Friday",
@@ -67144,10 +67144,6 @@
       {
         "label": "Disabled Access",
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/disabled-access.ashx"
-      },
-      {
-        "label": "Disabled Toilet",
-        "value": "/-/media/Kyra-NBW/Rebrand-Icons/disabled-toilet.ashx"
       },
       {
         "label": "Pizza Making Parties",
