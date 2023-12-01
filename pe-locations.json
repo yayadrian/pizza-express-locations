@@ -18673,9 +18673,9 @@
     "link": "/radlett-watling-street",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForCollection": true,
+    "isOpenForDelivery": true,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -18712,7 +18712,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "id": "4858536d-7f31-433a-aeaf-d43fb53c19e1",
     "restaurantId": 1451,
@@ -45833,9 +45833,9 @@
     "link": "/loughborough-baxter-gate",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForCollection": true,
+    "isOpenForDelivery": true,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -45872,7 +45872,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "id": "bfee62d2-0699-473a-876d-3cbd1859a2d4",
     "restaurantId": 3408,
