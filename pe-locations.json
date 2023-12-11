@@ -22211,9 +22211,9 @@
     "link": "/slough-high-street",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
-    "isOpenForDelivery": true,
-    "isOpenForDineIn": true,
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -22250,7 +22250,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": false,
+    "temporarilyClosed": true,
     "enableBooking": false,
     "id": "8a7754f6-6a69-40cb-9933-e9923818bd04",
     "restaurantId": 2571,
@@ -22367,36 +22367,7 @@
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/wifi.ashx"
       }
     ],
-    "openingHours": [
-      {
-        "label": "Monday",
-        "value": "11:30-22:00"
-      },
-      {
-        "label": "Tuesday",
-        "value": "11:30-22:00"
-      },
-      {
-        "label": "Wednesday",
-        "value": "11:30-22:00"
-      },
-      {
-        "label": "Thursday",
-        "value": "11:30-22:30"
-      },
-      {
-        "label": "Friday",
-        "value": "11:30-22:30"
-      },
-      {
-        "label": "Saturday",
-        "value": "11:30-22:30"
-      },
-      {
-        "label": "Sunday",
-        "value": "11:30-22:00"
-      }
-    ],
+    "openingHours": [],
     "DisabledAccess": true,
     "Favourite": false,
     "IsClosed": false,
