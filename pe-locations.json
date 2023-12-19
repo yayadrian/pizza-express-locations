@@ -3138,6 +3138,10 @@
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/disabled-access.ashx"
       },
       {
+        "label": "Disabled Toilet",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/disabled-toilet.ashx"
+      },
+      {
         "label": "Outdoor dining",
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/outdoor-dining.ashx"
       },
@@ -4367,7 +4371,7 @@
     "openingHours": [
       {
         "label": "Monday",
-        "value": "12:00-21:00"
+        "value": "11:30-21:00"
       },
       {
         "label": "Tuesday",
@@ -28599,8 +28603,8 @@
     "Address3": "",
     "Location": "",
     "Region": "Kent",
-    "Postcode": "TN1 1YB",
-    "fullAddress": "81 High Street, Tunbridge Wells, Kent, TN1 1YB",
+    "Postcode": "TN1 1YG",
+    "fullAddress": "81 High Street, Tunbridge Wells, Kent, TN1 1YG",
     "phone": "01892 543 112",
     "ManagerName": "",
     "Email": "TunbridgeWells.Manager@pizzaexpress.com",
@@ -51224,8 +51228,8 @@
     "Address3": "",
     "Location": "",
     "Region": "South Yorkshire",
-    "Postcode": "S11 8PR",
-    "fullAddress": "Unit 3, 483 Ecclesall Road, Sheffield, Yorkshire, S11 8PR",
+    "Postcode": "S11 8PP",
+    "fullAddress": "Unit 3, 483 Ecclesall Road, Sheffield, Yorkshire, S11 8PP",
     "phone": "0114 267 6626",
     "ManagerName": "",
     "Email": "Sheffield4.manager@pizzaexpress.com",
@@ -66591,9 +66595,9 @@
     "link": "/perth-south-methven-street",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
-    "isOpenForDelivery": true,
-    "isOpenForDineIn": true,
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -66630,7 +66634,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": false,
+    "temporarilyClosed": true,
     "enableBooking": false,
     "id": "c4498d08-a5d2-4d69-be36-4535445f6c2a",
     "restaurantId": 2161,
@@ -66743,36 +66747,7 @@
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/wifi.ashx"
       }
     ],
-    "openingHours": [
-      {
-        "label": "Monday",
-        "value": "11:30-22:00"
-      },
-      {
-        "label": "Tuesday",
-        "value": "11:30-22:00"
-      },
-      {
-        "label": "Wednesday",
-        "value": "11:30-22:00"
-      },
-      {
-        "label": "Thursday",
-        "value": "11:30-22:00"
-      },
-      {
-        "label": "Friday",
-        "value": "11:30-22:30"
-      },
-      {
-        "label": "Saturday",
-        "value": "11:30-22:30"
-      },
-      {
-        "label": "Sunday",
-        "value": "12:00-22:00"
-      }
-    ],
+    "openingHours": [],
     "DisabledAccess": true,
     "Favourite": false,
     "IsClosed": false,
