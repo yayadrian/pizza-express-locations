@@ -49341,10 +49341,6 @@
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/private-dining.ashx"
       },
       {
-        "label": "Serves Breakfast (Click for menu)",
-        "value": "/-/media/Kyra-NBW/Rebrand-Icons/breakfast.ashx"
-      },
-      {
         "label": "Venue Hire",
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/venue-hire.ashx"
       }
@@ -53604,15 +53600,15 @@
     "latitude": 50.72242,
     "longitude": -3.53196,
     "image": {
-      "Alt": "Knife and fork and glass",
+      "Alt": "PizzaExpress Exeter",
       "Border": "",
       "Class": "",
-      "Height": 680,
+      "Height": 1000,
       "HSpace": 0,
-      "Src": "/-/media/Images/App-Images/829x680lifestyle1app.ashx",
+      "Src": "/-/media/2024-Images/Jan/PizzaExpress_Exeter_Interior_007.ashx",
       "VSpace": 0,
-      "Width": 829,
-      "MediaId": "e1705ef3-d7b8-4206-8b0e-c7197249e099",
+      "Width": 1500,
+      "MediaId": "05309f40-1e8e-4f15-b615-ec86a9c2d68a",
       "Title": "",
       "Language": {
         "Name": "en"
