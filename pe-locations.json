@@ -4610,9 +4610,9 @@
     "link": "/london-paddington",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForCollection": true,
+    "isOpenForDelivery": true,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -4649,7 +4649,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "id": "a8e31525-74da-4664-acfd-369f32a47a7b",
     "restaurantId": 3436,
@@ -18734,15 +18734,15 @@
     "latitude": 51.68378,
     "longitude": -0.31773,
     "image": {
-      "Alt": "Radlett",
+      "Alt": "PizzaExpress Radlett",
       "Border": "",
       "Class": "",
-      "Height": 680,
+      "Height": 1000,
       "HSpace": 0,
-      "Src": "/-/media/Images/App-Images/radlettapp.ashx",
+      "Src": "/-/media/2024-Images/Jan/PizzaExpress_Radlett_Exterior_02.ashx",
       "VSpace": 0,
-      "Width": 829,
-      "MediaId": "95e3d494-41c0-4681-8c81-bd8e3b715cc0",
+      "Width": 1500,
+      "MediaId": "c6a2754c-9e72-4746-b125-97168514ea8f",
       "Title": "",
       "Language": {
         "Name": "en"
@@ -37351,15 +37351,15 @@
     "latitude": 50.8345,
     "longitude": -0.77986,
     "image": {
-      "Alt": "Knife and fork and glass",
+      "Alt": "PizzaExpress Chichester",
       "Border": "",
       "Class": "",
-      "Height": 680,
+      "Height": 1000,
       "HSpace": 0,
-      "Src": "/-/media/Images/App-Images/829x680lifestyle1app.ashx",
+      "Src": "/-/media/2024-Images/Jan/PizzaExpress_Chichester_Interior_12.ashx",
       "VSpace": 0,
-      "Width": 829,
-      "MediaId": "e1705ef3-d7b8-4206-8b0e-c7197249e099",
+      "Width": 1500,
+      "MediaId": "44465621-1195-43b2-ba78-3a6716dd120e",
       "Title": "",
       "Language": {
         "Name": "en"
