@@ -15164,15 +15164,15 @@
     "latitude": 51.42806,
     "longitude": -0.33517,
     "image": {
-      "Alt": "Teddington",
+      "Alt": "PizzaExpress Teddington",
       "Border": "",
       "Class": "",
-      "Height": 680,
+      "Height": 1000,
       "HSpace": 0,
-      "Src": "/-/media/Images/App-Images/teddingtonapp.ashx",
+      "Src": "/-/media/2024-Images/Jan/PizzaExpress_Teddington_Interior_22.ashx",
       "VSpace": 0,
-      "Width": 829,
-      "MediaId": "578f14e8-8e25-4c70-98a8-29b8a064a8ea",
+      "Width": 1500,
+      "MediaId": "47849567-4fb1-4a52-a199-c06d6fe032f3",
       "Title": "",
       "Language": {
         "Name": "en"
@@ -24985,9 +24985,9 @@
     "link": "/maidenhead-bridge-street",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForCollection": true,
+    "isOpenForDelivery": true,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -25024,7 +25024,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "id": "be165ce3-f782-4492-ae26-953dc6cdf6a1",
     "restaurantId": 1961,
