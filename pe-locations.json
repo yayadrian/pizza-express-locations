@@ -3138,10 +3138,6 @@
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/disabled-access.ashx"
       },
       {
-        "label": "Disabled Toilet",
-        "value": "/-/media/Kyra-NBW/Rebrand-Icons/disabled-toilet.ashx"
-      },
-      {
         "label": "Outdoor dining",
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/outdoor-dining.ashx"
       },
@@ -7192,7 +7188,7 @@
     "OrderTalkId": null
   },
   {
-    "link": "/kids",
+    "link": "/shepherds-bush-rockley-road",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": true,
@@ -11155,9 +11151,9 @@
     "link": "/wimbledon-village-high-street",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForCollection": true,
+    "isOpenForDelivery": true,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -11194,7 +11190,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "id": "850f1d87-2ae5-4d8d-9c18-01e245175058",
     "restaurantId": 311,
@@ -29178,9 +29174,9 @@
     "link": "/rayleigh-high-street",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForCollection": true,
+    "isOpenForDelivery": true,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -29217,7 +29213,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "id": "42166e98-ec3d-4445-a9c2-1bc8e5734f1c",
     "restaurantId": 3429,
@@ -40017,10 +40013,6 @@
       {
         "label": "Outdoor dining",
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/outdoor-dining.ashx"
-      },
-      {
-        "label": "Pizza Making Parties",
-        "value": "/-/media/Kyra-NBW/Rebrand-Icons/party-1.ashx"
       },
       {
         "label": "WiFi",
@@ -56870,10 +56862,6 @@
       {
         "label": "Outdoor dining",
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/outdoor-dining.ashx"
-      },
-      {
-        "label": "Pizza Making Parties",
-        "value": "/-/media/Kyra-NBW/Rebrand-Icons/party-1.ashx"
       },
       {
         "label": "WiFi",
