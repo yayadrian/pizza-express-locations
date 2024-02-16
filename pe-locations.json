@@ -47909,7 +47909,7 @@
       "Text": "",
       "Query": "",
       "Title": "",
-      "Url": "",
+      "Url": "https://www.just-eat.co.uk/restaurants-pizza-express---newark-newark-on-trent",
       "Target": "",
       "TargetId": "00000000-0000-0000-0000-000000000000",
       "Type": 2,
@@ -61734,18 +61734,7 @@
       "Type": 2,
       "Style": ""
     },
-    "deliveroo": {
-      "Anchor": "",
-      "Class": "",
-      "Text": "",
-      "Query": "",
-      "Title": "",
-      "Url": "https://deliveroo.co.uk/restaurants/kendal/kendal?fulfillment_method=DELIVERY&geohash=gcwj1d05wf3g ",
-      "Target": "",
-      "TargetId": "00000000-0000-0000-0000-000000000000",
-      "Type": 2,
-      "Style": ""
-    },
+    "deliveroo": null,
     "uberEats": {
       "Anchor": "",
       "Class": "",
