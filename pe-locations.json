@@ -2114,7 +2114,7 @@
       "Style": ""
     },
     "onUberTrial": false,
-    "menuBand": "4",
+    "menuBand": "1",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -4124,7 +4124,7 @@
       "Style": ""
     },
     "onUberTrial": true,
-    "menuBand": "4",
+    "menuBand": "1",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -4727,7 +4727,7 @@
       "Style": ""
     },
     "onUberTrial": false,
-    "menuBand": "1",
+    "menuBand": "4",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -14432,7 +14432,7 @@
       "Style": ""
     },
     "onUberTrial": false,
-    "menuBand": "2",
+    "menuBand": "3",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -16402,7 +16402,7 @@
       "Style": ""
     },
     "onUberTrial": false,
-    "menuBand": "3",
+    "menuBand": "4",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -17479,9 +17479,9 @@
     "link": "/banstead-high-street",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForCollection": true,
+    "isOpenForDelivery": true,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -17518,7 +17518,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "id": "7aca0c04-9974-41f6-84ee-abc5b8db5364",
     "restaurantId": 1571,
@@ -26525,7 +26525,7 @@
       "Style": ""
     },
     "onUberTrial": false,
-    "menuBand": "2",
+    "menuBand": "3",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -28109,7 +28109,7 @@
       "Style": ""
     },
     "onUberTrial": false,
-    "menuBand": "2",
+    "menuBand": "3",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -28704,7 +28704,7 @@
       "Style": ""
     },
     "onUberTrial": true,
-    "menuBand": "3",
+    "menuBand": "4",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -31872,7 +31872,7 @@
       "Style": ""
     },
     "onUberTrial": false,
-    "menuBand": "2",
+    "menuBand": "3",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -35437,7 +35437,7 @@
       "Style": ""
     },
     "onUberTrial": false,
-    "menuBand": "2",
+    "menuBand": "3",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -42770,7 +42770,7 @@
       "Style": ""
     },
     "onUberTrial": false,
-    "menuBand": "2",
+    "menuBand": "3",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -42850,9 +42850,9 @@
     "link": "/coventry-belgrade-plaza",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForCollection": true,
+    "isOpenForDelivery": true,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -42889,7 +42889,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "id": "f7c6a723-22a7-4a00-b030-69795bad48b2",
     "restaurantId": 3292,
@@ -44165,7 +44165,7 @@
       "Style": ""
     },
     "onUberTrial": false,
-    "menuBand": "3",
+    "menuBand": "4",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -44559,7 +44559,7 @@
       "Style": ""
     },
     "onUberTrial": false,
-    "menuBand": "2",
+    "menuBand": "3",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -45560,7 +45560,7 @@
       "Style": ""
     },
     "onUberTrial": false,
-    "menuBand": "3",
+    "menuBand": "2",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -45950,7 +45950,7 @@
       "Style": ""
     },
     "onUberTrial": false,
-    "menuBand": "2",
+    "menuBand": "3",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -50316,7 +50316,7 @@
       "Style": ""
     },
     "onUberTrial": true,
-    "menuBand": "3",
+    "menuBand": "2",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -50714,7 +50714,7 @@
       "Style": ""
     },
     "onUberTrial": true,
-    "menuBand": "3",
+    "menuBand": "2",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -56652,7 +56652,7 @@
       "Style": ""
     },
     "onUberTrial": false,
-    "menuBand": "2",
+    "menuBand": "3",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -58638,7 +58638,7 @@
       "Style": ""
     },
     "onUberTrial": false,
-    "menuBand": "3",
+    "menuBand": "2",
     "facilities": [
       {
         "label": "Collection",
@@ -66134,7 +66134,7 @@
       "Style": ""
     },
     "onUberTrial": false,
-    "menuBand": "3",
+    "menuBand": "4",
     "facilities": [
       {
         "label": "Baby Facilities",
