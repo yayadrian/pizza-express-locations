@@ -8328,6 +8328,10 @@
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/disabled-access.ashx"
       },
       {
+        "label": "Disabled Toilet",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/disabled-toilet.ashx"
+      },
+      {
         "label": "Pizza Making Parties",
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/party-1.ashx"
       },
@@ -8381,9 +8385,9 @@
     "link": "/wandsworth-trinity-road",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForCollection": true,
+    "isOpenForDelivery": true,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -8420,7 +8424,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "id": "1a2eafd1-c6ce-4349-abf3-5c9824556096",
     "restaurantId": 1431,
