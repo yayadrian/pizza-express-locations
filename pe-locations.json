@@ -5364,7 +5364,7 @@
       },
       {
         "label": "Thurs",
-        "value": "11:30-22:30"
+        "value": "11:30-23:00"
       },
       {
         "label": "Fri",
@@ -6775,7 +6775,7 @@
       },
       {
         "label": "Sun",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -7177,7 +7177,7 @@
       },
       {
         "label": "Sun",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -7969,7 +7969,7 @@
       },
       {
         "label": "Sun",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -8170,7 +8170,7 @@
       },
       {
         "label": "Sun",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -10546,11 +10546,11 @@
       },
       {
         "label": "Fri",
-        "value": "11:30-22:00"
+        "value": "11:30-23:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-22:00"
+        "value": "11:30-23:00"
       },
       {
         "label": "Sun",
@@ -12528,7 +12528,7 @@
       },
       {
         "label": "Sun",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       }
     ],
     "DisabledAccess": false,
@@ -13131,7 +13131,7 @@
       },
       {
         "label": "Sun",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -14884,11 +14884,11 @@
       },
       {
         "label": "Fri",
-        "value": "11:30-22:30"
+        "value": "11:30-23:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-22:30"
+        "value": "11:30-23:00"
       },
       {
         "label": "Sun",
@@ -17067,11 +17067,11 @@
       },
       {
         "label": "Fri",
-        "value": "11:00-22:30"
+        "value": "11:00-23:00"
       },
       {
         "label": "Sat",
-        "value": "11:00-22:30"
+        "value": "11:00-23:00"
       },
       {
         "label": "Sun",
@@ -17839,31 +17839,31 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Tues",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Weds",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Thurs",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Fri",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -20621,11 +20621,11 @@
       },
       {
         "label": "Fri",
-        "value": "11:30-23:00"
+        "value": "11:30-22:30"
       },
       {
         "label": "Sat",
-        "value": "11:30-23:00"
+        "value": "11:30-22:30"
       },
       {
         "label": "Sun",
@@ -21389,31 +21389,31 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Tues",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Weds",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Thurs",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Fri",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -22784,7 +22784,7 @@
       },
       {
         "label": "Thurs",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Fri",
@@ -23588,7 +23588,7 @@
       },
       {
         "label": "Thurs",
-        "value": "11:30-23:00"
+        "value": "11:30-22:30"
       },
       {
         "label": "Fri",
@@ -23769,31 +23769,31 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Tues",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Weds",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Thurs",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Fri",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -26386,7 +26386,7 @@
       },
       {
         "label": "Fri",
-        "value": "11:30-22:00"
+        "value": "11:30-22:30"
       },
       {
         "label": "Sat",
@@ -29144,19 +29144,19 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Tues",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Weds",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Thurs",
-        "value": "11:30-23:00"
+        "value": "11:30-22:30"
       },
       {
         "label": "Fri",
@@ -29168,7 +29168,7 @@
       },
       {
         "label": "Sun",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       }
     ],
     "DisabledAccess": false,
@@ -30121,31 +30121,31 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Tues",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Weds",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Thurs",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Fri",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -32513,19 +32513,19 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Tues",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Weds",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Thurs",
-        "value": "11:30-22:30"
+        "value": "12:00-22:30"
       },
       {
         "label": "Fri",
@@ -32537,7 +32537,7 @@
       },
       {
         "label": "Sun",
-        "value": "11:30-22:00"
+        "value": "11:30-21:30"
       }
     ],
     "DisabledAccess": true,
@@ -33120,31 +33120,31 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Tues",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Weds",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Thurs",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Fri",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -33505,7 +33505,7 @@
       },
       {
         "label": "Sun",
-        "value": "11:30-22:00"
+        "value": "11:00-20:00"
       }
     ],
     "DisabledAccess": true,
@@ -36866,19 +36866,19 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Tues",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Weds",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Thurs",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Fri",
@@ -36890,7 +36890,7 @@
       },
       {
         "label": "Sun",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -38285,11 +38285,11 @@
       },
       {
         "label": "Fri",
-        "value": "11:30-22:30"
+        "value": "11:30-23:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-22:30"
+        "value": "11:30-23:00"
       },
       {
         "label": "Sun",
@@ -38490,7 +38490,7 @@
       },
       {
         "label": "Sun",
-        "value": "11:00-22:00"
+        "value": "11:00-20:00"
       }
     ],
     "DisabledAccess": true,
@@ -39065,31 +39065,31 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Tues",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Weds",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Thurs",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Fri",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -39845,19 +39845,19 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Tues",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Weds",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Thurs",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Fri",
@@ -39869,7 +39869,7 @@
       },
       {
         "label": "Sun",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       }
     ],
     "DisabledAccess": false,
@@ -46808,11 +46808,11 @@
       },
       {
         "label": "Fri",
-        "value": "11:30-22:00"
+        "value": "11:30-22:30"
       },
       {
         "label": "Sat",
-        "value": "11:30-22:00"
+        "value": "11:30-22:30"
       },
       {
         "label": "Sun",
@@ -48388,7 +48388,7 @@
       },
       {
         "label": "Sun",
-        "value": "11:00-21:00"
+        "value": "11:00-20:00"
       }
     ],
     "DisabledAccess": false,
@@ -48577,11 +48577,11 @@
       },
       {
         "label": "Fri",
-        "value": "11:30-22:00"
+        "value": "11:30-23:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-22:00"
+        "value": "11:30-23:00"
       },
       {
         "label": "Sun",
@@ -63997,19 +63997,19 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "11:30-22:00"
+        "value": "11:30-21:00"
       },
       {
         "label": "Tues",
-        "value": "11:30-22:00"
+        "value": "11:30-21:00"
       },
       {
         "label": "Weds",
-        "value": "11:30-22:00"
+        "value": "11:30-21:00"
       },
       {
         "label": "Thurs",
-        "value": "11:30-22:00"
+        "value": "11:30-21:00"
       },
       {
         "label": "Fri",
@@ -64021,7 +64021,7 @@
       },
       {
         "label": "Sun",
-        "value": "11:30-22:00"
+        "value": "11:30-21:00"
       }
     ],
     "DisabledAccess": true,
