@@ -26345,7 +26345,7 @@
     "OpenDate": "2024-05-02T00:00:00",
     "isOpenForCollection": false,
     "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -26440,7 +26440,36 @@
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/wifi.ashx"
       }
     ],
-    "openingHours": [],
+    "openingHours": [
+      {
+        "label": "Mon",
+        "value": "03:30-21:00"
+      },
+      {
+        "label": "Tues",
+        "value": "03:30-21:00"
+      },
+      {
+        "label": "Weds",
+        "value": "03:30-21:00"
+      },
+      {
+        "label": "Thurs",
+        "value": "03:30-21:00"
+      },
+      {
+        "label": "Fri",
+        "value": "03:30-21:00"
+      },
+      {
+        "label": "Sat",
+        "value": "03:30-21:00"
+      },
+      {
+        "label": "Sun",
+        "value": "03:30-21:00"
+      }
+    ],
     "DisabledAccess": true,
     "Favourite": false,
     "IsClosed": false,
