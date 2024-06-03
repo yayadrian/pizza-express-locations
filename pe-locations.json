@@ -14751,9 +14751,9 @@
     "link": "/kingston-rotunda-leisure-centre",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
-    "isOpenForDelivery": true,
-    "isOpenForDineIn": true,
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -14790,7 +14790,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": false,
+    "temporarilyClosed": true,
     "enableBooking": false,
     "disabledBookings": false,
     "hideBookingComponent": false,
@@ -38171,9 +38171,9 @@
     "link": "/newbury-market-place",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
-    "isOpenForDelivery": true,
-    "isOpenForDineIn": true,
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -38210,7 +38210,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": false,
+    "temporarilyClosed": true,
     "enableBooking": false,
     "disabledBookings": false,
     "hideBookingComponent": false,
@@ -68623,7 +68623,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "disabledBookings": false,
     "hideBookingComponent": false,
