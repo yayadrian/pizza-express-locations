@@ -37911,14 +37911,6 @@
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/delivery.ashx"
       },
       {
-        "label": "Disabled Access",
-        "value": "/-/media/Kyra-NBW/Rebrand-Icons/disabled-access.ashx"
-      },
-      {
-        "label": "Disabled Toilet",
-        "value": "/-/media/Kyra-NBW/Rebrand-Icons/disabled-toilet.ashx"
-      },
-      {
         "label": "Pizza Making Parties",
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/party-1.ashx"
       },
@@ -37957,7 +37949,7 @@
         "value": "11:30-22:00"
       }
     ],
-    "DisabledAccess": true,
+    "DisabledAccess": false,
     "Favourite": false,
     "IsClosed": false,
     "RestaurantClosedNotification": null,
@@ -38171,9 +38163,9 @@
     "link": "/newbury-market-place",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForCollection": true,
+    "isOpenForDelivery": true,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -38210,7 +38202,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "disabledBookings": false,
     "hideBookingComponent": false,
