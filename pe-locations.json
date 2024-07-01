@@ -37524,9 +37524,9 @@
     "link": "/st-neots-leisure-park",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForCollection": true,
+    "isOpenForDelivery": true,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -37563,7 +37563,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "disabledBookings": false,
     "hideBookingComponent": false,
@@ -38729,6 +38729,211 @@
     "RestaurantClosedNotification": null,
     "UrlName": "newbury-market-place",
     "distance": 52.02703730391366,
+    "DeliverooOn": false,
+    "ClickAndCollectOn": false,
+    "DeliverooUrl": null,
+    "OrderTalkId": null
+  },
+  {
+    "link": "/oxford-summertown",
+    "ClosedDate": "0001-01-01T00:00:00",
+    "OpenDate": "0001-01-01T00:00:00",
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
+    "collectionLink": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/menu/251",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "deliveryLink": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/delivery",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "dineInLink": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "Oxford Golden Cross",
+      "Query": "",
+      "Title": "",
+      "Url": "/oxford-golden-cross",
+      "Target": "",
+      "TargetId": "34a83f3b-ecf7-4b39-85f6-d17131d00040",
+      "Type": 4,
+      "Style": ""
+    },
+    "temporarilyClosed": true,
+    "enableBooking": false,
+    "disabledBookings": false,
+    "hideBookingComponent": false,
+    "hideRewardsAndOffers": false,
+    "hideTodaysMenuCTA": false,
+    "hideCollectionAndDeliveryCTAS": false,
+    "hideFromLoyalty": false,
+    "OATEnabled": false,
+    "ShowOnboardingScreen": false,
+    "id": "d665bb12-925b-4278-9fce-c9e910c310e8",
+    "restaurantId": 3481,
+    "name": "Oxford Summertown",
+    "Address1": "232-236 Banbury Road",
+    "Address2": "",
+    "Address3": "",
+    "Location": "Oxford",
+    "Region": "",
+    "Postcode": "OX2 7BY",
+    "fullAddress": "232-236 Banbury Road, Oxford, OX2 7BY",
+    "phone": "01865 790 442",
+    "ManagerName": "",
+    "Email": "Oxford.Manager@pizzaexpress.com",
+    "latitude": 51.7764244,
+    "longitude": -1.26426971,
+    "image": {
+      "Alt": "Knife and fork and glass",
+      "Border": "",
+      "Class": "",
+      "Height": 680,
+      "HSpace": 0,
+      "Src": "/-/media/Images/App-Images/829x680lifestyle1app.ashx",
+      "VSpace": 0,
+      "Width": 829,
+      "MediaId": "e1705ef3-d7b8-4206-8b0e-c7197249e099",
+      "Title": "",
+      "Language": {
+        "Name": "en"
+      },
+      "MediaExists": true
+    },
+    "clickAndCollect": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/menu/251",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "deliveroo": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://deliveroo.co.uk/menu/oxford/oxford-university/pizzaexpress-cornmarket-st",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "uberEats": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/delivery",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "justEat": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://www.just-eat.co.uk/restaurants-pizzaexpress-oxford-golden-cross-oxford",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "onUberTrial": false,
+    "menuBand": "3",
+    "facilities": [
+      {
+        "label": "Baby Facilities",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/baby-facilities.ashx"
+      },
+      {
+        "label": "Collection",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/collection.ashx"
+      },
+      {
+        "label": "Delivery",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/delivery.ashx"
+      },
+      {
+        "label": "Pizza Making Parties",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/party-1.ashx"
+      },
+      {
+        "label": "Venue Hire",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/venue-hire.ashx"
+      },
+      {
+        "label": "WiFi",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/wifi.ashx"
+      },
+      {
+        "label": "Outdoor dining",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/outdoor-dining.ashx"
+      }
+    ],
+    "openingHours": [
+      {
+        "label": "Mon",
+        "value": "11:30-22:30"
+      },
+      {
+        "label": "Tues",
+        "value": "11:30-22:30"
+      },
+      {
+        "label": "Weds",
+        "value": "11:30-22:30"
+      },
+      {
+        "label": "Thurs",
+        "value": "11:30-22:30"
+      },
+      {
+        "label": "Fri",
+        "value": "11:30-22:30"
+      },
+      {
+        "label": "Sat",
+        "value": "11:30-22:30"
+      },
+      {
+        "label": "Sun",
+        "value": "11:30-22:00"
+      }
+    ],
+    "DisabledAccess": false,
+    "Favourite": false,
+    "IsClosed": false,
+    "RestaurantClosedNotification": null,
+    "UrlName": "Oxford-Summertown",
+    "distance": 52.28807414923219,
     "DeliverooOn": false,
     "ClickAndCollectOn": false,
     "DeliverooUrl": null,
@@ -52360,9 +52565,9 @@
     "link": "/cardiff-st-davids-shopping-centre",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
-    "isOpenForDelivery": true,
-    "isOpenForDineIn": true,
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -52399,7 +52604,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": false,
+    "temporarilyClosed": true,
     "enableBooking": false,
     "disabledBookings": false,
     "hideBookingComponent": false,
@@ -59358,9 +59563,9 @@
     "link": "/leeds-leeds-dock",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
-    "isOpenForDelivery": true,
-    "isOpenForDineIn": true,
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -59397,7 +59602,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": false,
+    "temporarilyClosed": true,
     "enableBooking": false,
     "disabledBookings": false,
     "hideBookingComponent": false,
