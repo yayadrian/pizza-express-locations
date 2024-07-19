@@ -4377,7 +4377,7 @@
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": true,
-    "isOpenForDelivery": true,
+    "isOpenForDelivery": false,
     "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
@@ -4563,7 +4563,11 @@
       },
       {
         "label": "Sat",
-        "value": "12:00-20:00"
+        "value": "11:30-20:00"
+      },
+      {
+        "label": "Sun",
+        "value": "11:30-18:00"
       }
     ],
     "DisabledAccess": true,
