@@ -4377,7 +4377,7 @@
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": true,
-    "isOpenForDelivery": false,
+    "isOpenForDelivery": true,
     "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
@@ -4923,7 +4923,7 @@
       "Style": ""
     },
     "onUberTrial": false,
-    "menuBand": "4",
+    "menuBand": "1",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -22922,9 +22922,9 @@
     "link": "/st-albans-verulam-road",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForCollection": true,
+    "isOpenForDelivery": true,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -22961,7 +22961,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "disabledBookings": false,
     "hideBookingComponent": false,
@@ -24152,9 +24152,9 @@
     "link": "/welwyn-garden-city-howardsgate",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForCollection": true,
+    "isOpenForDelivery": true,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -24191,7 +24191,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "disabledBookings": false,
     "hideBookingComponent": false,
@@ -25307,7 +25307,7 @@
       "Text": "",
       "Query": "",
       "Title": "",
-      "Url": "",
+      "Url": "https://www.just-eat.co.uk/restaurants-pizzaexpress-beaconsfield---london-end-beaconsfield",
       "Target": "",
       "TargetId": "00000000-0000-0000-0000-000000000000",
       "Type": 2,
@@ -25914,7 +25914,7 @@
       "Text": "",
       "Query": "",
       "Title": "",
-      "Url": "",
+      "Url": "https://www.just-eat.co.uk/restaurants-pizza-express-amersham-amersham",
       "Target": "",
       "TargetId": "00000000-0000-0000-0000-000000000000",
       "Type": 2,
@@ -46292,7 +46292,7 @@
       "Text": "",
       "Query": "",
       "Title": "",
-      "Url": "",
+      "Url": "https://www.just-eat.co.uk/restaurants-pizzaexpress-resorts-world-birmingham/menu",
       "Target": "",
       "TargetId": "00000000-0000-0000-0000-000000000000",
       "Type": 2,
@@ -47750,7 +47750,7 @@
       "Style": ""
     },
     "onUberTrial": false,
-    "menuBand": "2",
+    "menuBand": "3",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -49064,9 +49064,9 @@
     "link": "/bristol-cabot-circus-shopping-centre",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
-    "isOpenForDelivery": true,
-    "isOpenForDineIn": true,
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -49103,7 +49103,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": false,
+    "temporarilyClosed": true,
     "enableBooking": false,
     "disabledBookings": false,
     "hideBookingComponent": false,
@@ -52569,9 +52569,9 @@
     "link": "/cardiff-st-davids-shopping-centre",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForCollection": true,
+    "isOpenForDelivery": true,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -52608,7 +52608,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "disabledBookings": false,
     "hideBookingComponent": false,
@@ -55183,7 +55183,7 @@
       "Text": "",
       "Query": "",
       "Title": "",
-      "Url": "",
+      "Url": "https://www.just-eat.co.uk/restaurants-pizzaexpress-wilmslow-alderley-edge",
       "Target": "",
       "TargetId": "00000000-0000-0000-0000-000000000000",
       "Type": 2,
@@ -58877,7 +58877,7 @@
       "Text": "",
       "Query": "",
       "Title": "",
-      "Url": "",
+      "Url": "https://www.just-eat.co.uk/restaurants-pizzaexpress-chester---broughton-retail-park-lower-kinnerton/menu",
       "Target": "",
       "TargetId": "00000000-0000-0000-0000-000000000000",
       "Type": 2,
@@ -59571,9 +59571,9 @@
     "link": "/leeds-leeds-dock",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForCollection": true,
+    "isOpenForDelivery": true,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -59610,7 +59610,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "disabledBookings": false,
     "hideBookingComponent": false,
@@ -62799,7 +62799,7 @@
       "Style": ""
     },
     "onUberTrial": false,
-    "menuBand": "3",
+    "menuBand": "4",
     "facilities": [
       {
         "label": "Baby Facilities",
