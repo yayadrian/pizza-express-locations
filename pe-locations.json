@@ -5131,16 +5131,20 @@
     "menuBand": "4",
     "facilities": [
       {
-        "label": "Baby Facilities",
-        "value": "/-/media/Kyra-NBW/Rebrand-Icons/baby-facilities.ashx"
-      },
-      {
         "label": "Collection",
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/collection.ashx"
       },
       {
         "label": "Delivery",
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/delivery.ashx"
+      },
+      {
+        "label": "Outdoor dining",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/outdoor-dining.ashx"
+      },
+      {
+        "label": "Baby Facilities",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/baby-facilities.ashx"
       },
       {
         "label": "Disabled Toilet",
