@@ -24095,10 +24095,6 @@
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/delivery.ashx"
       },
       {
-        "label": "Disabled Access",
-        "value": "/-/media/Kyra-NBW/Rebrand-Icons/disabled-access.ashx"
-      },
-      {
         "label": "Pizza Making Parties",
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/party-1.ashx"
       },
@@ -24141,7 +24137,7 @@
         "value": "11:30-22:30"
       }
     ],
-    "DisabledAccess": true,
+    "DisabledAccess": false,
     "Favourite": false,
     "IsClosed": false,
     "RestaurantClosedNotification": null,
