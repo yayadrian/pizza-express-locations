@@ -28646,9 +28646,9 @@
     "link": "/luton-church-street",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
-    "isOpenForDelivery": true,
-    "isOpenForDineIn": true,
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -28687,8 +28687,8 @@
     },
     "temporarilyClosed": false,
     "enableBooking": false,
-    "disabledBookings": false,
-    "hideBookingComponent": false,
+    "disabledBookings": true,
+    "hideBookingComponent": true,
     "hideRewardsAndOffers": false,
     "hideTodaysMenuCTA": false,
     "hideCollectionAndDeliveryCTAS": false,
@@ -28810,36 +28810,7 @@
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/wifi.ashx"
       }
     ],
-    "openingHours": [
-      {
-        "label": "Mon",
-        "value": "11:30-22:00"
-      },
-      {
-        "label": "Tues",
-        "value": "11:30-22:00"
-      },
-      {
-        "label": "Weds",
-        "value": "11:30-22:00"
-      },
-      {
-        "label": "Thurs",
-        "value": "11:30-22:30"
-      },
-      {
-        "label": "Fri",
-        "value": "11:30-22:30"
-      },
-      {
-        "label": "Sat",
-        "value": "11:30-22:30"
-      },
-      {
-        "label": "Sun",
-        "value": "11:30-22:00"
-      }
-    ],
+    "openingHours": [],
     "DisabledAccess": true,
     "Favourite": false,
     "IsClosed": false,
