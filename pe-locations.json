@@ -60375,7 +60375,7 @@
     "OrderTalkId": null
   },
   {
-    "link": "/headingly-otley-road",
+    "link": "/headingley-otley-road",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": true,
@@ -60411,7 +60411,7 @@
       "Text": "Headingley Otley Road",
       "Query": "",
       "Title": "",
-      "Url": "/headingly-otley-road",
+      "Url": "/headingley-otley-road",
       "Target": "",
       "TargetId": "2b6c951b-1ae5-470d-adb2-7afd1ff66822",
       "Type": 4,
@@ -60576,7 +60576,7 @@
     "Favourite": false,
     "IsClosed": false,
     "RestaurantClosedNotification": null,
-    "UrlName": "headingly-otley-road",
+    "UrlName": "headingley-otley-road",
     "distance": 171.14543906635328,
     "DeliverooOn": false,
     "ClickAndCollectOn": false,
