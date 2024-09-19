@@ -27352,7 +27352,7 @@
     "uberEats": null,
     "justEat": null,
     "onUberTrial": false,
-    "menuBand": "1",
+    "menuBand": "6",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -57470,10 +57470,6 @@
       {
         "label": "Disabled Access",
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/disabled-access.ashx"
-      },
-      {
-        "label": "Disabled Toilet",
-        "value": "/-/media/Kyra-NBW/Rebrand-Icons/disabled-toilet.ashx"
       },
       {
         "label": "Outdoor dining",
