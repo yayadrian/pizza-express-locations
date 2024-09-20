@@ -16813,7 +16813,7 @@
     "fullAddress": "242-248 High Street, Barnet, Hertfordshire, EN5 5TD",
     "phone": "020 8449 3706",
     "ManagerName": "",
-    "Email": "Barnet.Manager@pizzaexpress.com ",
+    "Email": "Barnet.Manager@pizzaexpress.com",
     "latitude": 51.65778,
     "longitude": -0.20104,
     "image": {
@@ -32561,9 +32561,9 @@
     "link": "/uckfield-high-street",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForCollection": true,
+    "isOpenForDelivery": true,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -32600,7 +32600,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "disabledBookings": false,
     "hideBookingComponent": false,
@@ -38598,15 +38598,15 @@
     "latitude": 51.7764244,
     "longitude": -1.26426971,
     "image": {
-      "Alt": "Knife and fork and glass",
+      "Alt": "PizzaExpress Oxford Summertown exterior",
       "Border": "",
       "Class": "",
-      "Height": 680,
+      "Height": 1000,
       "HSpace": 0,
-      "Src": "/-/media/Images/App-Images/829x680lifestyle1app.ashx",
+      "Src": "/-/media/2024-Images/Sep/PEX_Oxford_Summertown_Exterior_006.ashx",
       "VSpace": 0,
-      "Width": 829,
-      "MediaId": "e1705ef3-d7b8-4206-8b0e-c7197249e099",
+      "Width": 1500,
+      "MediaId": "c3642bf4-e5fa-4ae0-bb59-6ab0b20f644f",
       "Title": "",
       "Language": {
         "Name": "en"
