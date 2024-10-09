@@ -26910,20 +26910,20 @@
     "latitude": 51.12415,
     "longitude": -0.00715,
     "image": {
-      "Alt": "",
+      "Alt": "PizzaExpress East Grinstead High Street",
       "Border": "",
       "Class": "",
-      "Height": 0,
+      "Height": 1000,
       "HSpace": 0,
-      "Src": null,
+      "Src": "/-/media/2024-Images/Oct/PEX_EastGrinstead_Interior_11.ashx",
       "VSpace": 0,
-      "Width": 0,
+      "Width": 1500,
       "MediaId": "11b59d34-59fd-4457-acd2-c920f85793d5",
-      "Title": null,
+      "Title": "",
       "Language": {
         "Name": "en"
       },
-      "MediaExists": false
+      "MediaExists": true
     },
     "clickAndCollect": {
       "Anchor": "",
