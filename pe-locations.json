@@ -2073,9 +2073,9 @@
     "link": "/london-high-holborn",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
-    "isOpenForDelivery": true,
-    "isOpenForDineIn": true,
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -2112,7 +2112,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": false,
+    "temporarilyClosed": true,
     "enableBooking": false,
     "disabledBookings": false,
     "hideBookingComponent": false,
@@ -20269,9 +20269,9 @@
     "link": "/upminster-st-marys-lane",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForCollection": true,
+    "isOpenForDelivery": true,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -20290,7 +20290,7 @@
       "Text": "",
       "Query": "",
       "Title": "",
-      "Url": "",
+      "Url": "https://order.pizzexpress.com/delivery",
       "Target": "",
       "TargetId": "00000000-0000-0000-0000-000000000000",
       "Type": 2,
@@ -20429,7 +20429,36 @@
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/wifi.ashx"
       }
     ],
-    "openingHours": [],
+    "openingHours": [
+      {
+        "label": "Mon",
+        "value": "11:30-22:00"
+      },
+      {
+        "label": "Tues",
+        "value": "11:30-22:00"
+      },
+      {
+        "label": "Weds",
+        "value": "11:30-22:00"
+      },
+      {
+        "label": "Thurs",
+        "value": "11:30-22:00"
+      },
+      {
+        "label": "Fri",
+        "value": "11:30-23:00"
+      },
+      {
+        "label": "Sat",
+        "value": "11:30-23:00"
+      },
+      {
+        "label": "Sun",
+        "value": "11:30-22:00"
+      }
+    ],
     "DisabledAccess": true,
     "Favourite": false,
     "IsClosed": false,
@@ -43038,9 +43067,9 @@
     "link": "/market-harborough-st-marys-place",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
+    "isOpenForCollection": false,
     "isOpenForDelivery": false,
-    "isOpenForDineIn": true,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -43077,7 +43106,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": false,
+    "temporarilyClosed": true,
     "enableBooking": false,
     "disabledBookings": false,
     "hideBookingComponent": false,
