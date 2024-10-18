@@ -43106,7 +43106,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "disabledBookings": false,
     "hideBookingComponent": false,
@@ -43231,36 +43231,7 @@
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/wifi.ashx"
       }
     ],
-    "openingHours": [
-      {
-        "label": "Mon",
-        "value": "11:30-22:00"
-      },
-      {
-        "label": "Tues",
-        "value": "11:30-22:00"
-      },
-      {
-        "label": "Weds",
-        "value": "11:30-22:00"
-      },
-      {
-        "label": "Thurs",
-        "value": "11:30-22:00"
-      },
-      {
-        "label": "Fri",
-        "value": "11:30-22:00"
-      },
-      {
-        "label": "Sat",
-        "value": "11:30-22:00"
-      },
-      {
-        "label": "Sun",
-        "value": "11:30-22:00"
-      }
-    ],
+    "openingHours": [],
     "DisabledAccess": true,
     "Favourite": false,
     "IsClosed": false,
