@@ -4563,7 +4563,7 @@
       },
       {
         "label": "Sat",
-        "value": "11:30-20:00"
+        "value": "12:00-20:00"
       },
       {
         "label": "Sun",
@@ -6621,7 +6621,7 @@
       },
       {
         "label": "Weds",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Thurs",
@@ -6633,7 +6633,7 @@
       },
       {
         "label": "Sat",
-        "value": "11:30-23:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Sun",
@@ -8904,11 +8904,11 @@
       },
       {
         "label": "Weds",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Thurs",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Fri",
@@ -9326,7 +9326,7 @@
       },
       {
         "label": "Thurs",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Fri",
@@ -9338,7 +9338,7 @@
       },
       {
         "label": "Sun",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -9732,11 +9732,11 @@
       },
       {
         "label": "Weds",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Thurs",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Fri",
@@ -11175,11 +11175,11 @@
       },
       {
         "label": "Weds",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Thurs",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Fri",
@@ -11577,11 +11577,11 @@
       },
       {
         "label": "Weds",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Thurs",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Fri",
@@ -11786,11 +11786,11 @@
       },
       {
         "label": "Weds",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Thurs",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Fri",
@@ -11999,11 +11999,11 @@
       },
       {
         "label": "Weds",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Thurs",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Fri",
@@ -12819,11 +12819,11 @@
       },
       {
         "label": "Weds",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Thurs",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Fri",
@@ -14668,11 +14668,11 @@
       },
       {
         "label": "Weds",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Thurs",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Fri",
@@ -15070,11 +15070,11 @@
       },
       {
         "label": "Weds",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Thurs",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Fri",
@@ -15086,7 +15086,7 @@
       },
       {
         "label": "Sun",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -15894,11 +15894,11 @@
       },
       {
         "label": "Weds",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Thurs",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Fri",
@@ -16308,11 +16308,11 @@
       },
       {
         "label": "Weds",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Thurs",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Fri",
@@ -17546,11 +17546,11 @@
       },
       {
         "label": "Weds",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Thurs",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Fri",
@@ -17763,11 +17763,11 @@
       },
       {
         "label": "Fri",
-        "value": "11:00-23:00"
+        "value": "11:30-23:00"
       },
       {
         "label": "Sat",
-        "value": "11:00-23:00"
+        "value": "11:30-23:00"
       },
       {
         "label": "Sun",
@@ -18784,7 +18784,7 @@
       },
       {
         "label": "Thurs",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Fri",
@@ -18796,7 +18796,7 @@
       },
       {
         "label": "Sun",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -19202,7 +19202,7 @@
       },
       {
         "label": "Thurs",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Fri",
@@ -19214,7 +19214,7 @@
       },
       {
         "label": "Sun",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -27266,7 +27266,7 @@
   {
     "link": "/gatwick-airport-south-terminal",
     "ClosedDate": "0001-01-01T00:00:00",
-    "OpenDate": "2024-05-02T00:00:00",
+    "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": false,
     "isOpenForDelivery": false,
     "isOpenForDineIn": true,
@@ -27374,31 +27374,31 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "03:30-21:00"
+        "value": "04:00-21:00"
       },
       {
         "label": "Tues",
-        "value": "03:30-21:00"
+        "value": "04:00-21:00"
       },
       {
         "label": "Weds",
-        "value": "03:30-21:00"
+        "value": "04:00-21:00"
       },
       {
         "label": "Thurs",
-        "value": "03:30-21:00"
+        "value": "04:00-21:00"
       },
       {
         "label": "Fri",
-        "value": "03:30-21:00"
+        "value": "04:00-21:00"
       },
       {
         "label": "Sat",
-        "value": "03:30-21:00"
+        "value": "04:00-21:00"
       },
       {
         "label": "Sun",
-        "value": "03:30-21:00"
+        "value": "04:00-21:00"
       }
     ],
     "DisabledAccess": true,
@@ -33761,19 +33761,19 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "12:00-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Tues",
-        "value": "12:00-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Weds",
-        "value": "12:00-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Thurs",
-        "value": "12:00-22:30"
+        "value": "12:00-21:30"
       },
       {
         "label": "Fri",
@@ -34793,7 +34793,7 @@
       },
       {
         "label": "Sun",
-        "value": "11:00-20:00"
+        "value": "11:30-20:00"
       }
     ],
     "DisabledAccess": true,
@@ -42446,7 +42446,7 @@
   },
   {
     "link": "/swindon-old-town",
-    "ClosedDate": "2050-01-01T00:00:00",
+    "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": true,
     "isOpenForDelivery": true,
@@ -55035,11 +55035,11 @@
       },
       {
         "label": "Fri",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
@@ -55236,11 +55236,11 @@
       },
       {
         "label": "Fri",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-23:00"
+        "value": "11:30-22:30"
       },
       {
         "label": "Sun",
@@ -56478,11 +56478,11 @@
       },
       {
         "label": "Fri",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
@@ -57708,7 +57708,7 @@
       },
       {
         "label": "Fri",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
@@ -57716,7 +57716,7 @@
       },
       {
         "label": "Sun",
-        "value": "11:30-22:00"
+        "value": "11:30-21:00"
       }
     ],
     "DisabledAccess": false,
@@ -63046,7 +63046,7 @@
       },
       {
         "label": "Weds",
-        "value": "11:30-21:30"
+        "value": "07:12-21:30"
       },
       {
         "label": "Thurs",
@@ -63649,31 +63649,31 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "11:30-22:00"
+        "value": "11:30-21:30"
       },
       {
         "label": "Tues",
-        "value": "11:30-22:00"
+        "value": "11:30-21:30"
       },
       {
         "label": "Weds",
-        "value": "11:30-22:00"
+        "value": "11:30-21:30"
       },
       {
         "label": "Thurs",
-        "value": "11:30-22:00"
+        "value": "11:30-21:30"
       },
       {
         "label": "Fri",
-        "value": "11:30-22:30"
+        "value": "11:00-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-22:30"
+        "value": "11:00-22:00"
       },
       {
         "label": "Sun",
-        "value": "11:30-22:00"
+        "value": "11:00-21:30"
       }
     ],
     "DisabledAccess": true,
