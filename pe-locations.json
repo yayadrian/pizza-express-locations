@@ -6633,7 +6633,7 @@
       },
       {
         "label": "Sat",
-        "value": "12:00-22:00"
+        "value": "11:30-23:00"
       },
       {
         "label": "Sun",
@@ -23124,7 +23124,7 @@
     "OrderTalkId": null
   },
   {
-    "link": "/brentwood-high-street",
+    "link": "/applemusic",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": true,
