@@ -23124,7 +23124,7 @@
     "OrderTalkId": null
   },
   {
-    "link": "/applemusic",
+    "link": "/brentwood-high-street",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": true,
@@ -52407,7 +52407,7 @@
     "hideTodaysMenuCTA": false,
     "hideCollectionAndDeliveryCTAS": false,
     "hideFromLoyalty": false,
-    "OATEnabled": false,
+    "OATEnabled": true,
     "ShowOnboardingScreen": false,
     "id": "207144ff-c127-4aec-a635-5fc8487297b4",
     "restaurantId": 3213,
@@ -53030,7 +53030,7 @@
     "hideTodaysMenuCTA": false,
     "hideCollectionAndDeliveryCTAS": false,
     "hideFromLoyalty": false,
-    "OATEnabled": false,
+    "OATEnabled": true,
     "ShowOnboardingScreen": false,
     "id": "e6e85d14-91e8-4636-911a-3afe5afddea5",
     "restaurantId": 1531,
