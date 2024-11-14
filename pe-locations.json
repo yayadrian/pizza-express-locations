@@ -41830,6 +41830,191 @@
     "OrderTalkId": null
   },
   {
+    "link": "/bursledon-tesco-pod",
+    "ClosedDate": "0001-01-01T00:00:00",
+    "OpenDate": "0001-01-01T00:00:00",
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
+    "collectionLink": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/menu/351",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "deliveryLink": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/delivery",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "dineInLink": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "Bromley Widmore Road",
+      "Query": "",
+      "Title": "",
+      "Url": "/bromley-widmore-road",
+      "Target": "",
+      "TargetId": "b60f0bb6-b2e7-4513-a726-b5bb867e8ba3",
+      "Type": 4,
+      "Style": ""
+    },
+    "temporarilyClosed": true,
+    "enableBooking": false,
+    "disabledBookings": true,
+    "hideBookingComponent": true,
+    "hideRewardsAndOffers": true,
+    "hideTodaysMenuCTA": true,
+    "hideCollectionAndDeliveryCTAS": false,
+    "hideFromLoyalty": true,
+    "OATEnabled": false,
+    "ShowOnboardingScreen": false,
+    "id": "70e593b5-ae79-4dee-bd81-d52b65c34c3f",
+    "restaurantId": 3801,
+    "name": "Bursledon Hamble Lane",
+    "Address1": "Tesco Extra, Hamble Lane",
+    "Address2": "Bursledon",
+    "Address3": "",
+    "Location": "Southampton",
+    "Region": "Hampshire",
+    "Postcode": "SO31 8GN",
+    "fullAddress": "Tesco Extra, Hamble Lane, Bursledon, Southampton, SO31 8GN",
+    "phone": "0238 093 0020",
+    "ManagerName": "",
+    "Email": "Bursledon.hamblelane@pizzaexpress.com",
+    "latitude": 50.8943253,
+    "longitude": -1.320139,
+    "image": {
+      "Alt": "Table setting",
+      "Border": "",
+      "Class": "",
+      "Height": 680,
+      "HSpace": 0,
+      "Src": "/-/media/Images/App-Images/829x680lifestyle4app.ashx",
+      "VSpace": 0,
+      "Width": 829,
+      "MediaId": "b270e554-619f-408d-9329-b6056a622793",
+      "Title": "",
+      "Language": {
+        "Name": "en"
+      },
+      "MediaExists": true
+    },
+    "clickAndCollect": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/menu/351",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "deliveroo": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://deliveroo.co.uk/menu/london/bromley/bromley-pizza-express",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "uberEats": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/delivery",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "justEat": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://www.just-eat.co.uk/restaurants-pizzaexpress-bromley-widmore-road-bromley",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "onUberTrial": false,
+    "menuBand": "2",
+    "facilities": [
+      {
+        "label": "Collection",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/collection.ashx"
+      },
+      {
+        "label": "Delivery",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/delivery.ashx"
+      }
+    ],
+    "openingHours": [
+      {
+        "label": "Mon",
+        "value": "11:30-22:00"
+      },
+      {
+        "label": "Tues",
+        "value": "11:30-22:00"
+      },
+      {
+        "label": "Weds",
+        "value": "11:30-22:00"
+      },
+      {
+        "label": "Thurs",
+        "value": "11:30-23:00"
+      },
+      {
+        "label": "Fri",
+        "value": "11:30-23:00"
+      },
+      {
+        "label": "Sat",
+        "value": "11:30-23:00"
+      },
+      {
+        "label": "Sun",
+        "value": "11:30-22:00"
+      }
+    ],
+    "DisabledAccess": false,
+    "Favourite": false,
+    "IsClosed": false,
+    "RestaurantClosedNotification": null,
+    "UrlName": "Bursledon-Tesco-Pod",
+    "distance": 66.60310519615305,
+    "DeliverooOn": false,
+    "ClickAndCollectOn": false,
+    "DeliverooUrl": null,
+    "OrderTalkId": null
+  },
+  {
     "link": "/ipswich-regatta-quay",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
