@@ -41830,7 +41830,7 @@
     "OrderTalkId": null
   },
   {
-    "link": "/bursledon-tesco-pod",
+    "link": "/bursledon-hamble-lane",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": false,
@@ -41866,7 +41866,7 @@
       "Text": "Bursledon Hamble Lane",
       "Query": "",
       "Title": "",
-      "Url": "/bursledon-tesco-pod",
+      "Url": "/bursledon-hamble-lane",
       "Target": "",
       "TargetId": "70e593b5-ae79-4dee-bd81-d52b65c34c3f",
       "Type": 4,
@@ -41985,7 +41985,7 @@
     "Favourite": false,
     "IsClosed": false,
     "RestaurantClosedNotification": null,
-    "UrlName": "Bursledon-Tesco-Pod",
+    "UrlName": "bursledon-hamble-lane",
     "distance": 66.60310519615305,
     "DeliverooOn": false,
     "ClickAndCollectOn": false,
