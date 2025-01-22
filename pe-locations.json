@@ -18657,31 +18657,31 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Tues",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Weds",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Thurs",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Fri",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Sun",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -22369,31 +22369,31 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Tues",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Weds",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Thurs",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Fri",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Sun",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -24849,31 +24849,31 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Tues",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Weds",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Thurs",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Fri",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Sun",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -27507,31 +27507,31 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "04:00-21:00"
+        "value": "05:00-21:00"
       },
       {
         "label": "Tues",
-        "value": "04:00-21:00"
+        "value": "05:00-21:00"
       },
       {
         "label": "Weds",
-        "value": "04:00-21:00"
+        "value": "05:00-21:00"
       },
       {
         "label": "Thurs",
-        "value": "04:00-21:00"
+        "value": "05:00-21:00"
       },
       {
         "label": "Fri",
-        "value": "04:00-21:00"
+        "value": "05:00-21:00"
       },
       {
         "label": "Sat",
-        "value": "04:00-21:00"
+        "value": "05:00-21:00"
       },
       {
         "label": "Sun",
-        "value": "04:00-21:00"
+        "value": "05:00-21:00"
       }
     ],
     "DisabledAccess": true,
@@ -31425,31 +31425,31 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Tues",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Weds",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Thurs",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Fri",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Sun",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -31930,9 +31930,9 @@
     "hideTodaysMenuCTA": false,
     "hideCollectionAndDeliveryCTAS": false,
     "hideFromLoyalty": false,
-    "OATEnabled": false,
+    "OATEnabled": true,
     "ShowOnboardingScreen": false,
-    "Whitelist": "",
+    "Whitelist": "*@thfzgnqj.mailosaur.net ",
     "id": "a6bcd6a1-16b0-4a01-b480-8f8a99046b8c",
     "restaurantId": 771,
     "name": "Farnham Castle Street",
@@ -34559,31 +34559,31 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Tues",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Weds",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Thurs",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Fri",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Sun",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       }
     ],
     "DisabledAccess": true,
