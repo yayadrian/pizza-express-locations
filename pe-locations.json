@@ -40388,9 +40388,9 @@
     "link": "/winchester-bridge-street",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
-    "isOpenForDelivery": true,
-    "isOpenForDineIn": true,
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -40545,36 +40545,7 @@
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/wifi.ashx"
       }
     ],
-    "openingHours": [
-      {
-        "label": "Mon",
-        "value": "11:30-21:30"
-      },
-      {
-        "label": "Tues",
-        "value": "11:30-21:30"
-      },
-      {
-        "label": "Weds",
-        "value": "11:30-21:30"
-      },
-      {
-        "label": "Thurs",
-        "value": "11:30-22:00"
-      },
-      {
-        "label": "Fri",
-        "value": "11:30-22:00"
-      },
-      {
-        "label": "Sat",
-        "value": "11:30-22:00"
-      },
-      {
-        "label": "Sun",
-        "value": "11:30-21:30"
-      }
-    ],
+    "openingHours": [],
     "DisabledAccess": false,
     "Favourite": false,
     "IsClosed": false,
