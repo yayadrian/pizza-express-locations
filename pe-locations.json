@@ -42136,31 +42136,31 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "12:00-20:00"
+        "value": "11:30-21:00"
       },
       {
         "label": "Tues",
-        "value": "12:00-20:00"
+        "value": "11:30-21:00"
       },
       {
         "label": "Weds",
-        "value": "12:00-20:00"
+        "value": "11:30-21:00"
       },
       {
         "label": "Thurs",
-        "value": "12:00-20:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Fri",
-        "value": "12:00-20:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "12:00-20:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
-        "value": "12:00-17:00"
+        "value": "11:30-21:00"
       }
     ],
     "DisabledAccess": false,
