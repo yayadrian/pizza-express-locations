@@ -58565,6 +58565,159 @@
     "OrderTalkId": null
   },
   {
+    "link": "/swansea-marina-albert-row",
+    "ClosedDate": "0001-01-01T00:00:00",
+    "OpenDate": "0001-01-01T00:00:00",
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
+    "collectionLink": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/menu/3802",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "deliveryLink": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/delivery",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "dineInLink": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "Swansea Marina Albert Row",
+      "Query": "",
+      "Title": "",
+      "Url": "/swansea-marina-albert-row",
+      "Target": "",
+      "TargetId": "f8570053-c6a6-44c5-bfe3-1371bb3e67c7",
+      "Type": 4,
+      "Style": ""
+    },
+    "temporarilyClosed": true,
+    "enableBooking": false,
+    "disabledBookings": true,
+    "hideBookingComponent": true,
+    "hideRewardsAndOffers": true,
+    "hideTodaysMenuCTA": true,
+    "hideCollectionAndDeliveryCTAS": false,
+    "hideFromLoyalty": true,
+    "OATEnabled": false,
+    "ShowOnboardingScreen": false,
+    "Whitelist": "",
+    "id": "f8570053-c6a6-44c5-bfe3-1371bb3e67c7",
+    "restaurantId": 3802,
+    "name": "Swansea Marina Albert Row",
+    "Address1": "Tesco Superstore, Swansea Marina",
+    "Address2": "Albert Row",
+    "Address3": "Oystermouth Road",
+    "Location": "Swansea",
+    "Region": "Swansea",
+    "Postcode": "SA1 3RA",
+    "fullAddress": "Tesco Superstore, Swansea Marina, Albert Row, Oystermouth Road, Swansea SA1 3RA",
+    "phone": "01792252250",
+    "ManagerName": "",
+    "Email": "Swansea.marina@pizzaexpress.com",
+    "latitude": 51.6170731,
+    "longitude": -3.94471264,
+    "image": {
+      "Alt": "PizzaExpress Swindon Designer Outlet",
+      "Border": "",
+      "Class": "",
+      "Height": 1000,
+      "HSpace": 0,
+      "Src": "/-/media/2023-Images/May/PizzaExpress_SwindonOutlet_Interior_10.ashx",
+      "VSpace": 0,
+      "Width": 1500,
+      "MediaId": "97106d4e-4d33-4063-bfb4-2703aca40f3b",
+      "Title": "",
+      "Language": {
+        "Name": "en"
+      },
+      "MediaExists": true
+    },
+    "clickAndCollect": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/menu/3802",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "deliveroo": null,
+    "uberEats": null,
+    "justEat": null,
+    "onUberTrial": false,
+    "menuBand": "4",
+    "facilities": [
+      {
+        "label": "Collection",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/collection.ashx"
+      },
+      {
+        "label": "Delivery",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/delivery.ashx"
+      }
+    ],
+    "openingHours": [
+      {
+        "label": "Mon",
+        "value": "11:30-21:00"
+      },
+      {
+        "label": "Tues",
+        "value": "11:30-21:00"
+      },
+      {
+        "label": "Weds",
+        "value": "11:30-21:00"
+      },
+      {
+        "label": "Thurs",
+        "value": "11:30-22:00"
+      },
+      {
+        "label": "Fri",
+        "value": "11:30-22:00"
+      },
+      {
+        "label": "Sat",
+        "value": "11:30-22:00"
+      },
+      {
+        "label": "Sun",
+        "value": "11:30-21:00"
+      }
+    ],
+    "DisabledAccess": false,
+    "Favourite": false,
+    "IsClosed": false,
+    "RestaurantClosedNotification": null,
+    "UrlName": "Swansea-Marina-Albert-Row",
+    "distance": 164.28554660194433,
+    "DeliverooOn": false,
+    "ClickAndCollectOn": false,
+    "DeliverooUrl": null,
+    "OrderTalkId": null
+  },
+  {
     "link": "/manchester-the-trafford-shopping-centre",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
