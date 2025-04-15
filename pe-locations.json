@@ -58568,8 +58568,8 @@
     "link": "/swansea-marina-albert-row",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
+    "isOpenForCollection": true,
+    "isOpenForDelivery": true,
     "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
