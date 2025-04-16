@@ -42013,7 +42013,7 @@
   {
     "link": "/bursledon-hamble-lane",
     "ClosedDate": "0001-01-01T00:00:00",
-    "OpenDate": "2024-11-22T00:00:00",
+    "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": true,
     "isOpenForDelivery": true,
     "isOpenForDineIn": false,
@@ -50246,11 +50246,11 @@
       },
       {
         "label": "Fri",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
@@ -51268,11 +51268,11 @@
       },
       {
         "label": "Fri",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
@@ -57100,11 +57100,11 @@
       },
       {
         "label": "Fri",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
@@ -57306,11 +57306,11 @@
       },
       {
         "label": "Fri",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
@@ -58568,8 +58568,8 @@
     "link": "/swansea-marina-albert-row",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
-    "isOpenForDelivery": true,
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
     "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
@@ -59919,11 +59919,11 @@
       },
       {
         "label": "Fri",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
@@ -61991,11 +61991,11 @@
       },
       {
         "label": "Fri",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
@@ -62407,11 +62407,11 @@
       },
       {
         "label": "Fri",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
@@ -62617,11 +62617,11 @@
       },
       {
         "label": "Fri",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
@@ -62823,11 +62823,11 @@
       },
       {
         "label": "Fri",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
@@ -63445,11 +63445,11 @@
       },
       {
         "label": "Fri",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
@@ -68406,11 +68406,11 @@
       },
       {
         "label": "Fri",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
@@ -68612,11 +68612,11 @@
       },
       {
         "label": "Fri",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
@@ -68818,11 +68818,11 @@
       },
       {
         "label": "Fri",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
@@ -69020,11 +69020,11 @@
       },
       {
         "label": "Fri",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
@@ -69436,11 +69436,11 @@
       },
       {
         "label": "Fri",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
@@ -69642,11 +69642,11 @@
       },
       {
         "label": "Fri",
-        "value": "11:30-22:00"
+        "value": "11:30-21:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-22:00"
+        "value": "11:30-21:00"
       },
       {
         "label": "Sun",
@@ -69860,11 +69860,11 @@
       },
       {
         "label": "Fri",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
