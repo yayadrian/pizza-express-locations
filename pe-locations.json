@@ -49075,7 +49075,7 @@
     "hideTodaysMenuCTA": false,
     "hideCollectionAndDeliveryCTAS": false,
     "hideFromLoyalty": false,
-    "OATEnabled": true,
+    "OATEnabled": false,
     "ShowOnboardingScreen": false,
     "Whitelist": "",
     "id": "fcd6f7ab-49ee-4b0f-916f-b5c1fcc2c52f",
