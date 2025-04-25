@@ -18498,7 +18498,7 @@
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": false,
-    "isOpenForDelivery": true,
+    "isOpenForDelivery": false,
     "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
@@ -22206,7 +22206,7 @@
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": false,
-    "isOpenForDelivery": true,
+    "isOpenForDelivery": false,
     "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
@@ -24690,7 +24690,7 @@
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": false,
-    "isOpenForDelivery": true,
+    "isOpenForDelivery": false,
     "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
@@ -31262,7 +31262,7 @@
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": false,
-    "isOpenForDelivery": true,
+    "isOpenForDelivery": false,
     "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
@@ -34396,7 +34396,7 @@
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": false,
-    "isOpenForDelivery": true,
+    "isOpenForDelivery": false,
     "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
@@ -59534,7 +59534,7 @@
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": false,
-    "isOpenForDelivery": true,
+    "isOpenForDelivery": false,
     "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
