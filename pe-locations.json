@@ -33757,9 +33757,9 @@
     "link": "/lewes-high-street",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
+    "isOpenForCollection": false,
     "isOpenForDelivery": false,
-    "isOpenForDineIn": true,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -33796,14 +33796,14 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": false,
+    "temporarilyClosed": true,
     "enableBooking": false,
-    "disabledBookings": false,
-    "hideBookingComponent": false,
-    "hideRewardsAndOffers": false,
-    "hideTodaysMenuCTA": false,
-    "hideCollectionAndDeliveryCTAS": false,
-    "hideFromLoyalty": false,
+    "disabledBookings": true,
+    "hideBookingComponent": true,
+    "hideRewardsAndOffers": true,
+    "hideTodaysMenuCTA": true,
+    "hideCollectionAndDeliveryCTAS": true,
+    "hideFromLoyalty": true,
     "OATEnabled": false,
     "ShowOnboardingScreen": false,
     "Whitelist": "",
@@ -33922,36 +33922,7 @@
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/wifi.ashx"
       }
     ],
-    "openingHours": [
-      {
-        "label": "Mon",
-        "value": "12:00-21:00"
-      },
-      {
-        "label": "Tues",
-        "value": "12:00-21:00"
-      },
-      {
-        "label": "Weds",
-        "value": "12:00-21:00"
-      },
-      {
-        "label": "Thurs",
-        "value": "12:00-21:30"
-      },
-      {
-        "label": "Fri",
-        "value": "11:30-22:30"
-      },
-      {
-        "label": "Sat",
-        "value": "11:30-22:30"
-      },
-      {
-        "label": "Sun",
-        "value": "11:30-21:30"
-      }
-    ],
+    "openingHours": [],
     "DisabledAccess": true,
     "Favourite": false,
     "IsClosed": false,
