@@ -51033,15 +51033,15 @@
       },
       {
         "label": "Fri",
-        "value": "11:30-22:00"
+        "value": "11:30-21:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-22:00"
+        "value": "11:30-21:00"
       },
       {
         "label": "Sun",
-        "value": "11:30-20:00"
+        "value": "11:30-21:00"
       }
     ],
     "DisabledAccess": false,
@@ -67105,7 +67105,7 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "11:00-20:00"
+        "value": "11:30-20:00"
       },
       {
         "label": "Tues",
@@ -67121,15 +67121,15 @@
       },
       {
         "label": "Fri",
-        "value": "11:00-21:00"
+        "value": "11:30-21:00"
       },
       {
         "label": "Sat",
-        "value": "11:00-21:00"
+        "value": "11:30-21:00"
       },
       {
         "label": "Sun",
-        "value": "11:00-20:00"
+        "value": "11:30-20:00"
       }
     ],
     "DisabledAccess": true,
