@@ -27914,6 +27914,10 @@
       {
         "label": "WiFi",
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/wifi.ashx"
+      },
+      {
+        "label": "Delivery",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/delivery.ashx"
       }
     ],
     "openingHours": [
