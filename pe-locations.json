@@ -15590,6 +15590,208 @@
     "OrderTalkId": null
   },
   {
+    "link": "/kingston-riverside-walk",
+    "ClosedDate": "0001-01-01T00:00:00",
+    "OpenDate": "0001-01-01T00:00:00",
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
+    "collectionLink": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/menu/3486",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "deliveryLink": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/delivery",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "dineInLink": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "Kingston Riverside Walk",
+      "Query": "",
+      "Title": "",
+      "Url": "/kingston-riverside-walk",
+      "Target": "",
+      "TargetId": "8f278e04-9263-4b81-85f8-ecbfa869ccdd",
+      "Type": 4,
+      "Style": ""
+    },
+    "temporarilyClosed": true,
+    "enableBooking": false,
+    "disabledBookings": false,
+    "hideBookingComponent": false,
+    "hideRewardsAndOffers": false,
+    "hideTodaysMenuCTA": false,
+    "hideCollectionAndDeliveryCTAS": false,
+    "hideFromLoyalty": false,
+    "OATEnabled": false,
+    "ShowOnboardingScreen": false,
+    "Whitelist": "",
+    "id": "8f278e04-9263-4b81-85f8-ecbfa869ccdd",
+    "restaurantId": 3486,
+    "name": "Kingston Riverside Walk",
+    "Address1": "5 Riverside Walk",
+    "Address2": "",
+    "Address3": "",
+    "Location": "Kingston upon Thames",
+    "Region": "Surrey",
+    "Postcode": "KT1 1QN",
+    "fullAddress": "5 Riverside Walk, Kingston On Thames, KT1 1QN",
+    "phone": "02030400990",
+    "ManagerName": "",
+    "Email": "Kingston.RiversideWalk@pizzaexpress.com",
+    "latitude": 51.4105453,
+    "longitude": -0.308088243,
+    "image": {
+      "Alt": "Kingston The Rotunda",
+      "Border": "",
+      "Class": "",
+      "Height": 680,
+      "HSpace": 0,
+      "Src": "/-/media/Images/App-Images/kingstonrotundaapp.ashx",
+      "VSpace": 0,
+      "Width": 829,
+      "MediaId": "c0538014-fc23-4dda-ad7f-be77d5117122",
+      "Title": "",
+      "Language": {
+        "Name": "en"
+      },
+      "MediaExists": true
+    },
+    "clickAndCollect": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/menu/3486",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "deliveroo": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "uberEats": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/delivery",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "justEat": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "onUberTrial": false,
+    "menuBand": "3",
+    "facilities": [
+      {
+        "label": "Baby Facilities",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/baby-facilities.ashx"
+      },
+      {
+        "label": "Collection",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/collection.ashx"
+      },
+      {
+        "label": "Disabled Access",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/disabled-access.ashx"
+      },
+      {
+        "label": "Disabled Toilet",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/disabled-toilet.ashx"
+      },
+      {
+        "label": "Pizza Making Parties",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/party-1.ashx"
+      },
+      {
+        "label": "WiFi",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/wifi.ashx"
+      }
+    ],
+    "openingHours": [
+      {
+        "label": "Mon",
+        "value": "11:30-22:00"
+      },
+      {
+        "label": "Tues",
+        "value": "11:30-22:00"
+      },
+      {
+        "label": "Weds",
+        "value": "11:30-22:00"
+      },
+      {
+        "label": "Thurs",
+        "value": "11:30-22:00"
+      },
+      {
+        "label": "Fri",
+        "value": "11:30-23:00"
+      },
+      {
+        "label": "Sat",
+        "value": "11:30-23:00"
+      },
+      {
+        "label": "Sun",
+        "value": "12:00-22:00"
+      }
+    ],
+    "DisabledAccess": true,
+    "Favourite": false,
+    "IsClosed": false,
+    "RestaurantClosedNotification": null,
+    "UrlName": "Kingston-Riverside-Walk",
+    "distance": 10.078495971519544,
+    "DeliverooOn": false,
+    "ClickAndCollectOn": false,
+    "DeliverooUrl": null,
+    "OrderTalkId": null
+  },
+  {
     "link": "/sutton-high-street",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
@@ -26759,16 +26961,16 @@
     "latitude": 51.58349,
     "longitude": 0.465383,
     "image": {
-      "Alt": "Basildon",
+      "Alt": "PizzaExpress Basildon Festival Leisure Park",
       "Border": "",
       "Class": "",
-      "Height": 680,
+      "Height": 1000,
       "HSpace": 0,
-      "Src": "/-/media/Images/App-Images/basildonapp.ashx",
+      "Src": "/-/media/2025-Images/Jun/PEX_Basildon_FLP_Exterior_007.ashx",
       "VSpace": 0,
-      "Width": 829,
-      "MediaId": "2752a3c7-5eb6-4ca0-bdba-741c45a51f7d",
-      "Title": "",
+      "Width": 1500,
+      "MediaId": "beeac634-7ba7-4131-bdb6-386b80524294",
+      "Title": "PizzaExpress Basildon Festival Leisure Park",
       "Language": {
         "Name": "en"
       },
