@@ -35993,7 +35993,7 @@
     "link": "/brighton-prince-albert-street",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
+    "isOpenForCollection": false,
     "isOpenForDelivery": false,
     "isOpenForDineIn": true,
     "collectionLink": {
@@ -58894,8 +58894,8 @@
     "link": "/manchester-the-trafford-shopping-centre",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
-    "isOpenForDelivery": true,
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
     "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
@@ -61374,9 +61374,9 @@
     "link": "/york-designer-outlet",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
-    "isOpenForDelivery": true,
-    "isOpenForDineIn": true,
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
