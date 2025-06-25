@@ -50594,10 +50594,6 @@
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/delivery.ashx"
       },
       {
-        "label": "Disabled Access",
-        "value": "/-/media/Kyra-NBW/Rebrand-Icons/disabled-access.ashx"
-      },
-      {
         "label": "Disabled Toilet",
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/disabled-toilet.ashx"
       },
@@ -50640,7 +50636,7 @@
         "value": "11:30-22:00"
       }
     ],
-    "DisabledAccess": true,
+    "DisabledAccess": false,
     "Favourite": false,
     "IsClosed": false,
     "RestaurantClosedNotification": null,
@@ -58478,6 +58474,10 @@
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/delivery.ashx"
       },
       {
+        "label": "Disabled Access",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/disabled-access.ashx"
+      },
+      {
         "label": "Disabled Toilet",
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/disabled-toilet.ashx"
       },
@@ -58520,7 +58520,7 @@
         "value": "11:30-22:00"
       }
     ],
-    "DisabledAccess": false,
+    "DisabledAccess": true,
     "Favourite": false,
     "IsClosed": false,
     "RestaurantClosedNotification": null,
