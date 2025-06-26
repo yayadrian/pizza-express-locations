@@ -22610,6 +22610,190 @@
     "OrderTalkId": null
   },
   {
+    "link": "/redhill-gallery-walk",
+    "ClosedDate": "0001-01-01T00:00:00",
+    "OpenDate": "0001-01-01T00:00:00",
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
+    "collectionLink": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/menu/3485",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "deliveryLink": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/delivery",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "dineInLink": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "Redhill Gallery Walk",
+      "Query": "",
+      "Title": "",
+      "Url": "/redhill-gallery-walk",
+      "Target": "",
+      "TargetId": "ef738041-47a1-4fda-94d6-7a0f43c4b1e5",
+      "Type": 4,
+      "Style": ""
+    },
+    "temporarilyClosed": true,
+    "enableBooking": false,
+    "disabledBookings": false,
+    "hideBookingComponent": false,
+    "hideRewardsAndOffers": false,
+    "hideTodaysMenuCTA": false,
+    "hideCollectionAndDeliveryCTAS": false,
+    "hideFromLoyalty": false,
+    "OATEnabled": false,
+    "ShowOnboardingScreen": false,
+    "Whitelist": "",
+    "id": "ef738041-47a1-4fda-94d6-7a0f43c4b1e5",
+    "restaurantId": 3485,
+    "name": "Redhill Gallery Walk",
+    "Address1": "8 Gallery Walk",
+    "Address2": "",
+    "Address3": "",
+    "Location": "Redhill",
+    "Region": "Surrey",
+    "Postcode": "RH1 1RU",
+    "fullAddress": "8 Gallery Walk, Redhill, Surrey, RH1 1RU",
+    "phone": "01737 532 500",
+    "ManagerName": "",
+    "Email": "Redhill.GalleryWalk@pizzaexpress.com",
+    "latitude": 51.2393837,
+    "longitude": -0.167562813,
+    "image": {
+      "Alt": "PizzaExpress Reading Oracle",
+      "Border": "",
+      "Class": "",
+      "Height": 1000,
+      "HSpace": 0,
+      "Src": "/-/media/2023-Images/Jun/PEX_Reading_Nostalgic_003.ashx",
+      "VSpace": 0,
+      "Width": 1500,
+      "MediaId": "35e7b243-6b12-49b4-b2ea-f0fef87f7b00",
+      "Title": "",
+      "Language": {
+        "Name": "en"
+      },
+      "MediaExists": true
+    },
+    "clickAndCollect": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/menu/3485",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "deliveroo": null,
+    "uberEats": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/delivery",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "justEat": null,
+    "onUberTrial": false,
+    "menuBand": "2",
+    "facilities": [
+      {
+        "label": "Baby Facilities",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/baby-facilities.ashx"
+      },
+      {
+        "label": "Collection",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/collection.ashx"
+      },
+      {
+        "label": "Delivery",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/delivery.ashx"
+      },
+      {
+        "label": "Disabled Toilet",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/disabled-toilet.ashx"
+      },
+      {
+        "label": "Outdoor dining",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/outdoor-dining.ashx"
+      },
+      {
+        "label": "Pizza Making Parties",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/party-1.ashx"
+      },
+      {
+        "label": "WiFi",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/wifi.ashx"
+      }
+    ],
+    "openingHours": [
+      {
+        "label": "Mon",
+        "value": "11:30-22:00"
+      },
+      {
+        "label": "Tues",
+        "value": "11:30-22:00"
+      },
+      {
+        "label": "Weds",
+        "value": "11:30-22:00"
+      },
+      {
+        "label": "Thurs",
+        "value": "11:30-22:30"
+      },
+      {
+        "label": "Fri",
+        "value": "11:30-23:00"
+      },
+      {
+        "label": "Sat",
+        "value": "11:30-23:00"
+      },
+      {
+        "label": "Sun",
+        "value": "11:30-22:00"
+      }
+    ],
+    "DisabledAccess": false,
+    "Favourite": false,
+    "IsClosed": false,
+    "RestaurantClosedNotification": null,
+    "UrlName": "Redhill-Gallery-Walk",
+    "distance": 18.302434081641447,
+    "DeliverooOn": false,
+    "ClickAndCollectOn": false,
+    "DeliverooUrl": null,
+    "OrderTalkId": null
+  },
+  {
     "link": "/hatfield-galleria-shopping-outlet",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
