@@ -27721,9 +27721,9 @@
     "link": "/crawley-the-boulevard",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
-    "isOpenForDelivery": true,
-    "isOpenForDineIn": true,
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -27890,36 +27890,7 @@
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/wifi.ashx"
       }
     ],
-    "openingHours": [
-      {
-        "label": "Mon",
-        "value": "13:00-21:00"
-      },
-      {
-        "label": "Tues",
-        "value": "13:00-21:00"
-      },
-      {
-        "label": "Weds",
-        "value": "13:00-21:00"
-      },
-      {
-        "label": "Thurs",
-        "value": "13:00-21:00"
-      },
-      {
-        "label": "Fri",
-        "value": "13:00-22:00"
-      },
-      {
-        "label": "Sat",
-        "value": "12:00-22:00"
-      },
-      {
-        "label": "Sun",
-        "value": "12:00-20:00"
-      }
-    ],
+    "openingHours": [],
     "DisabledAccess": true,
     "Favourite": false,
     "IsClosed": false,
@@ -61558,9 +61529,9 @@
     "link": "/york-designer-outlet",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
+    "isOpenForCollection": true,
     "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
