@@ -22614,7 +22614,7 @@
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": true,
-    "isOpenForDelivery": true,
+    "isOpenForDelivery": false,
     "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
@@ -35976,7 +35976,7 @@
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": true,
-    "isOpenForDelivery": false,
+    "isOpenForDelivery": true,
     "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
