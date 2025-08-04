@@ -12915,9 +12915,9 @@
     "link": "/croydon-valley-leisure-park",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForCollection": true,
+    "isOpenForDelivery": true,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -12954,7 +12954,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "disabledBookings": false,
     "hideBookingComponent": false,
@@ -18859,31 +18859,31 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Tues",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Weds",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Thurs",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Fri",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -22571,31 +22571,31 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Tues",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Weds",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Thurs",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Fri",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -25235,31 +25235,31 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "12:00-21:00"
+        "value": "12:30-20:00"
       },
       {
         "label": "Tues",
-        "value": "12:00-21:00"
+        "value": "12:30-20:00"
       },
       {
         "label": "Weds",
-        "value": "12:00-21:00"
+        "value": "12:30-20:00"
       },
       {
         "label": "Thurs",
-        "value": "12:00-21:00"
+        "value": "12:30-20:00"
       },
       {
         "label": "Fri",
-        "value": "12:00-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Sat",
-        "value": "12:00-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Sun",
-        "value": "12:00-22:00"
+        "value": "12:00-21:00"
       }
     ],
     "DisabledAccess": true,
@@ -31815,31 +31815,31 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Tues",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Weds",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Thurs",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Fri",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -34920,31 +34920,31 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Tues",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Weds",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Thurs",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Fri",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -45229,9 +45229,9 @@
     "link": "/stratford-upon-avon-ely-street",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
-    "isOpenForDelivery": true,
-    "isOpenForDineIn": true,
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -49359,7 +49359,7 @@
       },
       {
         "label": "Thurs",
-        "value": "11:30-21:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Fri",
@@ -60050,31 +60050,31 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Tues",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Weds",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Thurs",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Fri",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
-        "value": "12:00-22:00"
+        "value": "11:30-22:00"
       }
     ],
     "DisabledAccess": true,
