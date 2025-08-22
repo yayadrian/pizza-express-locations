@@ -5501,15 +5501,15 @@
     "latitude": 51.53527,
     "longitude": -0.1038,
     "image": {
-      "Alt": "Table setting",
+      "Alt": "PizzaExpress Islington",
       "Border": "",
       "Class": "",
-      "Height": 680,
+      "Height": 1000,
       "HSpace": 0,
-      "Src": "/-/media/Images/App-Images/829x680lifestyle4app.ashx",
+      "Src": "/-/media/2025-Images/Aug/PEX_Islington_Exterior_01.ashx",
       "VSpace": 0,
-      "Width": 829,
-      "MediaId": "b270e554-619f-408d-9329-b6056a622793",
+      "Width": 1500,
+      "MediaId": "0c0a48a2-47d3-4daf-9312-20289674ed6d",
       "Title": "",
       "Language": {
         "Name": "en"
@@ -12981,15 +12981,15 @@
     "latitude": 51.37822,
     "longitude": -0.124534,
     "image": {
-      "Alt": "",
+      "Alt": "PizzaExpress Croydon Valley Leisure Park",
       "Border": "",
       "Class": "",
-      "Height": 680,
+      "Height": 1000,
       "HSpace": 0,
-      "Src": "/-/media/Images/App-Images/croydon_valley_park_app.ashx",
+      "Src": "/-/media/2025-Images/Aug/PEX_Croydon_ValleyPark_Exterior_004.ashx",
       "VSpace": 0,
-      "Width": 829,
-      "MediaId": "30b91688-b744-4b78-b726-29465da8fc06",
+      "Width": 1500,
+      "MediaId": "e13a293c-9240-46ba-b154-497e0b273e7f",
       "Title": "",
       "Language": {
         "Name": "en"
@@ -21859,15 +21859,15 @@
     "latitude": 51.4376831,
     "longitude": 0.27042,
     "image": {
-      "Alt": "Bluewater The Plaza",
+      "Alt": "PizzaExpress The Plaza Bluewater",
       "Border": "",
       "Class": "",
-      "Height": 680,
+      "Height": 1000,
       "HSpace": 0,
-      "Src": "/-/media/Images/App-Images/bluewater_the_plaza_app.ashx",
+      "Src": "/-/media/2025-Images/Aug/PEX_BluewaterSC2_Exterior_001.ashx",
       "VSpace": 0,
-      "Width": 829,
-      "MediaId": "8775ba1f-d201-45db-ab72-2d533d60e8c4",
+      "Width": 1500,
+      "MediaId": "46086ac7-2296-4545-8f7c-5ac2097f92e5",
       "Title": "",
       "Language": {
         "Name": "en"
@@ -22679,15 +22679,15 @@
     "latitude": 51.2393837,
     "longitude": -0.167562813,
     "image": {
-      "Alt": "PizzaExpress Reading Oracle",
+      "Alt": "PizzaExpress Redhill Gallery Walk",
       "Border": "",
       "Class": "",
       "Height": 1000,
       "HSpace": 0,
-      "Src": "/-/media/2023-Images/Jun/PEX_Reading_Nostalgic_003.ashx",
+      "Src": "/-/media/2025-Images/Aug/PEX_Redhill_Exterior_006.ashx",
       "VSpace": 0,
       "Width": 1500,
-      "MediaId": "35e7b243-6b12-49b4-b2ea-f0fef87f7b00",
+      "MediaId": "13f756ca-24a8-4746-922c-dca25a3c7e8b",
       "Title": "",
       "Language": {
         "Name": "en"
@@ -25759,15 +25759,15 @@
     "latitude": 51.60186,
     "longitude": -0.63473,
     "image": {
-      "Alt": "Beaconsfield",
+      "Alt": "PizzaExpress Beaconsfield London End",
       "Border": "",
       "Class": "",
-      "Height": 680,
+      "Height": 1000,
       "HSpace": 0,
-      "Src": "/-/media/Images/App-Images/beaconsfieldapp.ashx",
+      "Src": "/-/media/2025-Images/Aug/PEX_Beaconsfield_Exterior_001.ashx",
       "VSpace": 0,
-      "Width": 829,
-      "MediaId": "ef70ca5e-b2a9-4747-af85-2cfac05db36f",
+      "Width": 1500,
+      "MediaId": "8f3f0e74-4d10-463d-8f1e-2b3ddabb2568",
       "Title": "",
       "Language": {
         "Name": "en"
@@ -37247,6 +37247,212 @@
     "RestaurantClosedNotification": null,
     "UrlName": "ashford-north-street",
     "distance": 49.664255714582517,
+    "DeliverooOn": false,
+    "ClickAndCollectOn": false,
+    "DeliverooUrl": null,
+    "OrderTalkId": null
+  },
+  {
+    "link": "/cambridge-bridge-street",
+    "ClosedDate": "0001-01-01T00:00:00",
+    "OpenDate": "0001-01-01T00:00:00",
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
+    "collectionLink": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/menu/3488",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "deliveryLink": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/delivery",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "dineInLink": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "Cambridge Bridge Street",
+      "Query": "",
+      "Title": "",
+      "Url": "/cambridge-bridge-street",
+      "Target": "",
+      "TargetId": "c67e242e-d4fe-4d35-96f7-b32cf26d8b49",
+      "Type": 4,
+      "Style": ""
+    },
+    "temporarilyClosed": true,
+    "enableBooking": false,
+    "disabledBookings": false,
+    "hideBookingComponent": false,
+    "hideRewardsAndOffers": false,
+    "hideTodaysMenuCTA": false,
+    "hideCollectionAndDeliveryCTAS": false,
+    "hideFromLoyalty": false,
+    "OATEnabled": false,
+    "ShowOnboardingScreen": false,
+    "Whitelist": "",
+    "id": "c67e242e-d4fe-4d35-96f7-b32cf26d8b49",
+    "restaurantId": 3488,
+    "name": "Cambridge Bridge Street",
+    "Address1": "14-16 Bridge Street",
+    "Address2": "",
+    "Address3": "",
+    "Location": "Cambridge",
+    "Region": "",
+    "Postcode": "CB2 1UF",
+    "fullAddress": "14-16 Bridge Street, Cambridge, CB2 1UF",
+    "phone": "01223791190",
+    "ManagerName": "",
+    "Email": "Cambridge.BridgeStreet@pizzaexpress.com",
+    "latitude": 52.20871,
+    "longitude": 0.118335843,
+    "image": {
+      "Alt": "PizzaExpress Cambridge Regent Street",
+      "Border": "",
+      "Class": "",
+      "Height": 1000,
+      "HSpace": 0,
+      "Src": "/-/media/2023-Images/Jun/PizzaExpress_Cambridge_RegentsSt_Interior_14.ashx",
+      "VSpace": 0,
+      "Width": 1500,
+      "MediaId": "183c4dba-f1ef-4722-a8b5-9cebdde71460",
+      "Title": "",
+      "Language": {
+        "Name": "en"
+      },
+      "MediaExists": true
+    },
+    "clickAndCollect": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/menu/3488",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "deliveroo": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://deliveroo.co.uk/menu/cambridge/cambridge-centre/pizza-express-regent-street",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "uberEats": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/delivery",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "justEat": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://www.just-eat.co.uk/restaurants-pizzaexpress-cambridge-regent-street-trumpington",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "onUberTrial": false,
+    "menuBand": "3",
+    "facilities": [
+      {
+        "label": "Baby Facilities",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/baby-facilities.ashx"
+      },
+      {
+        "label": "Collection",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/collection.ashx"
+      },
+      {
+        "label": "Delivery",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/delivery.ashx"
+      },
+      {
+        "label": "Disabled Access",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/disabled-access.ashx"
+      },
+      {
+        "label": "Disabled Toilet",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/disabled-toilet.ashx"
+      },
+      {
+        "label": "Pizza Making Parties",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/party-1.ashx"
+      },
+      {
+        "label": "WiFi",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/wifi.ashx"
+      }
+    ],
+    "openingHours": [
+      {
+        "label": "Mon",
+        "value": "11:30-21:00"
+      },
+      {
+        "label": "Tues",
+        "value": "11:30-21:00"
+      },
+      {
+        "label": "Weds",
+        "value": "11:30-21:00"
+      },
+      {
+        "label": "Thurs",
+        "value": "11:30-21:00"
+      },
+      {
+        "label": "Fri",
+        "value": "11:30-23:00"
+      },
+      {
+        "label": "Sat",
+        "value": "11:30-23:00"
+      },
+      {
+        "label": "Sun",
+        "value": "11:30-21:00"
+      }
+    ],
+    "DisabledAccess": true,
+    "Favourite": false,
+    "IsClosed": false,
+    "RestaurantClosedNotification": null,
+    "UrlName": "Cambridge-Bridge-Street",
+    "distance": 49.767739011337937,
     "DeliverooOn": false,
     "ClickAndCollectOn": false,
     "DeliverooUrl": null,
