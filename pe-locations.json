@@ -1247,9 +1247,9 @@
     "link": "/london-bow-street",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
-    "isOpenForDelivery": true,
-    "isOpenForDineIn": true,
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -1286,7 +1286,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": false,
+    "temporarilyClosed": true,
     "enableBooking": false,
     "disabledBookings": false,
     "hideBookingComponent": false,
@@ -20144,6 +20144,170 @@
     "RestaurantClosedNotification": null,
     "UrlName": "walton-on-thames-new-zealand-avenue",
     "distance": 15.018454973411496,
+    "DeliverooOn": false,
+    "ClickAndCollectOn": false,
+    "DeliverooUrl": null,
+    "OrderTalkId": null
+  },
+  {
+    "link": "/cheshunt-brookfield-shopping-centre",
+    "ClosedDate": "0001-01-01T00:00:00",
+    "OpenDate": "0001-01-01T00:00:00",
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
+    "collectionLink": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/menu/3803",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "deliveryLink": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/delivery",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "dineInLink": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "Cheshunt Brookfield Shopping Centre",
+      "Query": "",
+      "Title": "",
+      "Url": "/cheshunt-brookfield-shopping-centre",
+      "Target": "",
+      "TargetId": "e3382578-91e4-4cae-b574-d505e051a59d",
+      "Type": 4,
+      "Style": ""
+    },
+    "temporarilyClosed": true,
+    "enableBooking": false,
+    "disabledBookings": true,
+    "hideBookingComponent": true,
+    "hideRewardsAndOffers": true,
+    "hideTodaysMenuCTA": true,
+    "hideCollectionAndDeliveryCTAS": false,
+    "hideFromLoyalty": true,
+    "OATEnabled": false,
+    "ShowOnboardingScreen": false,
+    "Whitelist": "",
+    "id": "e3382578-91e4-4cae-b574-d505e051a59d",
+    "restaurantId": 3803,
+    "name": "Cheshunt Brookfield Shopping Centre",
+    "Address1": "Tesco Stores Ltd, Brookfield Centre",
+    "Address2": "Cheshunt",
+    "Address3": "",
+    "Location": "Waltham Cross",
+    "Region": "Hertfordshire",
+    "Postcode": "EN8 0TA",
+    "fullAddress": "Tesco Stores Ltd, Brookfield Centre, Cheshunt, Waltham Cross, EN8 0TA",
+    "phone": "01992602600",
+    "ManagerName": "",
+    "Email": "Cheshunt.Brookfields@pizzaexpress.com",
+    "latitude": 51.71802,
+    "longitude": -0.0366515927,
+    "image": {
+      "Alt": "PizzaExpress Bursledon Hamble Lane",
+      "Border": "",
+      "Class": "",
+      "Height": 1000,
+      "HSpace": 0,
+      "Src": "/-/media/2024-Images/Dec/PizzaExpress_SouthamptonPOD_Exterior_01.ashx",
+      "VSpace": 0,
+      "Width": 1500,
+      "MediaId": "b7cb364c-b9e6-4cc8-8342-41a319cad5ce",
+      "Title": "",
+      "Language": {
+        "Name": "en"
+      },
+      "MediaExists": true
+    },
+    "clickAndCollect": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/menu/3803",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "deliveroo": null,
+    "uberEats": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/delivery",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "justEat": null,
+    "onUberTrial": false,
+    "menuBand": "2",
+    "facilities": [
+      {
+        "label": "Collection",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/collection.ashx"
+      },
+      {
+        "label": "Delivery",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/delivery.ashx"
+      }
+    ],
+    "openingHours": [
+      {
+        "label": "Mon",
+        "value": "11:30-21:00"
+      },
+      {
+        "label": "Tues",
+        "value": "11:30-21:00"
+      },
+      {
+        "label": "Weds",
+        "value": "11:30-21:00"
+      },
+      {
+        "label": "Thurs",
+        "value": "11:30-22:00"
+      },
+      {
+        "label": "Fri",
+        "value": "11:30-22:00"
+      },
+      {
+        "label": "Sat",
+        "value": "11:30-22:00"
+      },
+      {
+        "label": "Sun",
+        "value": "11:30-21:00"
+      }
+    ],
+    "DisabledAccess": false,
+    "Favourite": false,
+    "IsClosed": false,
+    "RestaurantClosedNotification": null,
+    "UrlName": "Cheshunt-Brookfield-Shopping-Centre",
+    "distance": 15.303068656507211,
     "DeliverooOn": false,
     "ClickAndCollectOn": false,
     "DeliverooUrl": null,
