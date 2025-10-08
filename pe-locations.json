@@ -634,7 +634,7 @@
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": true,
-    "isOpenForDelivery": true,
+    "isOpenForDelivery": false,
     "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
@@ -4398,7 +4398,7 @@
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": true,
-    "isOpenForDelivery": true,
+    "isOpenForDelivery": false,
     "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
@@ -10024,7 +10024,7 @@
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": true,
-    "isOpenForDelivery": true,
+    "isOpenForDelivery": false,
     "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
@@ -10226,7 +10226,7 @@
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": true,
-    "isOpenForDelivery": true,
+    "isOpenForDelivery": false,
     "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
@@ -14976,7 +14976,7 @@
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": true,
-    "isOpenForDelivery": true,
+    "isOpenForDelivery": false,
     "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
@@ -18699,7 +18699,7 @@
     "link": "/south-mimms-motorway-services",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
+    "isOpenForCollection": true,
     "isOpenForDelivery": false,
     "isOpenForDineIn": true,
     "collectionLink": {
@@ -21550,7 +21550,7 @@
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": true,
-    "isOpenForDelivery": true,
+    "isOpenForDelivery": false,
     "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
@@ -21752,7 +21752,7 @@
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": true,
-    "isOpenForDelivery": true,
+    "isOpenForDelivery": false,
     "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
@@ -22571,7 +22571,7 @@
     "link": "/cobham-motorway-services",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
+    "isOpenForCollection": true,
     "isOpenForDelivery": false,
     "isOpenForDineIn": true,
     "collectionLink": {
@@ -23382,7 +23382,7 @@
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": true,
-    "isOpenForDelivery": true,
+    "isOpenForDelivery": false,
     "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
@@ -25239,7 +25239,7 @@
     "link": "/beaconsfield-motorway-services",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
+    "isOpenForCollection": true,
     "isOpenForDelivery": false,
     "isOpenForDineIn": true,
     "collectionLink": {
@@ -26060,7 +26060,7 @@
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": true,
-    "isOpenForDelivery": true,
+    "isOpenForDelivery": false,
     "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
@@ -26686,7 +26686,7 @@
       "Text": "",
       "Query": "",
       "Title": "",
-      "Url": "https://order.pizzaexpress.com/menu/3306",
+      "Url": "https://order.pizzaexpress.com/",
       "Target": "",
       "TargetId": "00000000-0000-0000-0000-000000000000",
       "Type": 2,
@@ -31601,7 +31601,7 @@
     "link": "/fleet-motorway-services",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
+    "isOpenForCollection": true,
     "isOpenForDelivery": false,
     "isOpenForDineIn": true,
     "collectionLink": {
@@ -34097,9 +34097,9 @@
     "link": "/alton-market-square",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": true,
+    "isOpenForCollection": false,
     "isOpenForDelivery": false,
-    "isOpenForDineIn": true,
+    "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -34136,7 +34136,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": false,
+    "temporarilyClosed": true,
     "enableBooking": false,
     "disabledBookings": false,
     "hideBookingComponent": false,
@@ -34525,7 +34525,7 @@
     "link": "/oxford-motorway-services",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
+    "isOpenForCollection": true,
     "isOpenForDelivery": false,
     "isOpenForDineIn": true,
     "collectionLink": {
@@ -34905,7 +34905,7 @@
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": true,
-    "isOpenForDelivery": true,
+    "isOpenForDelivery": false,
     "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
@@ -35946,7 +35946,7 @@
     "link": "/brighton-prince-albert-street",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
+    "isOpenForCollection": true,
     "isOpenForDelivery": false,
     "isOpenForDineIn": true,
     "collectionLink": {
@@ -36367,8 +36367,8 @@
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": true,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForDelivery": true,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -40725,7 +40725,7 @@
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": true,
-    "isOpenForDelivery": true,
+    "isOpenForDelivery": false,
     "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
@@ -42351,7 +42351,7 @@
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": true,
-    "isOpenForDelivery": true,
+    "isOpenForDelivery": false,
     "isOpenForDineIn": false,
     "collectionLink": {
       "Anchor": "",
@@ -45411,7 +45411,7 @@
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": true,
-    "isOpenForDelivery": false,
+    "isOpenForDelivery": true,
     "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
@@ -58839,7 +58839,7 @@
     "link": "/manchester-the-trafford-shopping-centre",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
+    "isOpenForCollection": true,
     "isOpenForDelivery": false,
     "isOpenForDineIn": true,
     "collectionLink": {
@@ -61733,7 +61733,7 @@
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": true,
     "isOpenForDelivery": true,
-    "isOpenForDineIn": false,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -69181,7 +69181,7 @@
       "Text": "",
       "Query": "",
       "Title": "",
-      "Url": "https://order.pizzaexpress.com/menu/3306",
+      "Url": "https://order.pizzaexpress.com/",
       "Target": "",
       "TargetId": "00000000-0000-0000-0000-000000000000",
       "Type": 2,
