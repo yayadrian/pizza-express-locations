@@ -49773,6 +49773,201 @@
     "OrderTalkId": null
   },
   {
+    "link": "/cribbs-causeway-the-mall-shopping-centre",
+    "ClosedDate": "0001-01-01T00:00:00",
+    "OpenDate": "0001-01-01T00:00:00",
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
+    "collectionLink": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/menu/3487",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "deliveryLink": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/delivery",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "dineInLink": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "Cribbs Causeway The Mall Shopping Centre",
+      "Query": "",
+      "Title": "",
+      "Url": "/cribbs-causeway-the-mall-shopping-centre",
+      "Target": "",
+      "TargetId": "7e6d8903-9391-494e-88bf-958fcb3ab091",
+      "Type": 4,
+      "Style": ""
+    },
+    "temporarilyClosed": true,
+    "enableBooking": false,
+    "disabledBookings": false,
+    "hideBookingComponent": false,
+    "hideRewardsAndOffers": false,
+    "hideTodaysMenuCTA": false,
+    "hideCollectionAndDeliveryCTAS": false,
+    "hideFromLoyalty": false,
+    "OATEnabled": false,
+    "ShowOnboardingScreen": false,
+    "Whitelist": "",
+    "id": "7e6d8903-9391-494e-88bf-958fcb3ab091",
+    "restaurantId": 3487,
+    "name": "Cribbs Causeway The Mall Shopping Centre",
+    "Address1": "206 The Mall",
+    "Address2": "Cribbs Causeway Regional Shopping Centre",
+    "Address3": "Patchway",
+    "Location": "Bristol",
+    "Region": "Avon",
+    "Postcode": "BS34 5UR",
+    "fullAddress": "206 The Mall, Cribbs Causeway Regional Shopping Centre, Patchway, Bristol, BS34 5UR",
+    "phone": "01173380800",
+    "ManagerName": "",
+    "Email": "CribbsCauseway.TheMall@pizzaexpress.com",
+    "latitude": 51.52508,
+    "longitude": -2.59592986,
+    "image": {
+      "Alt": "PizzaExpress Bristol Cribbs Causeway",
+      "Border": "",
+      "Class": "",
+      "Height": 680,
+      "HSpace": 0,
+      "Src": "/-/media/2022-Images/November/PizzaExpress_Bristol_CribbsCauseway_Interior_08.ashx",
+      "VSpace": 0,
+      "Width": 829,
+      "MediaId": "456ef6d7-38bf-4629-8da7-2e4dac6691d8",
+      "Title": "",
+      "Language": {
+        "Name": "en"
+      },
+      "MediaExists": true
+    },
+    "clickAndCollect": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/menu/3487",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "deliveroo": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://deliveroo.co.uk/menu/bristol/patchway/3400-pizzaexpress-cribbs-causeway",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "uberEats": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/delivery",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "justEat": null,
+    "onUberTrial": false,
+    "menuBand": "2",
+    "facilities": [
+      {
+        "label": "Baby Facilities",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/baby-facilities.ashx"
+      },
+      {
+        "label": "Collection",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/collection.ashx"
+      },
+      {
+        "label": "Delivery",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/delivery.ashx"
+      },
+      {
+        "label": "Disabled Toilet",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/disabled-toilet.ashx"
+      },
+      {
+        "label": "Outdoor dining",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/outdoor-dining.ashx"
+      },
+      {
+        "label": "Pizza Making Parties",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/party-1.ashx"
+      },
+      {
+        "label": "WiFi",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/wifi.ashx"
+      }
+    ],
+    "openingHours": [
+      {
+        "label": "Mon",
+        "value": "11:00-21:00"
+      },
+      {
+        "label": "Tues",
+        "value": "11:00-21:00"
+      },
+      {
+        "label": "Weds",
+        "value": "11:00-21:00"
+      },
+      {
+        "label": "Thurs",
+        "value": "11:00-21:00"
+      },
+      {
+        "label": "Fri",
+        "value": "11:00-21:00"
+      },
+      {
+        "label": "Sat",
+        "value": "11:30-20:00"
+      },
+      {
+        "label": "Sun",
+        "value": "11:30-17:00"
+      }
+    ],
+    "DisabledAccess": false,
+    "Favourite": false,
+    "IsClosed": false,
+    "RestaurantClosedNotification": null,
+    "UrlName": "Cribbs-Causeway-The-Mall-Shopping-Centre",
+    "distance": 106.2372897343258,
+    "DeliverooOn": false,
+    "ClickAndCollectOn": false,
+    "DeliverooUrl": null,
+    "OrderTalkId": null
+  },
+  {
     "link": "/cribbs-causeway-the-venue",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
