@@ -20219,15 +20219,15 @@
     "latitude": 51.71802,
     "longitude": -0.0366515927,
     "image": {
-      "Alt": "PizzaExpress Bursledon Hamble Lane",
+      "Alt": "PizzaExpress Cheshunt Brookfield Shopping Centre",
       "Border": "",
       "Class": "",
       "Height": 1000,
       "HSpace": 0,
-      "Src": "/-/media/2024-Images/Dec/PizzaExpress_SouthamptonPOD_Exterior_01.ashx",
+      "Src": "/-/media/2025-Images/Oct/PIZZA-EXPRESS_0004.ashx",
       "VSpace": 0,
       "Width": 1500,
-      "MediaId": "b7cb364c-b9e6-4cc8-8342-41a319cad5ce",
+      "MediaId": "1aa406cf-ec24-41f4-b832-cb22109764b5",
       "Title": "",
       "Language": {
         "Name": "en"
@@ -37486,15 +37486,15 @@
     "latitude": 52.20871,
     "longitude": 0.118335843,
     "image": {
-      "Alt": "PizzaExpress Cambridge Regent Street",
+      "Alt": "PizzaExpress Cambridge Bridge Street",
       "Border": "",
       "Class": "",
       "Height": 1000,
       "HSpace": 0,
-      "Src": "/-/media/2023-Images/Jun/PizzaExpress_Cambridge_RegentsSt_Interior_14.ashx",
+      "Src": "/-/media/2025-Images/Oct/PEX_Cambridge_BridgeSt_Exterior_05.ashx",
       "VSpace": 0,
       "Width": 1500,
-      "MediaId": "183c4dba-f1ef-4722-a8b5-9cebdde71460",
+      "MediaId": "f4f13853-7ca1-462c-9b77-0fb1204d23d6",
       "Title": "",
       "Language": {
         "Name": "en"
@@ -38244,9 +38244,9 @@
     "link": "/oxford-golden-cross",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForCollection": true,
+    "isOpenForDelivery": true,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -38283,7 +38283,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "disabledBookings": false,
     "hideBookingComponent": false,
@@ -51883,15 +51883,15 @@
     "latitude": 53.00294,
     "longitude": -1.28199,
     "image": {
-      "Alt": "Nottingham Giltbrook",
+      "Alt": "PizzaExpress Nottingham Giltbrrok Retail Park",
       "Border": "",
       "Class": "",
-      "Height": 680,
+      "Height": 1000,
       "HSpace": 0,
-      "Src": "/-/media/Images/App-Images/nottsgiltbrookapp.ashx",
+      "Src": "/-/media/2025-Images/Oct/PEX_NottinghamGiltbrook_Exterior_007.ashx",
       "VSpace": 0,
-      "Width": 829,
-      "MediaId": "93b40ba9-490c-4848-ac5a-0793d4b77b6b",
+      "Width": 1500,
+      "MediaId": "f037d575-ae5f-4da0-a7a5-f47788d8b4e9",
       "Title": "",
       "Language": {
         "Name": "en"
