@@ -25399,31 +25399,31 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "12:30-20:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Tues",
-        "value": "12:30-20:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Weds",
-        "value": "12:30-20:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Thurs",
-        "value": "12:30-20:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Fri",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
-        "value": "12:00-21:00"
+        "value": "11:30-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -27292,7 +27292,7 @@
     "hideFromLoyalty": false,
     "OATEnabled": true,
     "ShowOnboardingScreen": false,
-    "Whitelist": "james@methodworx.com christmas@maad1hwa.mailosaur.net testv2@maad1hwa.mailosaur.net andyandsam12@btinternet.com userzero@thfzgnqj.mailosaur.net tophat@maad1hwa.mailosaur.net water@maad1hwa.mailosaur.net out@maad1hwa.mailosaur.net where@maad1hwa.mailosaur.net koala@maad1hwa.mailosaur.net szymon@thfzgnqj.mailosaur.net Hulk@maad1hwa.mailosaur.net *@maad1hwa.mailosaur.net *@thfzgnqj.mailosaur.net",
+    "Whitelist": "james@methodworx.com christmas@maad1hwa.mailosaur.net testv2@maad1hwa.mailosaur.net andyandsam12@btinternet.com userzero@thfzgnqj.mailosaur.net tophat@maad1hwa.mailosaur.net water@maad1hwa.mailosaur.net out@maad1hwa.mailosaur.net where@maad1hwa.mailosaur.net koala@maad1hwa.mailosaur.net szymon@thfzgnqj.mailosaur.net Hulk@maad1hwa.mailosaur.net *@maad1hwa.mailosaur.net *@thfzgnqj.mailosaur.net kacperjankowiak8@gmail.com kacper.jankowiak@methodworx.com",
     "id": "eb717ad1-96f7-44f8-a725-eadaed8ca4c6",
     "restaurantId": 3319,
     "name": "Basildon Festival Leisure Park",
