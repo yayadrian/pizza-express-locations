@@ -20150,6 +20150,212 @@
     "OrderTalkId": null
   },
   {
+    "link": "/uxbridge-high-street",
+    "ClosedDate": "0001-01-01T00:00:00",
+    "OpenDate": "0001-01-01T00:00:00",
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
+    "collectionLink": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/menu/3489",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "deliveryLink": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/delivery",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "dineInLink": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "Uxbridge High Street",
+      "Query": "",
+      "Title": "",
+      "Url": "/uxbridge-high-street",
+      "Target": "",
+      "TargetId": "f198cfba-91ae-4ee7-b834-7cb7417d8dcc",
+      "Type": 4,
+      "Style": ""
+    },
+    "temporarilyClosed": false,
+    "enableBooking": false,
+    "disabledBookings": false,
+    "hideBookingComponent": false,
+    "hideRewardsAndOffers": false,
+    "hideTodaysMenuCTA": false,
+    "hideCollectionAndDeliveryCTAS": false,
+    "hideFromLoyalty": false,
+    "OATEnabled": false,
+    "ShowOnboardingScreen": false,
+    "Whitelist": "",
+    "id": "f198cfba-91ae-4ee7-b834-7cb7417d8dcc",
+    "restaurantId": 3489,
+    "name": "Uxbridge High Street",
+    "Address1": "199-200 High Street",
+    "Address2": "",
+    "Address3": "",
+    "Location": "Uxbridge",
+    "Region": "Middlesex",
+    "Postcode": "UB8 1BL",
+    "fullAddress": "199-200 High Street, Uxbridge, Middlesex, UB8 1BL",
+    "phone": "01825 400070",
+    "ManagerName": "",
+    "Email": "Uxbridge.highstreet@pizzaexpress.com",
+    "latitude": 51.5450745,
+    "longitude": -0.476886034,
+    "image": {
+      "Alt": "Uckfield",
+      "Border": "",
+      "Class": "",
+      "Height": 680,
+      "HSpace": 0,
+      "Src": "/-/media/Images/App-Images/uckfieldv2app.ashx",
+      "VSpace": 0,
+      "Width": 829,
+      "MediaId": "bab77504-50cf-4c51-9296-819623e8cd34",
+      "Title": "",
+      "Language": {
+        "Name": "en"
+      },
+      "MediaExists": true
+    },
+    "clickAndCollect": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/menu/3489",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "deliveroo": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "uberEats": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/delivery",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "justEat": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "onUberTrial": false,
+    "menuBand": "3",
+    "facilities": [
+      {
+        "label": "Baby Facilities",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/baby-facilities.ashx"
+      },
+      {
+        "label": "Collection",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/collection.ashx"
+      },
+      {
+        "label": "Disabled Access",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/disabled-access.ashx"
+      },
+      {
+        "label": "Disabled Toilet",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/disabled-toilet.ashx"
+      },
+      {
+        "label": "Outdoor dining",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/outdoor-dining.ashx"
+      },
+      {
+        "label": "Pizza Making Parties",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/party-1.ashx"
+      },
+      {
+        "label": "WiFi",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/wifi.ashx"
+      }
+    ],
+    "openingHours": [
+      {
+        "label": "Mon",
+        "value": "11:30-21:30"
+      },
+      {
+        "label": "Tues",
+        "value": "11:30-21:30"
+      },
+      {
+        "label": "Weds",
+        "value": "11:30-21:30"
+      },
+      {
+        "label": "Thurs",
+        "value": "11:30-21:30"
+      },
+      {
+        "label": "Fri",
+        "value": "11:30-23:00"
+      },
+      {
+        "label": "Sat",
+        "value": "11:30-23:00"
+      },
+      {
+        "label": "Sun",
+        "value": "11:30-21:30"
+      }
+    ],
+    "DisabledAccess": true,
+    "Favourite": false,
+    "IsClosed": false,
+    "RestaurantClosedNotification": null,
+    "UrlName": "Uxbridge-High-Street",
+    "distance": 15.296400600961835,
+    "DeliverooOn": false,
+    "ClickAndCollectOn": false,
+    "DeliverooUrl": null,
+    "OrderTalkId": null
+  },
+  {
     "link": "/cheshunt-brookfield-shopping-centre",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
