@@ -56574,6 +56574,190 @@
     "OrderTalkId": null
   },
   {
+    "link": "/hull-whitefriargate",
+    "ClosedDate": "0001-01-01T00:00:00",
+    "OpenDate": "0001-01-01T00:00:00",
+    "isOpenForCollection": false,
+    "isOpenForDelivery": false,
+    "isOpenForDineIn": false,
+    "collectionLink": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/collection/menu/3490",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "deliveryLink": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/delivery",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "dineInLink": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "Hull Whitefriargate",
+      "Query": "",
+      "Title": "",
+      "Url": "/hull-whitefriargate",
+      "Target": "",
+      "TargetId": "67ea2fe9-f36f-44bc-a50b-1cedabb04b32",
+      "Type": 4,
+      "Style": ""
+    },
+    "temporarilyClosed": false,
+    "enableBooking": false,
+    "disabledBookings": false,
+    "hideBookingComponent": false,
+    "hideRewardsAndOffers": false,
+    "hideTodaysMenuCTA": false,
+    "hideCollectionAndDeliveryCTAS": false,
+    "hideFromLoyalty": false,
+    "OATEnabled": false,
+    "ShowOnboardingScreen": false,
+    "Whitelist": "",
+    "id": "67ea2fe9-f36f-44bc-a50b-1cedabb04b32",
+    "restaurantId": 3490,
+    "name": "Hull Whitefriargate",
+    "Address1": "35 Whitefriargate",
+    "Address2": "",
+    "Address3": "",
+    "Location": "Hull",
+    "Region": "",
+    "Postcode": "HU1 2HN",
+    "fullAddress": "35 Whitefriargate, Hull, HU1 2HN",
+    "phone": "01482 212144",
+    "ManagerName": "",
+    "Email": "Hull.whitefriargate@pizzaexpress.com",
+    "latitude": 53.7435,
+    "longitude": -0.3376438,
+    "image": {
+      "Alt": "Hull Princes Quay",
+      "Border": "",
+      "Class": "",
+      "Height": 680,
+      "HSpace": 0,
+      "Src": "/-/media/Images/App-Images/hullprincesquayapp.ashx",
+      "VSpace": 0,
+      "Width": 829,
+      "MediaId": "03d12604-6b9f-473c-8d32-9d8682141f9b",
+      "Title": "",
+      "Language": {
+        "Name": "en"
+      },
+      "MediaExists": true
+    },
+    "clickAndCollect": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/collection/menu/3490",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "deliveroo": null,
+    "uberEats": {
+      "Anchor": "",
+      "Class": "",
+      "Text": "",
+      "Query": "",
+      "Title": "",
+      "Url": "https://order.pizzaexpress.com/delivery",
+      "Target": "",
+      "TargetId": "00000000-0000-0000-0000-000000000000",
+      "Type": 2,
+      "Style": ""
+    },
+    "justEat": null,
+    "onUberTrial": true,
+    "menuBand": "2",
+    "facilities": [
+      {
+        "label": "Baby Facilities",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/baby-facilities.ashx"
+      },
+      {
+        "label": "Collection",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/collection.ashx"
+      },
+      {
+        "label": "Delivery",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/delivery.ashx"
+      },
+      {
+        "label": "Disabled Toilet",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/disabled-toilet.ashx"
+      },
+      {
+        "label": "Outdoor dining",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/outdoor-dining.ashx"
+      },
+      {
+        "label": "Pizza Making Parties",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/party-1.ashx"
+      },
+      {
+        "label": "WiFi",
+        "value": "/-/media/Kyra-NBW/Rebrand-Icons/wifi.ashx"
+      }
+    ],
+    "openingHours": [
+      {
+        "label": "Mon",
+        "value": "11:30-22:00"
+      },
+      {
+        "label": "Tues",
+        "value": "11:30-22:00"
+      },
+      {
+        "label": "Weds",
+        "value": "11:30-22:00"
+      },
+      {
+        "label": "Thurs",
+        "value": "11:30-22:00"
+      },
+      {
+        "label": "Fri",
+        "value": "11:30-22:00"
+      },
+      {
+        "label": "Sat",
+        "value": "11:30-22:00"
+      },
+      {
+        "label": "Sun",
+        "value": "11:30-22:00"
+      }
+    ],
+    "DisabledAccess": false,
+    "Favourite": false,
+    "IsClosed": false,
+    "RestaurantClosedNotification": null,
+    "UrlName": "Hull-Whitefriargate",
+    "distance": 154.79269554325055,
+    "DeliverooOn": false,
+    "ClickAndCollectOn": false,
+    "DeliverooUrl": null,
+    "OrderTalkId": null
+  },
+  {
     "link": "/knutsford-king-street",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
