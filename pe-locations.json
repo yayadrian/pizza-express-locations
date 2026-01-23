@@ -10413,7 +10413,7 @@
       },
       {
         "label": "Sun",
-        "value": "11:30-21:00"
+        "value": "11:00-21:00"
       }
     ],
     "DisabledAccess": true,
@@ -18859,31 +18859,31 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Tues",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Weds",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Thurs",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Fri",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Sun",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -19995,7 +19995,7 @@
     "Whitelist": "",
     "id": "b747bccf-6d54-411d-824e-01d6d6b78528",
     "restaurantId": 601,
-    "name": "Walton on Thames New Zealand Avenue",
+    "name": "Walton on Thames The Heart",
     "Address1": "Unit 3, The Heart",
     "Address2": " ",
     "Address3": "",
@@ -22963,31 +22963,31 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Tues",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Weds",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Thurs",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Fri",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Sun",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -25649,31 +25649,31 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Tues",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Weds",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Thurs",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Fri",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Sun",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -32055,31 +32055,31 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Tues",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Weds",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Thurs",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Fri",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Sun",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       }
     ],
     "DisabledAccess": true,
@@ -34979,31 +34979,31 @@
     "openingHours": [
       {
         "label": "Mon",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Tues",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Weds",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Thurs",
-        "value": "11:30-22:00"
+        "value": "12:00-21:00"
       },
       {
         "label": "Fri",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       },
       {
         "label": "Sun",
-        "value": "11:30-22:00"
+        "value": "12:00-22:00"
       }
     ],
     "DisabledAccess": true,
