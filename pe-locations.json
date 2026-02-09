@@ -70135,7 +70135,7 @@
     "OrderTalkId": null
   },
   {
-    "link": "/st-andrews-south-street",
+    "link": "/book",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": true,
@@ -70618,10 +70618,10 @@
     "Address1": "Union Square Shopping Centre",
     "Address2": "Guild Street",
     "Address3": "",
-    "Location": "Aberdeen",
+    "Location": "Aberdeen:",
     "Region": "",
     "Postcode": "AB11 5RG",
-    "fullAddress": "Union Square Shopping Centre, Guild Street, Aberdeen, AB11 5RG",
+    "fullAddress": "Union Square Shopping Centre, Guild Street, Aberdeen., AB11 5RG",
     "phone": "01224 592 718",
     "ManagerName": "",
     "Email": "Aberdeen3.Manager@pizzaexpress.com",
