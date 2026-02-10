@@ -41220,9 +41220,9 @@
     "link": "/northampton-derngate",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
-    "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForCollection": true,
+    "isOpenForDelivery": true,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -41259,7 +41259,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "disabledBookings": false,
     "hideBookingComponent": false,
@@ -67254,9 +67254,9 @@
     "link": "/gretna-caledonia-park-shopping-centre",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
-    "isOpenForCollection": false,
+    "isOpenForCollection": true,
     "isOpenForDelivery": false,
-    "isOpenForDineIn": false,
+    "isOpenForDineIn": true,
     "collectionLink": {
       "Anchor": "",
       "Class": "",
@@ -67293,7 +67293,7 @@
       "Type": 4,
       "Style": ""
     },
-    "temporarilyClosed": true,
+    "temporarilyClosed": false,
     "enableBooking": false,
     "disabledBookings": false,
     "hideBookingComponent": false,
@@ -70135,7 +70135,7 @@
     "OrderTalkId": null
   },
   {
-    "link": "/book",
+    "link": "/st-andrews-south-street",
     "ClosedDate": "0001-01-01T00:00:00",
     "OpenDate": "0001-01-01T00:00:00",
     "isOpenForCollection": true,
@@ -70621,7 +70621,7 @@
     "Location": "Aberdeen:",
     "Region": "",
     "Postcode": "AB11 5RG",
-    "fullAddress": "Union Square Shopping Centre, Guild Street, Aberdeen., AB11 5RG",
+    "fullAddress": "Union Square Shopping Centre, Guild Street, Aberdeen, AB11 5RG",
     "phone": "01224 592 718",
     "ManagerName": "",
     "Email": "Aberdeen3.Manager@pizzaexpress.com",
