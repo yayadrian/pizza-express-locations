@@ -30392,10 +30392,6 @@
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/delivery.ashx"
       },
       {
-        "label": "Disabled Access",
-        "value": "/-/media/Kyra-NBW/Rebrand-Icons/disabled-access.ashx"
-      },
-      {
         "label": "Outdoor dining",
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/outdoor-dining.ashx"
       },
@@ -30442,7 +30438,7 @@
         "value": "11:30-21:30"
       }
     ],
-    "DisabledAccess": true,
+    "DisabledAccess": false,
     "Favourite": false,
     "IsClosed": false,
     "RestaurantClosedNotification": null,
