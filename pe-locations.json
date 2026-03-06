@@ -51277,20 +51277,12 @@
     "menuBand": "2",
     "facilities": [
       {
-        "label": "Baby Facilities",
-        "value": "/-/media/Kyra-NBW/Rebrand-Icons/baby-facilities.ashx"
-      },
-      {
         "label": "Collection",
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/collection.ashx"
       },
       {
         "label": "Disabled Access",
         "value": "/-/media/Kyra-NBW/Rebrand-Icons/disabled-access.ashx"
-      },
-      {
-        "label": "Disabled Toilet",
-        "value": "/-/media/Kyra-NBW/Rebrand-Icons/disabled-toilet.ashx"
       },
       {
         "label": "Outdoor dining",
