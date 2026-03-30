@@ -35890,7 +35890,7 @@
       "Text": "Hove Church Road",
       "Query": "",
       "Title": "",
-      "Url": "/hove-church-road",
+      "Url": "/restaurant-menu/main-menu",
       "Target": "",
       "TargetId": "8598ba81-e045-4817-91a9-d8d6e985dd8a",
       "Type": 4,
@@ -54648,15 +54648,15 @@
       },
       {
         "label": "Fri",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
-        "value": "11:30-21:30"
+        "value": "11:30-21:00"
       }
     ],
     "DisabledAccess": true,
@@ -54858,11 +54858,11 @@
       },
       {
         "label": "Fri",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
@@ -55068,11 +55068,11 @@
       },
       {
         "label": "Fri",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-23:00"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
@@ -62672,7 +62672,7 @@
       },
       {
         "label": "Sun",
-        "value": "11:30-21:30"
+        "value": "11:30-21:00"
       }
     ],
     "DisabledAccess": true,
@@ -63294,7 +63294,7 @@
       },
       {
         "label": "Sun",
-        "value": "11:30-22:00"
+        "value": "11:30-21:30"
       }
     ],
     "DisabledAccess": true,
@@ -64526,11 +64526,11 @@
       },
       {
         "label": "Fri",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sat",
-        "value": "11:30-22:30"
+        "value": "11:30-22:00"
       },
       {
         "label": "Sun",
@@ -67636,7 +67636,7 @@
       },
       {
         "label": "Sun",
-        "value": "11:30-21:30"
+        "value": "11:30-21:00"
       }
     ],
     "DisabledAccess": true,
