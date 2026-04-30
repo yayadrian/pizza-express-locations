@@ -134,6 +134,10 @@
     },
     "onUberTrial": false,
     "menuBand": "1",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -340,6 +344,10 @@
     },
     "onUberTrial": false,
     "menuBand": "1",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -558,6 +566,10 @@
     },
     "onUberTrial": false,
     "menuBand": "1",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -764,6 +776,10 @@
     },
     "onUberTrial": false,
     "menuBand": "1",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -970,6 +986,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -1176,6 +1196,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -1378,6 +1402,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -1588,6 +1616,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -1798,6 +1830,10 @@
     },
     "onUberTrial": false,
     "menuBand": "1",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -2004,6 +2040,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -2214,6 +2254,10 @@
     },
     "onUberTrial": false,
     "menuBand": "1",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -2428,6 +2472,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -2646,6 +2694,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -2848,6 +2900,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -3054,6 +3110,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -3264,6 +3324,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -3470,6 +3534,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -3676,6 +3744,10 @@
     },
     "onUberTrial": true,
     "menuBand": "1",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -3882,6 +3954,10 @@
     },
     "onUberTrial": true,
     "menuBand": "1",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -4096,6 +4172,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -4314,6 +4394,10 @@
     },
     "onUberTrial": true,
     "menuBand": "1",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -4528,6 +4612,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -4738,6 +4826,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -4948,6 +5040,10 @@
     },
     "onUberTrial": false,
     "menuBand": "1",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -5154,6 +5250,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Collection",
@@ -5360,6 +5460,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -5566,6 +5670,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -5776,6 +5884,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -5982,6 +6094,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -6184,6 +6300,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -6394,6 +6514,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -6612,6 +6736,10 @@
     },
     "onUberTrial": true,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -6818,6 +6946,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -7032,6 +7164,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -7238,6 +7374,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -7448,6 +7588,10 @@
     },
     "onUberTrial": true,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -7658,6 +7802,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -7868,6 +8016,10 @@
     },
     "onUberTrial": true,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -8074,6 +8226,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -8276,6 +8432,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -8486,6 +8646,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -8696,6 +8860,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -8902,6 +9070,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -9112,6 +9284,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -9314,6 +9490,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -9532,6 +9712,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -9742,6 +9926,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -9944,6 +10132,10 @@
     },
     "onUberTrial": true,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -10154,6 +10346,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -10356,6 +10552,10 @@
     },
     "onUberTrial": false,
     "menuBand": "1",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -10562,6 +10762,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -10772,6 +10976,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -10982,6 +11190,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -11188,6 +11400,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -11394,6 +11610,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -11592,6 +11812,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -11798,6 +12022,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -12008,6 +12236,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -12222,6 +12454,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -12428,6 +12664,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -12630,6 +12870,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -12836,6 +13080,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -13046,6 +13294,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -13252,6 +13504,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -13458,6 +13714,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -13676,6 +13936,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -13882,6 +14146,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -14088,6 +14356,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -14290,6 +14562,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -14500,6 +14776,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -14706,6 +14986,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -14904,6 +15188,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -15106,6 +15394,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -15308,6 +15600,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -15518,6 +15814,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -15724,6 +16024,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -15926,6 +16230,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -16132,6 +16440,10 @@
     },
     "onUberTrial": true,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -16338,6 +16650,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -16544,6 +16860,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -16754,6 +17074,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -16960,6 +17284,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -17166,6 +17494,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -17368,6 +17700,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -17578,6 +17914,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -17784,6 +18124,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -17998,6 +18342,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -18208,6 +18556,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -18414,6 +18766,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -18620,6 +18976,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -18830,6 +19190,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -19032,6 +19396,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -19238,6 +19606,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -19448,6 +19820,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -19658,6 +20034,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -19868,6 +20248,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -20074,6 +20458,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -20284,6 +20672,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -20490,6 +20882,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Collection",
@@ -20676,6 +21072,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -20882,6 +21282,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -21092,6 +21496,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -21298,6 +21706,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -21504,6 +21916,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -21702,6 +22118,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -21908,6 +22328,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -22110,6 +22534,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -22316,6 +22744,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -22518,6 +22950,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -22724,6 +23160,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -22930,6 +23370,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -23136,6 +23580,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -23342,6 +23790,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -23548,6 +24000,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -23762,6 +24218,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -23968,6 +24428,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -24170,6 +24634,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -24368,6 +24836,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -24582,6 +25054,10 @@
     },
     "onUberTrial": true,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -24784,6 +25260,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -24994,6 +25474,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -25200,6 +25684,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -25410,6 +25898,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -25620,6 +26112,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -25822,6 +26318,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -26032,6 +26532,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -26238,6 +26742,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -26440,6 +26948,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -26638,6 +27150,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -26848,6 +27364,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -26968,8 +27488,8 @@
     },
     "temporarilyClosed": false,
     "enableBooking": false,
-    "disabledBookings": false,
-    "hideBookingComponent": false,
+    "disabledBookings": true,
+    "hideBookingComponent": true,
     "hideRewardsAndOffers": true,
     "hideTodaysMenuCTA": true,
     "hideCollectionAndDeliveryCTAS": true,
@@ -27058,6 +27578,10 @@
     },
     "onUberTrial": false,
     "menuBand": "6",
+    "useCustomOpeningTime": true,
+    "customOpeningTime": "2026-04-30T05:00:00",
+    "useCustomCloseTime": true,
+    "customCloseTime": "2030-04-30T21:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -27252,6 +27776,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -27458,6 +27986,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Collection",
@@ -27668,6 +28200,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -27882,6 +28418,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -28100,6 +28640,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -28310,6 +28854,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -28520,6 +29068,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -28726,6 +29278,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -28928,6 +29484,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -29130,6 +29690,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -29340,6 +29904,10 @@
     },
     "onUberTrial": true,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -29550,6 +30118,10 @@
     },
     "onUberTrial": true,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -29760,6 +30332,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -29970,6 +30546,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -30180,6 +30760,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -30378,6 +30962,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -30584,6 +31172,10 @@
     },
     "onUberTrial": true,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -30790,6 +31382,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -30996,6 +31592,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -31206,6 +31806,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -31404,6 +32008,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -31606,6 +32214,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -31816,6 +32428,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -32022,6 +32638,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -32228,6 +32848,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -32434,6 +33058,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -32644,6 +33272,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -32858,6 +33490,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -33068,6 +33704,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -33274,6 +33914,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -33480,6 +34124,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -33686,6 +34334,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -33896,6 +34548,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -34106,6 +34762,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -34312,6 +34972,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -34518,6 +35182,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -34728,6 +35396,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -34946,6 +35618,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -35152,6 +35828,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -35358,6 +36038,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -35564,6 +36248,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -35778,6 +36466,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -35988,6 +36680,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -36198,6 +36894,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -36400,6 +37100,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -36610,6 +37314,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -36820,6 +37528,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -37026,6 +37738,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -37236,6 +37952,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -37446,6 +38166,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -37656,6 +38380,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -37874,6 +38602,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -38080,6 +38812,10 @@
     },
     "onUberTrial": true,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -38290,6 +39026,10 @@
     },
     "onUberTrial": true,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -38492,6 +39232,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -38698,6 +39442,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -38900,6 +39648,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -39098,6 +39850,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -39300,6 +40056,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -39481,6 +40241,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -39687,6 +40451,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -39897,6 +40665,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -40107,6 +40879,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -40317,6 +41093,10 @@
     },
     "onUberTrial": true,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -40535,6 +41315,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -40741,6 +41525,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -40943,6 +41731,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -41149,6 +41941,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -41351,6 +42147,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -41565,6 +42365,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -41775,6 +42579,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -41981,6 +42789,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -42191,6 +43003,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -42393,6 +43209,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Collection",
@@ -42591,6 +43411,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -42797,6 +43621,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Collection",
@@ -42983,6 +43811,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -43193,6 +44025,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -43395,6 +44231,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -43601,6 +44441,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -43807,6 +44651,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -44013,6 +44861,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -44223,6 +45075,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -44433,6 +45289,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -44639,6 +45499,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -44853,6 +45717,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -45063,6 +45931,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -45265,6 +46137,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -45475,6 +46351,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -45673,6 +46553,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -45879,6 +46763,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -46097,6 +46985,10 @@
     },
     "onUberTrial": true,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -46303,6 +47195,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -46513,6 +47409,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -46723,6 +47623,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -46921,6 +47825,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -47123,6 +48031,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -47333,6 +48245,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -47543,6 +48459,10 @@
     },
     "onUberTrial": true,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -47753,6 +48673,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -47963,6 +48887,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -48173,6 +49101,10 @@
     },
     "onUberTrial": true,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -48379,6 +49311,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -48585,6 +49521,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -48787,6 +49727,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -48997,6 +49941,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -49203,6 +50151,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Disabled Access",
@@ -49413,6 +50365,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -49623,6 +50579,10 @@
     },
     "onUberTrial": true,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -49829,6 +50789,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -50039,6 +51003,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -50245,6 +51213,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -50451,6 +51423,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -50657,6 +51633,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -50863,6 +51843,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -51073,6 +52057,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -51275,6 +52263,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Collection",
@@ -51473,6 +52465,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -51675,6 +52671,10 @@
     },
     "onUberTrial": true,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -51877,6 +52877,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -52083,6 +53087,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -52289,6 +53297,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -52495,6 +53507,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -52729,6 +53745,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -52931,6 +53951,10 @@
     },
     "onUberTrial": true,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -53137,6 +54161,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -53339,6 +54367,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -53545,6 +54577,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -53755,6 +54791,10 @@
     },
     "onUberTrial": true,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -53961,6 +55001,10 @@
     },
     "onUberTrial": true,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -54171,6 +55215,10 @@
     },
     "onUberTrial": true,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -54389,6 +55437,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -54595,6 +55647,10 @@
     },
     "onUberTrial": true,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -54805,6 +55861,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -55015,6 +56075,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -55225,6 +56289,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -55431,6 +56499,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -55637,6 +56709,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -55843,6 +56919,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -56053,6 +57133,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -56255,6 +57339,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -56435,6 +57523,10 @@
     "justEat": null,
     "onUberTrial": true,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -56641,6 +57733,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -56843,6 +57939,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -57045,6 +58145,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -57255,6 +58359,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -57473,6 +58581,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -57679,6 +58791,10 @@
     },
     "onUberTrial": true,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -57885,6 +59001,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -58091,6 +59211,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -58297,6 +59421,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -58503,6 +59631,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -58709,6 +59841,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -58915,6 +60051,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -59121,6 +60261,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -59327,6 +60471,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Collection",
@@ -59513,6 +60661,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -59711,6 +60863,10 @@
     },
     "onUberTrial": true,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -59917,6 +61073,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -60123,6 +61283,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -60329,6 +61493,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -60535,6 +61703,10 @@
     },
     "onUberTrial": false,
     "menuBand": "1",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -60741,6 +61913,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -60951,6 +62127,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -61157,6 +62337,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -61371,6 +62555,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -61581,6 +62769,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -61791,6 +62983,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -61989,6 +63185,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -62199,6 +63399,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -62405,6 +63609,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Collection",
@@ -62607,6 +63815,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -62817,6 +64029,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -63023,6 +64239,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -63233,6 +64453,10 @@
     },
     "onUberTrial": true,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -63439,6 +64663,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -63649,6 +64877,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -63855,6 +65087,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -64061,6 +65297,10 @@
     },
     "onUberTrial": false,
     "menuBand": "1",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -64271,6 +65511,10 @@
     },
     "onUberTrial": false,
     "menuBand": "1",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -64473,6 +65717,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -64679,6 +65927,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -64885,6 +66137,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -65095,6 +66351,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -65301,6 +66561,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -65511,6 +66775,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -65721,6 +66989,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -65927,6 +67199,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -66141,6 +67417,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -66335,6 +67615,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -66533,6 +67817,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -66751,6 +68039,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -66957,6 +68249,10 @@
     },
     "onUberTrial": true,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -67167,6 +68463,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -67373,6 +68673,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -67575,6 +68879,10 @@
     },
     "onUberTrial": false,
     "menuBand": "5",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -67781,6 +69089,10 @@
     },
     "onUberTrial": false,
     "menuBand": "5",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -67991,6 +69303,10 @@
     },
     "onUberTrial": false,
     "menuBand": "5",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -68197,6 +69513,10 @@
     },
     "onUberTrial": true,
     "menuBand": "5",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -68415,6 +69735,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -68621,6 +69945,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -68827,6 +70155,10 @@
     },
     "onUberTrial": true,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -69033,6 +70365,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -69239,6 +70575,10 @@
     },
     "onUberTrial": true,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -69441,6 +70781,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -69651,6 +70995,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -69857,6 +71205,10 @@
     },
     "onUberTrial": false,
     "menuBand": "6",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -70051,6 +71403,10 @@
     },
     "onUberTrial": true,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -70257,6 +71613,10 @@
     },
     "onUberTrial": false,
     "menuBand": "4",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -70475,6 +71835,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -70681,6 +72045,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -70879,6 +72247,10 @@
     },
     "onUberTrial": false,
     "menuBand": "2",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
@@ -71081,6 +72453,10 @@
     },
     "onUberTrial": false,
     "menuBand": "3",
+    "useCustomOpeningTime": false,
+    "customOpeningTime": "0001-01-01T00:00:00",
+    "useCustomCloseTime": false,
+    "customCloseTime": "0001-01-01T00:00:00",
     "facilities": [
       {
         "label": "Baby Facilities",
