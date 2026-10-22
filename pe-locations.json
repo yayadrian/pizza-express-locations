@@ -6911,56 +6911,6 @@
     "appleCompanyId": "1447521398695506944",
     "attire": "Casual",
     "brandReference": 2062845903,
-    "c_contentBlocks": {
-      "contentBlocks": [
-        {
-          "cTA1": {
-            "label": "Terms & conditions",
-            "link": "https://www.pizzaexpress.com/terms-and-conditions/muswell-hill-giveaway",
-            "linkType": "URL"
-          },
-          "description": {
-            "html": "<p dir=\"ltr\" style=\"font-size: 14.67px; font-weight: 400; line-height: 18.67px; color: rgb(0, 0, 0); margin: 0; padding: 3px 2px 3px 2px; position: relative;\"><span>We&#39;re giving away 100 Margherita pizzas for collection between 14:00 -16:00 on Wednesday 21st October 2026. Make sure you come early, we have a feeling they won&#39;t be around long!</span></p>",
-            "json": {
-              "root": {
-                "children": [
-                  {
-                    "children": [
-                      {
-                        "detail": 0,
-                        "format": 0,
-                        "mode": "normal",
-                        "style": "",
-                        "text": "We're giving away 100 Margherita pizzas for collection between 14:00 -16:00 on Wednesday 21st October 2026. Make sure you come early, we have a feeling they won't be around long!",
-                        "type": "text",
-                        "version": 1
-                      }
-                    ],
-                    "direction": "ltr",
-                    "format": "",
-                    "indent": 0,
-                    "type": "paragraph",
-                    "version": 1
-                  }
-                ],
-                "direction": "ltr",
-                "format": "",
-                "indent": 0,
-                "type": "root",
-                "version": 1
-              }
-            }
-          },
-          "image": {
-            "alternateText": "PizzaExpress Margherita",
-            "height": 500,
-            "url": "https://a.mktgcdn.com/p/hoAPBpXf4KH0APwjEJ6bpfiGSXmBYdvmywaT0mhYYzM/758x500.jpg",
-            "width": 758
-          },
-          "title": "Free Pizzas for Muswell Hill!"
-        }
-      ]
-    },
     "c_displayDescription": "Find us on Muswell Hill Broadway to enjoy our bright  vibrant venue and our latest  modern menu. We're also convenient for the attractions and activities at nearby Alexandra Palace.",
     "c_displayName": "Muswell Hill Broadway",
     "c_facebookWebsiteOverride": "https://www.pizzaexpress.com/muswell-hill?utm_source=GMB&utm_medium=Website&utm_campaign=GMB-WEB-1241-muswell-hill",
