@@ -125142,8 +125142,8 @@
       "url": "http://www.pizzaexpress.com/?utm_source=GMB-FTM"
     },
     "geocodedCoordinate": {
-      "latitude": 53.411759,
-      "longitude": -2.161977
+      "latitude": 53.4117969,
+      "longitude": -2.1619146
     },
     "googleAccountId": "107656944914058295004",
     "googleCid": "15001647654360185371",
@@ -136645,7 +136645,6 @@
           }
         ]
       },
-      "reopenDate": "2026-10-24",
       "saturday": {
         "openIntervals": [
           {
