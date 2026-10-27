@@ -136449,56 +136449,6 @@
     "appleCompanyId": "1447521398695506944",
     "attire": "Casual",
     "brandReference": 2062845903,
-    "c_contentBlocks": {
-      "contentBlocks": [
-        {
-          "cTA1": {
-            "label": "Terms & conditions",
-            "link": "https://www.pizzaexpress.com/terms-and-conditions/stevenage-giveaway",
-            "linkType": "URL"
-          },
-          "description": {
-            "html": "<p dir=\"ltr\" style=\"font-size: 14.67px; font-weight: 400; line-height: 18.67px; color: rgb(0, 0, 0); margin: 0; padding: 3px 2px 3px 2px; position: relative;\"><span>To celebrate the opening of our brand new Stevenage restaurant, we&#39;re giving away 100 Margherita pizzas for collection between 11:30am -12:30pm on Monday 26th October 2026. Make sure you come early, we have a feeling they won&#39;t be around long!</span></p>",
-            "json": {
-              "root": {
-                "children": [
-                  {
-                    "children": [
-                      {
-                        "detail": 0,
-                        "format": 0,
-                        "mode": "normal",
-                        "style": "",
-                        "text": "To celebrate the opening of our brand new Stevenage restaurant, we're giving away 100 Margherita pizzas for collection between 11:30am -12:30pm on Monday 26th October 2026. Make sure you come early, we have a feeling they won't be around long!",
-                        "type": "text",
-                        "version": 1
-                      }
-                    ],
-                    "direction": "ltr",
-                    "format": "",
-                    "indent": 0,
-                    "type": "paragraph",
-                    "version": 1
-                  }
-                ],
-                "direction": "ltr",
-                "format": "",
-                "indent": 0,
-                "type": "root",
-                "version": 1
-              }
-            }
-          },
-          "image": {
-            "alternateText": "PizzaExpress Margherita",
-            "height": 500,
-            "url": "https://a.mktgcdn.com/p/hoAPBpXf4KH0APwjEJ6bpfiGSXmBYdvmywaT0mhYYzM/758x500.jpg",
-            "width": 758
-          },
-          "title": "Free Pizzas for Stevenage!"
-        }
-      ]
-    },
     "c_displayDescription": "Conveniently located in the heart of Stevenage Leisure Park, PizzaExpress Stevenage is the perfect place to come together with your loved ones. Whether between mini-golf, bowling or karaoke, we’re ready to treat you to a meal full of flavour – and flair. From rich pastas to fresh pizzas to our iconic Dough Balls, our Italian heritage shines through.",
     "c_displayName": "Stevenage Leisure Park",
     "c_facilitiesPfM": [
@@ -136516,7 +136466,7 @@
       "url": "https://a.mktgcdn.com/p/Zi-zLcxuQY-5dTModif8Sq9cSSJvVwGnv49lib5GBiU/829x680.jpg",
       "width": 829
     },
-    "c_googleMenuWebsiteOverride": "https://mobile-pay.pizzaexpress.com/stevenage-leisure-park/restaurant-menu/main-menu?utm_source=GMB&utm_medium=Menu&utm_campaign=GMB-MEN-3492",
+    "c_googleMenuWebsiteOverride": "https://www.pizzaexpress.com/restaurant-menu/stevenage-leisure-park?utm_source=GMB&utm_medium=Menu&utm_campaign=GMB-MEN-3492",
     "c_googleOrderWebsiteOverride": "https://order.pizzaexpress.com/collection/menu/3492?utm_source=GMB&utm_medium=Order&utm_campaign=GMB-ORD-3492",
     "c_googleReservationWebsiteOverride": "https://www.pizzaexpress.com/stevenage-leisure-park/book/book-a-table?utm_source=GMB&utm_medium=Reservation&utm_campaign=GMB-RES-3492",
     "c_menuDescription": "The home of the famous authentic Romana pizza. Made the Roman way for bigger flavour.",
@@ -136606,6 +136556,10 @@
     "closed": false,
     "deliveryUrl": "https://order.pizzaexpress.com/delivery",
     "description": "PizzaExpress Stevenage pizzeria is packed with pizzazz and only the freshest and perfectly sourced ingredients will do. Every dish is made with care - and flair. Discover seasonal showstoppers like Dynamite Dough Balls on our new summer menu.",
+    "displayCoordinate": {
+      "latitude": 51.899028825451396,
+      "longitude": -0.20886978546529544
+    },
     "facebookCoverPhoto": {
       "height": 443,
       "url": "http://a.mktgcdn.com/p/XwQTTcMWLSuaRB_wtFqyr_PnCyHQq_r7nnWFYeX-oJM/720x443.jpg",
@@ -136623,11 +136577,13 @@
       "longitude": -0.2098901
     },
     "googleAccountId": "107656944914058295004",
+    "googleCid": "4068202931243159979",
     "googleCoverPhoto": {
       "height": 997,
       "url": "https://a.mktgcdn.com/p/fj6hzXWlFVkKdJdPAe5iTi31w8wVJae9KAqnGcI9plw/1774x997.png",
       "width": 1774
     },
+    "googlePlaceId": "ChIJQY0qJuYxdkgRq5Hz_gIpdTg",
     "hours": {
       "friday": {
         "openIntervals": [
@@ -136733,9 +136689,9 @@
       "Dinner"
     ],
     "menuUrl": {
-      "displayUrl": "https://mobile-pay.pizzaexpress.com/stevenage-leisure-park/restaurant-menu/main-menu",
+      "displayUrl": "https://www.pizzaexpress.com/restaurant-menu/stevenage-leisure-park",
       "preferDisplayUrl": false,
-      "url": "https://mobile-pay.pizzaexpress.com/stevenage-leisure-park/restaurant-menu/main-menu?utm_source=GMB&utm_medium=Menu&utm_campaign=GMB-MEN-3492"
+      "url": "https://www.pizzaexpress.com/restaurant-menu/stevenage-leisure-park?utm_source=GMB&utm_medium=Menu&utm_campaign=GMB-MEN-3492"
     },
     "menus": {
       "label": "Summer Menu"
@@ -136818,6 +136774,10 @@
       "preferDisplayUrl": false,
       "url": "https://www.pizzaexpress.com/book?restaurantId=3492"
     },
+    "routableCoordinate": {
+      "latitude": 51.89920750896897,
+      "longitude": -0.20854130370484336
+    },
     "services": [
       "Reservation",
       "Delivery",
@@ -136838,18 +136798,18 @@
     "timezone": "Europe/London",
     "twitterHandle": "PizzaExpress",
     "websiteUrl": {
-      "displayUrl": "https://www.pizzaexpress.com/stevenage-leisure-park",
+      "displayUrl": "https://locations.pizzaexpress.com/stevenage-leisure-park",
       "preferDisplayUrl": false,
-      "url": "https://www.pizzaexpress.com/stevenage-leisure-park?utm_source=GMB&utm_medium=Website&utm_campaign=GMB-WEB-3492"
+      "url": "https://locations.pizzaexpress.com/stevenage-leisure-park?utm_source=GMB&utm_medium=Website&utm_campaign=GMB-WEB-3492"
     },
     "yearEstablished": 1965,
     "yextDisplayCoordinate": {
-      "latitude": 51.900764117067354,
-      "longitude": -0.2100740973129822
+      "latitude": 51.899028825451396,
+      "longitude": -0.20886978546529544
     },
     "yextRoutableCoordinate": {
-      "latitude": 51.8996643,
-      "longitude": -0.2083911
+      "latitude": 51.89920750896897,
+      "longitude": -0.20854130370484336
     },
     "youTubeChannelUrl": "https://www.youtube.com/user/PizzaExpressTube",
     "primaryCategory": "FoodEstablishment"
@@ -143254,8 +143214,6 @@
       "showUntil": "2030-05-31",
       "title": "Customer Information"
     },
-    "c_menuDescription": "The home of the famous authentic Romana pizza. Made the Roman way for bigger flavour.",
-    "c_menuTitle": "Our menu",
     "c_meta": {
       "description": "PizzaExpress on Brixton Road is perfect for pizza on the move. Close to Brixton Station and Brixton Academy, ideal for a quick bite before or after a gig.",
       "title": "Express‑Style Pizza, Eat in, Takeaway & Delivery, Brixton Road"
@@ -143360,7 +143318,7 @@
       "friday": {
         "openIntervals": [
           {
-            "end": "02:00",
+            "end": "01:00",
             "start": "11:00"
           }
         ]
@@ -143376,7 +143334,7 @@
       "saturday": {
         "openIntervals": [
           {
-            "end": "02:00",
+            "end": "01:00",
             "start": "11:00"
           }
         ]
@@ -143384,7 +143342,7 @@
       "sunday": {
         "openIntervals": [
           {
-            "end": "23:00",
+            "end": "23:30",
             "start": "11:00"
           }
         ]
@@ -143799,7 +143757,7 @@
       "monday": {
         "openIntervals": [
           {
-            "end": "23:00",
+            "end": "22:00",
             "start": "11:00"
           }
         ]
@@ -143815,7 +143773,7 @@
       "sunday": {
         "openIntervals": [
           {
-            "end": "23:00",
+            "end": "22:00",
             "start": "11:00"
           }
         ]
@@ -143823,7 +143781,7 @@
       "thursday": {
         "openIntervals": [
           {
-            "end": "23:00",
+            "end": "22:00",
             "start": "11:00"
           }
         ]
@@ -143831,7 +143789,7 @@
       "tuesday": {
         "openIntervals": [
           {
-            "end": "23:00",
+            "end": "22:00",
             "start": "11:00"
           }
         ]
@@ -143839,7 +143797,7 @@
       "wednesday": {
         "openIntervals": [
           {
-            "end": "23:00",
+            "end": "22:00",
             "start": "11:00"
           }
         ]
