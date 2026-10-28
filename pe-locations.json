@@ -143214,6 +143214,8 @@
       "showUntil": "2030-05-31",
       "title": "Customer Information"
     },
+    "c_menuDescription": "The home of the famous authentic Romana pizza. Made the Roman way for bigger flavour.",
+    "c_menuTitle": "Our menu",
     "c_meta": {
       "description": "PizzaExpress on Brixton Road is perfect for pizza on the move. Close to Brixton Station and Brixton Academy, ideal for a quick bite before or after a gig.",
       "title": "Express‑Style Pizza, Eat in, Takeaway & Delivery, Brixton Road"
@@ -143225,6 +143227,7 @@
         "collectionURL": "https://order.pizzaexpress.com/collection/menu/4402"
       }
     },
+    "c_pageMenu": "https://www.pizzaexpress.com/restaurant-menu/brixton-brixton-road",
     "c_pagesGallery": [
       {
         "alternateText": "PizzaExpress Brixton Road - Kiosk",
@@ -148301,6 +148304,12 @@
       }
     },
     "c_pageMenu": "https://www.pizzaexpress.com/restaurant-menu/twickenham-york-street",
+    "c_pageMenuImage": {
+      "alternateText": "PizzaExpress Menu",
+      "height": 747,
+      "url": "https://a.mktgcdn.com/p/qwLOcNk5ARzGTff9phKwut7O2xJAp_AdaLMBC1Y74v4/1000x747.webp",
+      "width": 1000
+    },
     "c_pagesGallery": [
       {
         "height": 680,
