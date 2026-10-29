@@ -41760,8 +41760,8 @@
       "url": "http://www.pizzaexpress.com/?utm_source=GMB-FTM"
     },
     "geocodedCoordinate": {
-      "latitude": 51.47321,
-      "longitude": -0.20806
+      "latitude": 51.4731903,
+      "longitude": -0.2078333
     },
     "googleAccountId": "107656944914058295004",
     "googleCid": "2898406793200963647",
@@ -117597,6 +117597,71 @@
         "name": "Easter Monday"
       }
     ],
+    "c_infoBanner": {
+      "colour": "Yellow",
+      "description": {
+        "html": "<p style=\"font-size: 14.67px; font-weight: 400; line-height: 18.67px; color: rgb(0, 0, 0); margin: 0; padding: 3px 2px 3px 2px; position: relative; text-align: center;\" dir=\"ltr\"><span>Our Manchester King Street pizzeria is permanently closing Saturday 31st October. The nearest open pizzeria will be our </span><a href=\"https://locations.pizzaexpress.com/manchester-corn-exchange\" rel=\"noopener\" style=\"color: rgb(33, 111, 219); text-decoration: none;\"><span>Manchester Corn Exchange</span></a><span> pizzeria.</span></p>",
+        "json": {
+          "root": {
+            "children": [
+              {
+                "children": [
+                  {
+                    "detail": 0,
+                    "format": 0,
+                    "mode": "normal",
+                    "style": "",
+                    "text": "Our Manchester King Street pizzeria is permanently closing Saturday 31st October. The nearest open pizzeria will be our ",
+                    "type": "text",
+                    "version": 1
+                  },
+                  {
+                    "children": [
+                      {
+                        "detail": 0,
+                        "format": 0,
+                        "mode": "normal",
+                        "style": "",
+                        "text": "Manchester Corn Exchange",
+                        "type": "text",
+                        "version": 1
+                      }
+                    ],
+                    "direction": "ltr",
+                    "format": "",
+                    "indent": 0,
+                    "rel": "noopener",
+                    "type": "link",
+                    "url": "https://locations.pizzaexpress.com/manchester-corn-exchange",
+                    "version": 1
+                  },
+                  {
+                    "detail": 0,
+                    "format": 0,
+                    "mode": "normal",
+                    "style": "",
+                    "text": " pizzeria.",
+                    "type": "text",
+                    "version": 1
+                  }
+                ],
+                "direction": "ltr",
+                "format": "center",
+                "indent": 0,
+                "type": "paragraph",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "root",
+            "version": 1
+          }
+        }
+      },
+      "title": "Customer Information"
+    },
     "c_menuDescription": "The home of the famous authentic Romana pizza. Made the Roman way for bigger flavour.",
     "c_menuTitle": "Our menu",
     "c_meta": {
@@ -136810,6 +136875,282 @@
     "yextRoutableCoordinate": {
       "latitude": 51.89920750896897,
       "longitude": -0.20854130370484336
+    },
+    "youTubeChannelUrl": "https://www.youtube.com/user/PizzaExpressTube",
+    "primaryCategory": "FoodEstablishment"
+  },
+  {
+    "acceptsReservations": true,
+    "address": {
+      "city": "Greenhithe",
+      "countryCode": "GB",
+      "line1": "PizzaExpress Unit EVL18 Wintergarden Bluewater",
+      "localizedCountryName": "United Kingdom",
+      "localizedRegionName": "Kent",
+      "postalCode": "DA9 9SF",
+      "region": "Kent",
+      "sublocality": "Dartford"
+    },
+    "addressHidden": false,
+    "androidAppUrl": "https://play.google.com/store/apps/details?id=com.pizzaexpress.appv2&hl=en_GB",
+    "attire": "Casual",
+    "brandReference": 2062845903,
+    "c_displayDescription": "TBC",
+    "c_displayName": "Wintergarden Bluewater Shopping Centre",
+    "c_googleMenuWebsiteOverride": "https://mobile-pay.pizzaexpress.com/wintergarden-bluewater-shopping-centre/restaurant-menu/main-menu?utm_source=GMB&utm_medium=Menu&utm_campaign=GMB-MEN-3493",
+    "c_googleOrderWebsiteOverride": "https://order.pizzaexpress.com/collection/menu/3493?utm_source=GMB&utm_medium=Order&utm_campaign=GMB-ORD-3493",
+    "c_googleReservationWebsiteOverride": "https://www.pizzaexpress.com/wintergarden-bluewater-shopping-centre/book/book-a-table?utm_source=GMB&utm_medium=Reservation&utm_campaign=GMB-RES-3493",
+    "c_menuDescription": "The home of the famous authentic Romana pizza. Made the Roman way for bigger flavour.",
+    "c_menuTitle": "Our menu",
+    "c_meta": {
+      "description": "Visit our restaurant in PizzaExpress Wintergarden Bluewater Shopping Centre when you fancy irresistible Italian food. Enjoy freshly made pizza, delicious dough balls and more.",
+      "title": "Italian Restaurant Wintergarden Bluewater Shopping Centre | PizzaExpress"
+    },
+    "c_ordering": {
+      "collection": {
+        "collectionAvailable": true,
+        "collectionURL": "https://order.pizzaexpress.com/collection/menu/3493"
+      },
+      "delivery": {
+        "pizzaExpressDelivery": {
+          "pizzaExpressDeliveryAvailable": true,
+          "pizzaExpressDeliveryURL": "https://order.pizzaexpress.com/delivery"
+        }
+      }
+    },
+    "c_pageMenu": "https://mobile-pay.pizzaexpress.com/wintergarden-bluewater-shopping-centre/restaurant-menu/main-menu",
+    "c_uniqueFooterLinks": [
+      {
+        "label": "Book a Table",
+        "link": "https://www.pizzaexpress.com/wintergarden-bluewater-shopping-centre/book",
+        "linkType": "URL"
+      },
+      {
+        "label": "Menu",
+        "link": "https://mobile-pay.pizzaexpress.com/wintergarden-bluewater-shopping-centre/restaurant-menu/main-menu",
+        "linkType": "URL"
+      },
+      {
+        "label": "Collection",
+        "link": "https://order.pizzaexpress.com/collection/menu/3493",
+        "linkType": "URL"
+      }
+    ],
+    "c_uniqueHeaderLinks": [
+      {
+        "label": "Book",
+        "link": "https://www.pizzaexpress.com/wintergarden-bluewater-shopping-centre/book",
+        "linkType": "URL"
+      },
+      {
+        "label": "Menu",
+        "link": "https://mobile-pay.pizzaexpress.com/wintergarden-bluewater-shopping-centre/restaurant-menu/main-menu",
+        "linkType": "URL"
+      },
+      {
+        "label": "Collection",
+        "link": "https://order.pizzaexpress.com/collection/menu/3493",
+        "linkType": "URL"
+      },
+      {
+        "label": "Kids",
+        "link": "https://www.pizzaexpress.com/wintergarden-bluewater-shopping-centre/kids",
+        "linkType": "URL"
+      },
+      {
+        "label": "Offers",
+        "link": "https://www.pizzaexpress.com/wintergarden-bluewater-shopping-centre/offers",
+        "linkType": "URL"
+      }
+    ],
+    "cityCoordinate": {
+      "latitude": 51.4502716064453,
+      "longitude": 0.278380006551743
+    },
+    "closed": false,
+    "deliveryUrl": "https://order.pizzaexpress.com/delivery",
+    "description": "PizzaExpress Greenhithe pizzeria is packed with pizzazz and only the freshest and perfectly sourced ingredients will do. Every dish is made with care - and flair. Discover seasonal showstoppers like Dynamite Dough Balls on our new summer menu.",
+    "facebookCoverPhoto": {
+      "height": 443,
+      "url": "http://a.mktgcdn.com/p/XwQTTcMWLSuaRB_wtFqyr_PnCyHQq_r7nnWFYeX-oJM/720x443.jpg",
+      "width": 720
+    },
+    "facebookPageUrl": "https://www.facebook.com/pizzaexpress",
+    "facebookParentPageId": "87279083138",
+    "facebookProfilePhoto": {
+      "height": 200,
+      "url": "http://a.mktgcdn.com/p/VW6HJPLu1dPbFraZTnAr0OPtijUSo4zGqasjkz9_Rf4/200x200.jpg",
+      "width": 200
+    },
+    "geocodedCoordinate": {
+      "latitude": 51.4392433,
+      "longitude": 0.2733087
+    },
+    "googleAccountId": "107656944914058295004",
+    "googleCoverPhoto": {
+      "height": 997,
+      "url": "https://a.mktgcdn.com/p/fj6hzXWlFVkKdJdPAe5iTi31w8wVJae9KAqnGcI9plw/1774x997.png",
+      "width": 1774
+    },
+    "id": "3493",
+    "instagramHandle": "PizzaExpress",
+    "iosAppUrl": "https://apps.apple.com/gb/app/pizzaexpress/id440565075",
+    "isoRegionCode": "KEN",
+    "keywords": [
+      "Vegan",
+      "Vegetarian",
+      "Gluten-Free",
+      "Pizza",
+      "Calzone",
+      "Healthy",
+      "Pizzazz",
+      "Italian",
+      "DoughBalls",
+      "Dough Balls",
+      "Pizzeria",
+      "Pizzerias",
+      "Restaurants",
+      "Restaurant",
+      "Pasta",
+      "Al Forno"
+    ],
+    "labels": [
+      "113183",
+      "134686",
+      "64024",
+      "264200"
+    ],
+    "languages": [
+      "English"
+    ],
+    "linkedInUrl": "https://www.linkedin.com/company/pizzaexpress",
+    "locale": "en-GB",
+    "logo": {
+      "image": {
+        "height": 700,
+        "url": "http://a.mktgcdn.com/p/wnvTXi2x7xmzKsiCAUQVMi14INp7xg14eaL5NQ4gaEY/700x700.png",
+        "width": 700
+      }
+    },
+    "mainPhone": "+441322427526",
+    "mealsServed": [
+      "Lunch",
+      "Dinner"
+    ],
+    "menuUrl": {
+      "displayUrl": "https://mobile-pay.pizzaexpress.com/wintergarden-bluewater-shopping-centre/restaurant-menu/main-menu",
+      "preferDisplayUrl": false,
+      "url": "https://mobile-pay.pizzaexpress.com/wintergarden-bluewater-shopping-centre/restaurant-menu/main-menu?utm_source=GMB&utm_medium=Menu&utm_campaign=GMB-MEN-3493"
+    },
+    "menus": {
+      "label": "Summer Menu"
+    },
+    "name": "PizzaExpress",
+    "orderUrl": {
+      "displayUrl": "https://order.pizzaexpress.com/collection/menu/3493",
+      "preferDisplayUrl": false,
+      "url": "https://order.pizzaexpress.com/collection/menu/3493?utm_source=GMB&utm_medium=Order&utm_campaign=GMB-ORD-3493"
+    },
+    "paymentOptions": [
+      "American Express",
+      "Google Pay",
+      "Apple Pay",
+      "Cash",
+      "MasterCard",
+      "Visa"
+    ],
+    "photoGallery": [
+      {
+        "description": "PizzaExpress Piccolo Meal",
+        "details": "PizzaExpress Piccolo Meal",
+        "image": {
+          "alternateText": "PizzaExpress Piccolo Meal",
+          "height": 7217,
+          "url": "https://a.mktgcdn.com/p/k2MKwjW-XqIwzS3MkZ5g7IsWORcs4-VI5yM2jjdJSQE/5518x7217.jpg",
+          "width": 5518
+        }
+      },
+      {
+        "description": "PizzaExpress American Hot & Peroni",
+        "details": "PizzaExpress American Hot & Peroni",
+        "image": {
+          "alternateText": "PizzaExpress American Hot & Peroni",
+          "height": 4866,
+          "url": "https://a.mktgcdn.com/p/0VO90rCweZg99-4pw9HoXglemlpdfQPITwntHEcjVLw/6961x4866.jpg",
+          "width": 6961
+        }
+      },
+      {
+        "description": "PizzaExpress Dough Balls",
+        "details": "PizzaExpress Dough Balls",
+        "image": {
+          "alternateText": "PizzaExpress Dough Balls",
+          "height": 7217,
+          "url": "https://a.mktgcdn.com/p/2jDtRBE4qWl_hkZFy8RMxoqzwQJWTGm22tMA7fO5vY8/5518x7217.jpg",
+          "width": 5518
+        }
+      },
+      {
+        "description": "PizzaExpress Dough",
+        "details": "PizzaExpress Dough",
+        "image": {
+          "alternateText": "PizzaExpress Dough",
+          "height": 1728,
+          "url": "https://a.mktgcdn.com/p/BQjfQjz4b6gS5TvwWwPRwlUvGYdQtFXcO5fYFhUNrCg/1152x1728.jpg",
+          "width": 1152
+        }
+      },
+      {
+        "description": "PizzaExpress Pollo Ad Astra",
+        "details": "PizzaExpress Pollo Ad Astra",
+        "image": {
+          "alternateText": "PizzaExpress Pollo Ad Astra",
+          "height": 4649,
+          "url": "https://a.mktgcdn.com/p/5aKw4vP-4I7JV4wDzQtq0wOMuYg8UHaca4jRXsiLlwY/6923x4649.jpg",
+          "width": 6923
+        }
+      }
+    ],
+    "pickupAndDeliveryServices": [
+      "In-Store Pickup",
+      "Curbside Pickup",
+      "Delivery",
+      "No-Contact Delivery"
+    ],
+    "priceRange": "$$",
+    "reservationUrl": {
+      "displayUrl": "https://www.pizzaexpress.com/wintergarden-bluewater-shopping-centre/book/book-a-table",
+      "preferDisplayUrl": false,
+      "url": "https://www.pizzaexpress.com/wintergarden-bluewater-shopping-centre/book/book-a-table"
+    },
+    "services": [
+      "Reservation",
+      "Delivery",
+      "Collection",
+      "Click & Collect",
+      "Dine-in",
+      "Takeaway"
+    ],
+    "slug": "wintergarden-bluewater-shopping-centre",
+    "specialities": [
+      "Pizza",
+      "Pasta",
+      "Dough Balls",
+      "Italian",
+      "Calzone"
+    ],
+    "tikTokUrl": "https://www.tiktok.com/@pizzaexpress",
+    "timezone": "Europe/London",
+    "twitterHandle": "PizzaExpress",
+    "websiteUrl": {
+      "displayUrl": "https://www.pizzaexpress.com/wintergarden-bluewater-shopping-centre",
+      "preferDisplayUrl": false,
+      "url": "https://www.pizzaexpress.com/wintergarden-bluewater-shopping-centre?utm_source=GMB&utm_medium=Website&utm_campaign=GMB-WEB-3493"
+    },
+    "yearEstablished": 1965,
+    "yextDisplayCoordinate": {
+      "latitude": 51.437436082158555,
+      "longitude": 0.2711665509669566
     },
     "youTubeChannelUrl": "https://www.youtube.com/user/PizzaExpressTube",
     "primaryCategory": "FoodEstablishment"
