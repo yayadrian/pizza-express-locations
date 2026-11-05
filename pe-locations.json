@@ -24756,7 +24756,7 @@
     "appleCompanyId": "1447521398695506944",
     "attire": "Casual",
     "brandReference": 2062845903,
-    "c_displayDescription": "We're only minutes from Pimlico tube station and really convenient for visiting the Tate Britain Gallery and the Thames. A favourite with locals  we provide a welcoming  relaxing dining experience. Come enjoy our artwork while you dine  inspired by author and illustrator Aubrey Beardsley  known for his art nouveau and poster styles. We also provide al fresco dining.",
+    "c_displayDescription": "Dine in style under artwork inspired by author and illustrator Aubrey Beardsley, or enjoy watching the world go by in our outdoor seating. Whether you’re taking a leisurely break from sightseeing or celebrating an occasion with family and friends, you can count on us for delicious pizzas, rich pasta dishes and iconic Dough Balls.",
     "c_displayName": "London Pimlico",
     "c_facebookWebsiteOverride": "https://www.pizzaexpress.com/pimlico?utm_source=GMB&utm_medium=Website&utm_campaign=GMB-WEB-1831-pimlico",
     "c_facilitiesPfM": [
@@ -24783,6 +24783,7 @@
     "c_googleMenuWebsiteOverride": "https://www.pizzaexpress.com/restaurant-menu/london-pimlico?utm_source=GMB&utm_medium=Menu&utm_campaign=GMB-MEN-london-pimlico",
     "c_googleOrderWebsiteOverride": "https://order.pizzaexpress.com/collection/menu/1831?utm_source=GMB&utm_medium=Order&utm_campaign=GMB-ORD-1831",
     "c_googleReservationWebsiteOverride": "https://www.pizzaexpress.com/book?restaurantId=1831&utm_source=GMB&utm_medium=Reservation&utm_campaign=GMB-RES-1831",
+    "c_heroSubcopy": "A local favourite not far from the banks of the River Thames, this is an Italian restaurant full of heart. Come for the culture. Stay for the Dough Balls.",
     "c_holidayNames": [
       {
         "date": "2026-04-06",
@@ -24828,6 +24829,14 @@
         "width": 829
       }
     ],
+    "c_promoDescription1": {
+      "html": "<p dir=\"ltr\" style=\"font-size: 14.67px; font-weight: 400; line-height: 18.67px; color: rgb(0, 0, 0); margin: 0; padding: 3px 2px 3px 2px; position: relative;\"><span>We’re based right around the corner from Pimlico Underground Station — just a 4-minute walk, to be exact. Nearby parking can be found at Q-Park Pimlico, which is an 11-minute walk away.  </span></p>"
+    },
+    "c_promoDescription2": {
+      "html": "<p dir=\"ltr\" style=\"font-size: 14.67px; font-weight: 400; line-height: 18.67px; color: rgb(0, 0, 0); margin: 0; padding: 3px 2px 3px 2px; position: relative;\"><span>We’re perfectly placed for a picturesque stroll down the Thames or a visit to the nearby Tate Britain — which is only a 12-minute walk away.  </span></p>"
+    },
+    "c_promoTitle1": "How to find us?",
+    "c_promoTitle2": "What's around?",
     "c_uniqueFooterLinks": [
       {
         "label": "Book a Table",
