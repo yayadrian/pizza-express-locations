@@ -16912,7 +16912,7 @@
     "appleCompanyId": "1447521398695506944",
     "attire": "Casual",
     "brandReference": 2062845905,
-    "c_displayDescription": "We're right next door to Stratford's Theatre Royal and the cinema. you'll find a bright  bustling restaurant that's really convenient for dining before or after a show or movie. On our walls we display artwork inspired by famous plays held at the Theatre Royal. We also have an outdoor dining area to enjoy the summer months.",
+    "c_displayDescription": "Hand-stretched pizza dough, rich pasta dishes and world-famous Dough Balls. All a stone’s throw away from one of London’s most vibrant cultural hubs. Dine in on delicious Italian food under artwork inspired by plays performed at the Theatre Royal, or soak in the sun in our outdoor dining area in the summer months.",
     "c_displayName": "Stratford East Theatre Square",
     "c_facebookWebsiteOverride": "https://www.pizzaexpress.com/stratford-theatre-square?utm_source=GMB&utm_medium=Website&utm_campaign=GMB-WEB-1561-stratford-theatre-square",
     "c_facilitiesPfM": [
@@ -16936,6 +16936,7 @@
     "c_googleMenuWebsiteOverride": "https://www.pizzaexpress.com/restaurant-menu/stratford-east-theatre-square?utm_source=GMB&utm_medium=Menu&utm_campaign=GMB-MEN-stratford-east-theatre-square",
     "c_googleOrderWebsiteOverride": "https://order.pizzaexpress.com/collection/menu/1561?utm_source=GMB&utm_medium=Order&utm_campaign=GMB-ORD-1561",
     "c_googleReservationWebsiteOverride": "https://www.pizzaexpress.com/book?restaurantId=1561&utm_source=GMB&utm_medium=Reservation&utm_campaign=GMB-RES-1561",
+    "c_heroSubcopy": "An Italian restaurant full of character, right on the doorstep of the world-famous Theatre Royal. The stage is set for a meal to remember.",
     "c_holidayNames": [
       {
         "date": "2026-04-06",
@@ -16980,6 +16981,14 @@
         "width": 829
       }
     ],
+    "c_promoDescription1": {
+      "html": "<p dir=\"ltr\" style=\"font-size: 14.67px; font-weight: 400; line-height: 18.67px; color: rgb(0, 0, 0); margin: 0; padding: 3px 2px 3px 2px; position: relative;\"><span>We’re based right at the heart of the action — and just a 4-minute walk from Stratford Station. If you’re driving in, you can find parking just a 6-minute walk away at Stratford Multi-Storey Car Park. </span></p>"
+    },
+    "c_promoDescription2": {
+      "html": "<p dir=\"ltr\" style=\"font-size: 14.67px; font-weight: 400; line-height: 18.67px; color: rgb(0, 0, 0); margin: 0; padding: 3px 2px 3px 2px; position: relative;\"><span>Just moments from Theatre Royal Stratford East, Stratford Picturehouse and Stratford Shopping Centre, we’re perfectly placed for a pre-theatre meal or a well-earned treat after a day of shopping. We’re also just an 8-minute walk from Westfield Stratford City and Queen Elizabeth Olympic Park. One thing’s for certain — you’ll never be bored.   </span></p>"
+    },
+    "c_promoTitle1": "How to find us?",
+    "c_promoTitle2": "What's around?",
     "c_uniqueFooterLinks": [
       {
         "label": "Book a Table",
@@ -62046,7 +62055,7 @@
     "appleCompanyId": "1447521398695506944",
     "attire": "Casual",
     "brandReference": 2062845905,
-    "c_displayDescription": "Ideally situated for the Tate Britain  Westminster Abbey and the Houses of Parliament  We're on Millbank  just opposite Millbank Pier. Come enjoy our modern  high ceilinged and glass-walled venue , ideal for a quick lunch  after-work dinner or as a leisurely break from sightseeing. In warmer weather you can also enjoy your pizza in our al fresco dinning.",
+    "c_displayDescription": "High ceilings. Hand-stretched dough. Al fresco dining when the London fog lifts. It doesn’t get much better than that. Whether you’re in need of a leisurely break from sightseeing, a quick lunch or a well-earned after work dinner, our marble tables are set.",
     "c_displayName": "London Millbank",
     "c_facebookWebsiteOverride": "https://www.pizzaexpress.com/millbank?utm_source=GMB&utm_medium=Website&utm_campaign=GMB-WEB-3210-millbank",
     "c_facilitiesPfM": [
@@ -62070,6 +62079,7 @@
     "c_googleMenuWebsiteOverride": "https://www.pizzaexpress.com/restaurant-menu/london-millbank?utm_source=GMB&utm_medium=Menu&utm_campaign=GMB-MEN-london-millbank",
     "c_googleOrderWebsiteOverride": "https://order.pizzaexpress.com/collection/menu/3210?utm_source=GMB&utm_medium=Order&utm_campaign=GMB-ORD-3210",
     "c_googleReservationWebsiteOverride": "https://www.pizzaexpress.com/book?restaurantId=3210&utm_source=GMB&utm_medium=Reservation&utm_campaign=GMB-RES-3210",
+    "c_heroSubcopy": "Based on the banks of the River Thames, close to the Tate Britain and some of London’s most picturesque sights, you’ll find us crafting delicious Italian food — from classic pizzas to our iconic Dough Balls to pasta dishes that would make an Italian Nonna jealous.",
     "c_holidayNames": [
       {
         "date": "2026-04-06",
@@ -62114,6 +62124,14 @@
         "width": 829
       }
     ],
+    "c_promoDescription1": {
+      "html": "<p dir=\"ltr\" style=\"font-size: 14.67px; font-weight: 400; line-height: 18.67px; color: rgb(0, 0, 0); margin: 0; padding: 3px 2px 3px 2px; position: relative;\"><span>Nearby transport links include Westminster, St James’s Park and Pimlico Underground Stations — each are a 12-minute walk away.  </span></p>"
+    },
+    "c_promoDescription2": {
+      "html": "<p dir=\"ltr\" style=\"font-size: 14.67px; font-weight: 400; line-height: 18.67px; color: rgb(0, 0, 0); margin: 0; padding: 3px 2px 3px 2px; position: relative;\"><span>Just moments from the world-famous Tate Britain, and a 13-minute walk from Westminster Abbey, the Houses of Parliament and Big Ben, we couldn’t be closer to the action. If you’re on your best behaviour, you can even take a stroll past the MI5 building next door.  </span></p>"
+    },
+    "c_promoTitle1": "How to find us?",
+    "c_promoTitle2": "What's around?",
     "c_uniqueFooterLinks": [
       {
         "label": "Book a Table",
@@ -99610,42 +99628,6 @@
         "name": "Easter Monday"
       }
     ],
-    "c_infoBanner": {
-      "colour": "Yellow",
-      "description": {
-        "html": "<p style=\"font-size: 14.67px; font-weight: 400; line-height: 18.67px; color: rgb(0, 0, 0); margin: 0; padding: 3px 2px 3px 2px; position: relative; text-align: center;\" dir=\"ltr\"><span>Please note, we’re closed for refurbishment from Monday 26th October to Friday 6th November to give this pizzeria some pizzazz.</span></p>",
-        "json": {
-          "root": {
-            "children": [
-              {
-                "children": [
-                  {
-                    "detail": 0,
-                    "format": 0,
-                    "mode": "normal",
-                    "style": "",
-                    "text": "Please note, we’re closed for refurbishment from Monday 26th October to Friday 6th November to give this pizzeria some pizzazz.",
-                    "type": "text",
-                    "version": 1
-                  }
-                ],
-                "direction": "ltr",
-                "format": "center",
-                "indent": 0,
-                "type": "paragraph",
-                "version": 1
-              }
-            ],
-            "direction": "ltr",
-            "format": "",
-            "indent": 0,
-            "type": "root",
-            "version": 1
-          }
-        }
-      },
-      "title": "Booking information"
-    },
     "c_menuDescription": "The home of the famous authentic Romana pizza. Made the Roman way for bigger flavour.",
     "c_menuTitle": "Our menu",
     "c_meta": {
@@ -106287,7 +106269,7 @@
     "appleCompanyId": "1447521398695506944",
     "attire": "Casual",
     "brandReference": 2062845903,
-    "c_displayDescription": "Step off the high street into our warm and inviting restaurant in New Malden. Notable features include walnut panels inspired by the abstract artist and sculptor Anthony Caro  who was born in the town.",
+    "c_displayDescription": "Seven days a week, you can find us hand-stretching dough at the heart of New Malden’s vibrant High Street. Think world-famous pizzas, iconic Dough Balls and pasta dishes influenced by our rich Italian heritage. Featuring walnut panels inspired by local-born artist and sculptor Anthony Caro, our restaurant is perfect for every occasion in your calendar — whether you’re lunching in style, dressing up for date night, or catching up with friends.",
     "c_displayName": "New Malden High Street",
     "c_facebookWebsiteOverride": "https://www.pizzaexpress.com/new-malden-high-street?utm_source=GMB&utm_medium=Website&utm_campaign=GMB-WEB-3376-new-malden",
     "c_facilitiesPfM": [
@@ -106309,6 +106291,7 @@
     "c_googleMenuWebsiteOverride": "https://www.pizzaexpress.com/restaurant-menu/new-malden-high-street?utm_source=GMB&utm_medium=Menu&utm_campaign=GMB-MEN-new-malden-high-street",
     "c_googleOrderWebsiteOverride": "https://order.pizzaexpress.com/collection/menu/3376?utm_source=GMB&utm_medium=Order&utm_campaign=GMB-ORD-3376",
     "c_googleReservationWebsiteOverride": "https://www.pizzaexpress.com/book?restaurantId=3376&utm_source=GMB&utm_medium=Reservation&utm_campaign=GMB-RES-3376",
+    "c_heroSubcopy": "A restaurant full of character fit for an area full of character.",
     "c_holidayNames": [
       {
         "date": "2026-04-06",
@@ -106353,6 +106336,14 @@
         "width": 829
       }
     ],
+    "c_promoDescription1": {
+      "html": "<p dir=\"ltr\" style=\"font-size: 14.67px; font-weight: 400; line-height: 18.67px; color: rgb(0, 0, 0); margin: 0; padding: 3px 2px 3px 2px; position: relative;\"><span>Getting here couldn’t be easier. You can find us just a 5-minute walk from New Malden Station, or a 3-minute walk from Blagdon Road Car Park.  </span></p>"
+    },
+    "c_promoDescription2": {
+      "html": "<p dir=\"ltr\" style=\"font-size: 14.67px; font-weight: 400; line-height: 18.67px; color: rgb(0, 0, 0); margin: 0; padding: 3px 2px 3px 2px; position: relative;\"><span>We’re also only a stone’s throw from local landmarks like Beverly Park and Malden Golf Club, so spend some time soaking in the area’s unique cultural heritage or head to nearby Wimbledon or Richmond Park for a slice of iconic London. </span></p>"
+    },
+    "c_promoTitle1": "How to find us?",
+    "c_promoTitle2": "What's around?",
     "c_uniqueFooterLinks": [
       {
         "label": "Book a Table",
@@ -113235,7 +113226,7 @@
     "appleCompanyId": "1447521398695506944",
     "attire": "Casual",
     "brandReference": 2062845903,
-    "c_displayDescription": "Come join us to refuel after a busy day shopping  before a trip to the cinema , or simply for a treat. you'll find We're a modern  stylish venue serving up your PizzaExpress favourites and some new offerings from our latest menu.",
+    "c_displayDescription": "Whether you’re taking a well-earned break after a busy day of shopping or popping in for a pre-cinema treat, dine-in in style on all your PizzaExpress favourites — from classic pizzas to rich pasta dishes to our iconic Dough Balls.",
     "c_displayName": "Hatfield Galleria Shopping Outlet",
     "c_facebookWebsiteOverride": "https://www.pizzaexpress.com/hatfield?utm_source=GMB&utm_medium=Website&utm_campaign=GMB-WEB-3399-hatfield",
     "c_facilitiesPfM": [
@@ -113255,6 +113246,7 @@
     "c_googleMenuWebsiteOverride": "https://www.pizzaexpress.com/restaurant-menu/hatfield-galleria-shopping-outlet?utm_source=GMB&utm_medium=Menu&utm_campaign=GMB-MEN-hatfield-galleria-shopping-outlet",
     "c_googleOrderWebsiteOverride": "https://order.pizzaexpress.com/collection/menu/3399?utm_source=GMB&utm_medium=Order&utm_campaign=GMB-ORD-3399",
     "c_googleReservationWebsiteOverride": "https://www.pizzaexpress.com/book?restaurantId=3399&utm_source=GMB&utm_medium=Reservation&utm_campaign=GMB-RES-3399",
+    "c_heroSubcopy": "Delicious Italian food fit for every occasion in your calendar. Seven days a week, you can find us hand-stretching dough at the heart of Hatfield’s bustling Shopping Centre.",
     "c_holidayNames": [
       {
         "date": "2026-04-06",
@@ -113299,6 +113291,14 @@
         "width": 829
       }
     ],
+    "c_promoDescription1": {
+      "html": "<p dir=\"ltr\" style=\"font-size: 14.67px; font-weight: 400; line-height: 18.67px; color: rgb(0, 0, 0); margin: 0; padding: 3px 2px 3px 2px; position: relative;\"><span>We’re located in the Galleria Outlet Shopping Centre, close to Hatfield town centre. Convenient parking can be found on-site at The Galleria Car Park, just a short walk from the restaurant. </span></p>"
+    },
+    "c_promoDescription2": {
+      "html": "<p dir=\"ltr\" style=\"font-size: 14.67px; font-weight: 400; line-height: 18.67px; color: rgb(0, 0, 0); margin: 0; padding: 3px 2px 3px 2px; position: relative;\"><span>We’re surrounded by a huge range of activities for the whole family. Catch a movie at the Odeon cinema, browse the shops or let the kids go wild in the adventure playground — all under one roof. </span></p>"
+    },
+    "c_promoTitle1": "How to find us",
+    "c_promoTitle2": "What's around?",
     "c_uniqueFooterLinks": [
       {
         "label": "Book a Table",
