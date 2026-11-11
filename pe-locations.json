@@ -153360,6 +153360,469 @@
   {
     "acceptsReservations": true,
     "address": {
+      "city": "London",
+      "countryCode": "GB",
+      "line1": "2 Brunswick Centre",
+      "localizedCountryName": "United Kingdom",
+      "localizedRegionName": "City of London",
+      "postalCode": "WC1N 1AE",
+      "region": "Greater London"
+    },
+    "addressHidden": false,
+    "androidAppUrl": "https://play.google.com/store/apps/details?id=com.pizzaexpress.appv2&hl=en_GB",
+    "appleCompanyId": "1447521398695506944",
+    "attire": "Casual",
+    "brandReference": 2062845903,
+    "c_displayDescription": "TBC",
+    "c_displayName": "London Brunswick Centre",
+    "c_facebookWebsiteOverride": "https://locations.pizzaexpress.com/london-brunswick-centre?utm_source=GMB&utm_medium=Website&utm_campaign=GMB-WEB-3495-london-brunswick-centre",
+    "c_facilitiesPfM": [
+      "Baby Facilities",
+      "Collection",
+      "Delivery",
+      "Pizza Making Parties",
+      "WiFi"
+    ],
+    "c_facilitiesPhotoPfm": {
+      "height": 680,
+      "url": "https://a.mktgcdn.com/p/Zi-zLcxuQY-5dTModif8Sq9cSSJvVwGnv49lib5GBiU/829x680.jpg",
+      "width": 829
+    },
+    "c_googleMenuWebsiteOverride": "https://www.pizzaexpress.com/restaurant-menu/london-brunswick-centre?utm_source=GMB&utm_medium=Menu&utm_campaign=GMB-MEN-3495",
+    "c_googleOrderWebsiteOverride": "https://order.pizzaexpress.com/collection/menu/3495?utm_source=GMB&utm_medium=Order&utm_campaign=GMB-ORD-3495",
+    "c_googleReservationWebsiteOverride": "https://www.pizzaexpress.com/book?restaurantId=3495?utm_source=GMB&utm_medium=Reservation&utm_campaign=GMB-RES-3495",
+    "c_holidayNames": [
+      {
+        "date": "2026-12-24",
+        "name": "Christmas Eve"
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Christmas Day"
+      },
+      {
+        "date": "2026-12-26",
+        "name": "Boxing Day"
+      },
+      {
+        "date": "2026-12-31",
+        "name": "New Year's Eve"
+      },
+      {
+        "date": "2027-01-01",
+        "name": "New Year's Day"
+      }
+    ],
+    "c_infoBanner": {
+      "colour": "Yellow",
+      "description": {
+        "html": "<p dir=\"ltr\" style=\"font-size: 14.67px; font-weight: 400; line-height: 18.67px; color: rgb(0, 0, 0); margin: 0; padding: 3px 2px 3px 2px; position: relative;\"><span>We are opening in the Brunswick Centre soon. Keep an eye for updates.</span></p>",
+        "json": {
+          "root": {
+            "children": [
+              {
+                "children": [
+                  {
+                    "detail": 0,
+                    "format": 0,
+                    "mode": "normal",
+                    "style": "",
+                    "text": "We are opening in the Brunswick Centre soon. Keep an eye for updates.",
+                    "type": "text",
+                    "version": 1
+                  }
+                ],
+                "direction": "ltr",
+                "format": "",
+                "indent": 0,
+                "type": "paragraph",
+                "version": 1
+              }
+            ],
+            "direction": "ltr",
+            "format": "",
+            "indent": 0,
+            "type": "root",
+            "version": 1
+          }
+        }
+      },
+      "title": "Coming soon..."
+    },
+    "c_menuDescription": "The home of the famous authentic Romana pizza. Made the Roman way for bigger flavour.",
+    "c_menuTitle": "Our menu",
+    "c_meta": {
+      "description": "Visit our restaurant in PizzaExpress London Brunswick Centre when you fancy irresistible Italian food. Enjoy freshly made pizza, delicious dough balls and more.",
+      "title": "Italian Restaurant London Brunswick Centre | PizzaExpress"
+    },
+    "c_ordering": {
+      "collection": {
+        "collectionAvailable": true,
+        "collectionURL": "https://order.pizzaexpress.com/collection/menu/3495"
+      },
+      "delivery": {
+        "deliveroo": {
+          "deliverooAvailable": false
+        },
+        "justEat": {
+          "justEatAvailable": false
+        },
+        "pizzaExpressDelivery": {
+          "pizzaExpressDeliveryAvailable": true,
+          "pizzaExpressDeliveryURL": "https://order.pizzaexpress.com/delivery"
+        }
+      },
+      "uberEats": {
+        "uberEatsAvailable": false
+      }
+    },
+    "c_pageMenu": "https://www.pizzaexpress.com/restaurant-menu/london-brunswick-centre",
+    "c_pageMenuImage": {
+      "height": 466,
+      "url": "https://a.mktgcdn.com/p/pJa86ZmZ_DP8YKkWQ9DN_3lFvk8TD3MEKqUH_oa_6jw/786x466.png",
+      "width": 786
+    },
+    "c_pagesGallery": [
+      {
+        "height": 680,
+        "url": "https://a.mktgcdn.com/p/Zi-zLcxuQY-5dTModif8Sq9cSSJvVwGnv49lib5GBiU/829x680.jpg",
+        "width": 829
+      }
+    ],
+    "c_uniqueFooterLinks": [
+      {
+        "label": "Book a Table",
+        "link": "https://www.pizzaexpress.com/london-brunswick-centre/book",
+        "linkType": "URL"
+      },
+      {
+        "label": "Menu",
+        "link": "https://mobile-pay.pizzaexpress.com/london-brunswick-centre/restaurant-menu/main-menu",
+        "linkType": "URL"
+      },
+      {
+        "label": "Collection",
+        "link": "https://order.pizzaexpress.com/collection/menu/3495",
+        "linkType": "URL"
+      }
+    ],
+    "c_uniqueHeaderLinks": [
+      {
+        "label": "Book",
+        "link": "https://www.pizzaexpress.com/london-brunswick-centre/book",
+        "linkType": "URL"
+      },
+      {
+        "label": "Menu",
+        "link": "https://mobile-pay.pizzaexpress.com/london-brunswick-centre/restaurant-menu/main-menu",
+        "linkType": "URL"
+      },
+      {
+        "label": "Collection",
+        "link": "https://order.pizzaexpress.com/collection/menu/3495",
+        "linkType": "URL"
+      },
+      {
+        "label": "Kids",
+        "link": "https://www.pizzaexpress.com/london-brunswick-centre/kids",
+        "linkType": "URL"
+      },
+      {
+        "label": "Offers",
+        "link": "https://www.pizzaexpress.com/london-brunswick-centre/offers",
+        "linkType": "URL"
+      }
+    ],
+    "cityCoordinate": {
+      "latitude": 51.50642013549805,
+      "longitude": -0.12721000611782074
+    },
+    "closed": false,
+    "deliveryUrl": "https://order.pizzaexpress.com/delivery",
+    "description": "PizzaExpress London pizzeria is packed with pizzazz and only the freshest and perfectly sourced ingredients will do. Every dish is made with care - and flair. Discover seasonal showstoppers like Dynamite Dough Balls on our new summer menu.",
+    "displayCoordinate": {
+      "latitude": 51.52364872710974,
+      "longitude": -0.12353730052489853
+    },
+    "facebookCoverPhoto": {
+      "height": 443,
+      "url": "http://a.mktgcdn.com/p/XwQTTcMWLSuaRB_wtFqyr_PnCyHQq_r7nnWFYeX-oJM/720x443.jpg",
+      "width": 720
+    },
+    "facebookPageUrl": "https://www.facebook.com/1442598985607629",
+    "facebookParentPageId": "87279083138",
+    "facebookProfilePhoto": {
+      "height": 200,
+      "url": "http://a.mktgcdn.com/p/VW6HJPLu1dPbFraZTnAr0OPtijUSo4zGqasjkz9_Rf4/200x200.jpg",
+      "width": 200
+    },
+    "facebookWebsiteOverride": "https://locations.pizzaexpress.com/london-brunswick-centre?utm_source=GMB&utm_medium=Website&utm_campaign=GMB-WEB-3495-london-brunswick-centre",
+    "geocodedCoordinate": {
+      "latitude": 51.5238323,
+      "longitude": -0.1240952
+    },
+    "googleAccountId": "107656944914058295004",
+    "googleCoverPhoto": {
+      "height": 997,
+      "url": "https://a.mktgcdn.com/p/fj6hzXWlFVkKdJdPAe5iTi31w8wVJae9KAqnGcI9plw/1774x997.png",
+      "width": 1774
+    },
+    "googleWebsiteOverride": "https://locations.pizzaexpress.com/london-brunswick-centre?utm_source=GMB&utm_medium=Website&utm_campaign=GMB-WEB-3495",
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "23:00",
+            "start": "11:30"
+          }
+        ]
+      },
+      "holidayHours": [
+        {
+          "date": "2026-12-24",
+          "isClosed": true
+        },
+        {
+          "date": "2026-12-25",
+          "isClosed": true
+        },
+        {
+          "date": "2026-12-26",
+          "isClosed": true
+        },
+        {
+          "date": "2026-12-31",
+          "isClosed": true
+        },
+        {
+          "date": "2027-01-01",
+          "isClosed": true
+        }
+      ],
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "22:00",
+            "start": "11:30"
+          }
+        ]
+      },
+      "reopenDate": "2026-12-03",
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "23:00",
+            "start": "11:30"
+          }
+        ]
+      },
+      "sunday": {
+        "openIntervals": [
+          {
+            "end": "22:00",
+            "start": "11:30"
+          }
+        ]
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "22:30",
+            "start": "11:30"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "22:00",
+            "start": "11:30"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "22:30",
+            "start": "11:30"
+          }
+        ]
+      }
+    },
+    "id": "3495",
+    "instagramHandle": "PizzaExpress",
+    "iosAppUrl": "https://apps.apple.com/gb/app/pizzaexpress/id440565075",
+    "isoRegionCode": "LND",
+    "keywords": [
+      "Vegan",
+      "Vegetarian",
+      "Gluten-Free",
+      "Pizza",
+      "Calzone",
+      "Healthy",
+      "Pizzazz",
+      "Italian",
+      "DoughBalls",
+      "Dough Balls",
+      "Pizzeria",
+      "Pizzerias",
+      "Restaurants",
+      "Restaurant",
+      "Pasta",
+      "Al Forno"
+    ],
+    "labels": [
+      "113183",
+      "134686",
+      "64024",
+      "264200"
+    ],
+    "languages": [
+      "English"
+    ],
+    "linkedInUrl": "https://www.linkedin.com/company/pizzaexpress",
+    "locale": "en-GB",
+    "logo": {
+      "image": {
+        "height": 700,
+        "url": "http://a.mktgcdn.com/p/wnvTXi2x7xmzKsiCAUQVMi14INp7xg14eaL5NQ4gaEY/700x700.png",
+        "width": 700
+      }
+    },
+    "mainPhone": "+442081044060",
+    "mealsServed": [
+      "Lunch",
+      "Dinner"
+    ],
+    "menuUrl": {
+      "displayUrl": "https://www.pizzaexpress.com/restaurant-menu/london-brunswick-centre",
+      "preferDisplayUrl": false,
+      "url": "https://www.pizzaexpress.com/restaurant-menu/london-brunswick-centre"
+    },
+    "menus": {
+      "label": "Summer Menu"
+    },
+    "name": "PizzaExpress",
+    "orderUrl": {
+      "displayUrl": "https://order.pizzaexpress.com/collection/menu/3495",
+      "preferDisplayUrl": false,
+      "url": "https://order.pizzaexpress.com/collection/menu/3495"
+    },
+    "paymentOptions": [
+      "American Express",
+      "Google Pay",
+      "Apple Pay",
+      "Cash",
+      "MasterCard",
+      "Visa"
+    ],
+    "photoGallery": [
+      {
+        "description": "PizzaExpress Piccolo Meal",
+        "details": "PizzaExpress Piccolo Meal",
+        "image": {
+          "alternateText": "PizzaExpress Piccolo Meal",
+          "height": 7217,
+          "url": "https://a.mktgcdn.com/p/k2MKwjW-XqIwzS3MkZ5g7IsWORcs4-VI5yM2jjdJSQE/5518x7217.jpg",
+          "width": 5518
+        }
+      },
+      {
+        "description": "PizzaExpress American Hot & Peroni",
+        "details": "PizzaExpress American Hot & Peroni",
+        "image": {
+          "alternateText": "PizzaExpress American Hot & Peroni",
+          "height": 4866,
+          "url": "https://a.mktgcdn.com/p/0VO90rCweZg99-4pw9HoXglemlpdfQPITwntHEcjVLw/6961x4866.jpg",
+          "width": 6961
+        }
+      },
+      {
+        "description": "PizzaExpress Dough Balls",
+        "details": "PizzaExpress Dough Balls",
+        "image": {
+          "alternateText": "PizzaExpress Dough Balls",
+          "height": 7217,
+          "url": "https://a.mktgcdn.com/p/2jDtRBE4qWl_hkZFy8RMxoqzwQJWTGm22tMA7fO5vY8/5518x7217.jpg",
+          "width": 5518
+        }
+      },
+      {
+        "description": "PizzaExpress Dough",
+        "details": "PizzaExpress Dough",
+        "image": {
+          "alternateText": "PizzaExpress Dough",
+          "height": 1728,
+          "url": "https://a.mktgcdn.com/p/BQjfQjz4b6gS5TvwWwPRwlUvGYdQtFXcO5fYFhUNrCg/1152x1728.jpg",
+          "width": 1152
+        }
+      },
+      {
+        "description": "PizzaExpress Pollo Ad Astra",
+        "details": "PizzaExpress Pollo Ad Astra",
+        "image": {
+          "alternateText": "PizzaExpress Pollo Ad Astra",
+          "height": 4649,
+          "url": "https://a.mktgcdn.com/p/5aKw4vP-4I7JV4wDzQtq0wOMuYg8UHaca4jRXsiLlwY/6923x4649.jpg",
+          "width": 6923
+        }
+      }
+    ],
+    "pickupAndDeliveryServices": [
+      "In-Store Pickup",
+      "Curbside Pickup",
+      "Delivery",
+      "No-Contact Delivery"
+    ],
+    "priceRange": "$$",
+    "reservationUrl": {
+      "displayUrl": "https://www.pizzaexpress.com/book?restaurantId=3495",
+      "preferDisplayUrl": false,
+      "url": "https://www.pizzaexpress.com/book?restaurantId=3495"
+    },
+    "routableCoordinate": {
+      "latitude": 51.5239762,
+      "longitude": -0.1235831
+    },
+    "services": [
+      "Reservation",
+      "Delivery",
+      "Collection",
+      "Click & Collect",
+      "Dine-in",
+      "Takeaway"
+    ],
+    "slug": "london-brunswick-centre",
+    "specialities": [
+      "Pizza",
+      "Pasta",
+      "Dough Balls",
+      "Italian",
+      "Calzone"
+    ],
+    "tikTokUrl": "https://www.tiktok.com/@pizzaexpress",
+    "timezone": "Europe/London",
+    "twitterHandle": "PizzaExpress",
+    "websiteUrl": {
+      "displayUrl": "https://locations.pizzaexpress.com/london-brunswick-centre",
+      "preferDisplayUrl": false,
+      "url": "https://locations.pizzaexpress.com/london-brunswick-centre"
+    },
+    "yearEstablished": 1965,
+    "yextDisplayCoordinate": {
+      "latitude": 51.52364872710974,
+      "longitude": -0.12353730052489853
+    },
+    "yextRoutableCoordinate": {
+      "latitude": 51.5239762,
+      "longitude": -0.1235831
+    },
+    "youTubeChannelUrl": "https://www.youtube.com/user/PizzaExpressTube",
+    "primaryCategory": "FoodEstablishment"
+  },
+  {
+    "acceptsReservations": true,
+    "address": {
       "city": "Bromley",
       "countryCode": "GB",
       "line1": "15 Widmore Road",
@@ -167642,9 +168105,9 @@
       "WiFi"
     ],
     "c_facilitiesPhotoPfm": {
-      "height": 680,
-      "url": "https://a.mktgcdn.com/p/yBQR2uzRh493SeKiKPDmJU3dm4Mkma0aOGpFZn7Hegg/829x680.png",
-      "width": 829
+      "height": 800,
+      "url": "https://a.mktgcdn.com/p/Ql4r998IExg3_NtUng8z5ieQxkdElfX5KrTEoNzFO98/1200x800.jpg",
+      "width": 1200
     },
     "c_gMB_labels": [
       "North Yorkshire",
@@ -167983,13 +168446,6 @@
       {
         "image": {
           "height": 800,
-          "url": "https://a.mktgcdn.com/p/yKPygTyBeHk0vvPSkTAmvLkgz0JEhjNr4Rba7Bxj0g4/1200x800.jpg",
-          "width": 1200
-        }
-      },
-      {
-        "image": {
-          "height": 800,
           "url": "https://a.mktgcdn.com/p/qGSz3Q8gThEQadyEoCtsqFLQpAWRr8Gbex-YEkmpnA8/1200x800.jpg",
           "width": 1200
         }
@@ -168085,6 +168541,15 @@
           "height": 1000,
           "url": "https://a.mktgcdn.com/p/gWVw47qXuYjDBBNCt96Erl285xBX3dKY4w99XLPcQng/1000x1000.jpg",
           "width": 1000
+        }
+      },
+      {
+        "description": "PizzaExpress York Interior",
+        "image": {
+          "alternateText": "PizzaExpress York Interior",
+          "height": 800,
+          "url": "https://a.mktgcdn.com/p/Ql4r998IExg3_NtUng8z5ieQxkdElfX5KrTEoNzFO98/1200x800.jpg",
+          "width": 1200
         }
       }
     ],
