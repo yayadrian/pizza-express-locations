@@ -124192,9 +124192,9 @@
     "c_pageMenu": "https://www.pizzaexpress.com/restaurant-menu/leighton-buzzard-market-square",
     "c_pagesGallery": [
       {
-        "height": 680,
-        "url": "https://a.mktgcdn.com/p/Qr1A_B-WVKgRsD9lsrhJ-CC1NPBsNejXC_WqfaOWioQ/829x680.png",
-        "width": 829
+        "height": 270,
+        "url": "https://a.mktgcdn.com/p/T_Yohkqxl2ZZjUyCVUv02B9EbP9ru34uxPTYwM4Qic0/360x270.jpg",
+        "width": 360
       }
     ],
     "c_uniqueFooterLinks": [
@@ -153457,8 +153457,7 @@
     },
     "c_ordering": {
       "collection": {
-        "collectionAvailable": true,
-        "collectionURL": "https://order.pizzaexpress.com/collection/menu/3495"
+        "collectionAvailable": false
       },
       "delivery": {
         "deliveroo": {
@@ -153468,8 +153467,7 @@
           "justEatAvailable": false
         },
         "pizzaExpressDelivery": {
-          "pizzaExpressDeliveryAvailable": true,
-          "pizzaExpressDeliveryURL": "https://order.pizzaexpress.com/delivery"
+          "pizzaExpressDeliveryAvailable": false
         }
       },
       "uberEats": {
@@ -153775,11 +153773,6 @@
       "No-Contact Delivery"
     ],
     "priceRange": "$$",
-    "reservationUrl": {
-      "displayUrl": "https://www.pizzaexpress.com/book?restaurantId=3495",
-      "preferDisplayUrl": false,
-      "url": "https://www.pizzaexpress.com/book?restaurantId=3495"
-    },
     "routableCoordinate": {
       "latitude": 51.5239762,
       "longitude": -0.1235831
