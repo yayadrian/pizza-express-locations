@@ -153415,13 +153415,15 @@
     "appleCompanyId": "1447521398695506944",
     "attire": "Casual",
     "brandReference": 2062845903,
-    "c_displayDescription": "TBC",
+    "c_displayDescription": "London Brunswick Centre",
     "c_displayName": "London Brunswick Centre",
     "c_facebookWebsiteOverride": "https://locations.pizzaexpress.com/london-brunswick-centre?utm_source=GMB&utm_medium=Website&utm_campaign=GMB-WEB-3495-london-brunswick-centre",
     "c_facilitiesPfM": [
       "Baby Facilities",
       "Collection",
       "Delivery",
+      "Disabled Access",
+      "Disabled Toilet",
       "Pizza Making Parties",
       "WiFi"
     ],
@@ -153619,28 +153621,6 @@
           }
         ]
       },
-      "holidayHours": [
-        {
-          "date": "2026-12-24",
-          "isClosed": true
-        },
-        {
-          "date": "2026-12-25",
-          "isClosed": true
-        },
-        {
-          "date": "2026-12-26",
-          "isClosed": true
-        },
-        {
-          "date": "2026-12-31",
-          "isClosed": true
-        },
-        {
-          "date": "2027-01-01",
-          "isClosed": true
-        }
-      ],
       "monday": {
         "openIntervals": [
           {
